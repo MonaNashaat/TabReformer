@@ -5,7 +5,7 @@ Error detection is a crucial preliminary phase in any data analytics pipeline. E
 
 <p></p>
 <p align="center">
-<img src="./images/tabreformer.jpg" align="center" width="500">
+<img src="./images/tabreformer.jpg" align="center" width="700">
 </p>
 <p></p>
 
