@@ -1,0 +1,2411 @@
+tid,cid,column,value,label
+0,4,abv,T0.05,1
+1,9,state,IN,-1
+2,5,ibu,,1
+3,4,abv,0.09,-1
+4,0,index,,1
+5,0,index,6,-1
+6,9,state,,1
+7,3,style,American Porter,-1
+8,3,style,aAmerican Pale Ale (APA),1
+9,5,ibu,,-1
+10,6,brewery_id,717,1
+11,7,brewery-name,18th Street Brewery,-1
+12,5,ibu,,1
+13,8,city,Gary,-1
+14,6,brewery_id,177W,1
+15,3,style,Cider,-1
+16,5,ibu,,1
+17,1,id,2169,-1
+18,9,state,wOR,1
+19,0,index,20,-1
+20,5,ibu,X,1
+21,5,ibu,92,-1
+22,9,state,AC,1
+23,0,index,24,-1
+24,5,ibu,42d,1
+25,3,style,Fruit / Vegetable Beer,-1
+26,2,beer-name,erH e  he 09lWnWt2gmraoh0H( a)toelil,1
+27,1,id,800,-1
+28,1,id,,1
+29,4,abv,0.07,-1
+30,6,brewery_id,368q,1
+31,1,id,531,-1
+32,2,beer-name,HiriCpsso ,1
+33,0,index,34,-1
+34,8,city,,1
+35,1,id,173,-1
+36,3,style,,1
+37,2,beer-name,Brew Free! or Die IPA,-1
+38,6,brewery_id,368Z,1
+39,5,ibu,82,-1
+40,7,brewery-name,,1
+41,6,brewery_id,67,-1
+42,6,brewery_id,60,1
+43,4,abv,0.045,-1
+44,3,style,American Brown Alev,1
+45,2,beer-name,Reprise Centennial Red,-1
+46,8,city,Saint LouisN,1
+47,8,city,Saint Louis,-1
+48,8,city,,1
+49,8,city,Saint Louis,-1
+50,4,abv,5.060,1
+51,0,index,52,-1
+52,4,abv,0.09s,1
+53,9,state,IN,-1
+54,4,abv,0.09l,1
+55,0,index,56,-1
+56,5,ibu,18O,1
+57,1,id,972,-1
+58,4,abv,0.054g,1
+59,9,state,WA,-1
+60,7,brewery-name,naSyear7pegCm soBw  ni,1
+61,0,index,62,-1
+62,2,beer-name,ZColorado Native,1
+63,0,index,64,-1
+64,2,beer-name,IAacJomPok ,1
+65,1,id,515,-1
+66,8,city,,1
+67,5,ibu,68,-1
+68,7,brewery-name,Against The Grain BreweryO,1
+69,9,state,KY,-1
+70,2,beer-name,lnLlgoBnion ad,1
+71,0,index,72,-1
+72,3,style,American Pale Ale (APA)P,1
+73,8,city,Louisville,-1
+74,1,id,2816,1
+75,9,state,KY,-1
+76,2,beer-name,Bo dylowohS,1
+77,5,ibu,68,-1
+78,5,ibu,,1
+79,9,state,KY,-1
+80,7,brewery-name,Against the Grain Breweryw,1
+81,5,ibu,20,-1
+82,1,id,G1594,1
+83,5,ibu,35,-1
+84,7,brewery-name,,1
+85,0,index,86,-1
+86,0,index,j87,1
+87,1,id,2401,-1
+88,9,state,AKn,1
+89,5,ibu,18,-1
+90,7,brewery-name,,1
+91,3,style,Kölsch,-1
+92,6,brewery_id,838,1
+93,8,city,Washougal,-1
+94,2,beer-name,imesaDna,1
+95,5,ibu,43,-1
+96,9,state,CAx,1
+97,2,beer-name,IPA,-1
+98,0,index,99,1
+99,9,state,CA,-1
+100,6,brewery_id,35l,1
+101,6,brewery_id,171,-1
+102,0,index,,1
+103,5,ibu,,-1
+104,9,state,eCA,1
+105,1,id,1520,-1
+106,5,ibu,4z,1
+107,9,state,CA,-1
+108,1,id,,1
+109,6,brewery_id,171,-1
+110,7,brewery-name,Anderson Valley Brewing Companyq,1
+111,8,city,Boonville,-1
+112,8,city,BoonvilleF,1
+113,9,state,CA,-1
+114,3,style,,1
+115,8,city,Boonville,-1
+116,7,brewery-name,Anderson Valley Brewing Companyk,1
+117,4,abv,0.056,-1
+118,6,brewery_id,117,1
+119,0,index,120,-1
+120,3,style,American Pale Ale (APA)Y,1
+121,3,style,Oatmeal Stout,-1
+122,7,brewery-name,RAngry Orchard Cider Company,1
+123,7,brewery-name,Angry Orchard Cider Company,-1
+124,9,state,,1
+125,9,state,OK,-1
+126,2,beer-name,raujnA,1
+127,4,abv,0.085,-1
+128,0,index,,1
+129,8,city,Boone,-1
+130,2,beer-name,Ptdk cro kreP(Go/ale rta/rBa l)o,1
+131,9,state,MI,-1
+132,2,beer-name,,1
+133,4,abv,0.052,-1
+134,1,id,3313,1
+135,0,index,136,-1
+136,2,beer-name,Mo's Gosen,1
+137,0,index,138,-1
+138,6,brewery_id,528M,1
+139,8,city,Asheville,-1
+140,2,beer-name,ISA Phavi,1
+141,3,style,Kölsch,-1
+142,5,ibu,,1
+143,9,state,WA,-1
+144,4,abv,,1
+145,6,brewery_id,523,-1
+146,8,city,WAstoria,1
+147,3,style,American Double / Imperial IPA,-1
+148,1,id,,1
+149,8,city,Astoria,-1
+150,5,ibu,,1
+151,2,beer-name,Vanilla Java Porter,-1
+152,3,style, teaF/Veegree  blBtiur,1
+153,2,beer-name,Dirty Blonde Ale,-1
+154,1,id,528a,1
+155,1,id,527,-1
+156,0,index,157m,1
+157,0,index,158,-1
+158,8,city,stuinA,1
+159,5,ibu,,-1
+160,1,id,043,1
+161,8,city,Boulder,-1
+162,3,style,Saison / Farmhouse Ales,1
+163,6,brewery_id,37,-1
+164,0,index,516,1
+165,4,abv,0.063,-1
+166,9,state,,1
+167,1,id,1620,-1
+168,4,abv,002.7,1
+169,9,state,NC,-1
+170,7,brewery-name,,1
+171,3,style,Tripel,-1
+172,6,brewery_id,036,1
+173,9,state,CT,-1
+174,1,id,,1
+175,4,abv,0.049,-1
+176,3,style,American IPAI,1
+177,3,style,American Amber / Red Ale,-1
+178,9,state,ALl,1
+179,2,beer-name,Naked Pig Pale Ale,-1
+180,4,abv,80.06,1
+181,6,brewery_id,483,-1
+182,1,id,,1
+183,2,beer-name,Even Keel,-1
+184,0,index,,1
+185,9,state,CA,-1
+186,4,abv,0.046C,1
+187,1,id,1018,-1
+188,3,style, S(Bx Bca)o /etieprtl SSa EtngrtEri,1
+189,4,abv,0.045,-1
+190,5,ibu,B45,1
+191,0,index,192,-1
+192,9,state,gAZ,1
+193,5,ibu,,-1
+194,0,index,z195,1
+195,9,state,OR,-1
+196,9,state,,1
+197,0,index,198,-1
+198,4,abv,,1
+199,1,id,1966,-1
+200,7,brewery-name,hBauhaus Brew Labs,1
+201,8,city,Minneapolis,-1
+202,8,city,dMinneapolis,1
+203,8,city,Lewiston,-1
+204,1,id,8771,1
+205,6,brewery_id,292,-1
+206,8,city,,1
+207,8,city,Lewiston,-1
+208,4,abv,A0.047,1
+209,0,index,210,-1
+210,0,index,121,1
+211,7,brewery-name,Baxter Brewing Company,-1
+212,7,brewery-name,Beach Brewing Companyx,1
+213,1,id,2435,-1
+214,3,style,American Pale Ale (APA)Z,1
+215,1,id,2420,-1
+216,3,style,eOther,1
+217,6,brewery_id,76,-1
+218,4,abv,j0.06,1
+219,6,brewery_id,76,-1
+220,1,id,9981,1
+221,6,brewery_id,76,-1
+222,6,brewery_id,N76,1
+223,4,abv,0.044,-1
+224,3,style,,1
+225,3,style,American Blonde Ale,-1
+226,0,index,,1
+227,4,abv,0.072,-1
+228,9,state,NM,1
+229,2,beer-name,Bent Hop Golden IPA,-1
+230,6,brewery_id,75C,1
+231,5,ibu,38,-1
+232,9,state,MA,1
+233,3,style,American Pale Ale (APA),-1
+234,9,state,TXh,1
+235,5,ibu,,-1
+236,4,abv,0.064p,1
+237,8,city,Alpine,-1
+238,1,id,1514,1
+239,0,index,240,-1
+240,1,id,g1762,1
+241,1,id,1422,-1
+242,8,city,BroomfieldU,1
+243,1,id,1003,-1
+244,9,state,AM,1
+245,3,style,Saison / Farmhouse Ale,-1
+246,8,city,IHolland,1
+247,9,state,MI,-1
+248,0,index,,1
+249,3,style,American IPA,-1
+250,4,abv,,1
+251,8,city,Chattanooga,-1
+252,3,style,American IPAv,1
+253,3,style,English Pale Ale,-1
+254,1,id,R1712,1
+255,1,id,1711,-1
+256,5,ibu,Z60,1
+257,4,abv,0.051,-1
+258,8,city,eMissoula,1
+259,6,brewery_id,336,-1
+260,0,index,216,1
+261,0,index,262,-1
+262,4,abv,z0.05,1
+263,5,ibu,26,-1
+264,7,brewery-name,gBig Storm Brewing Company,1
+265,2,beer-name,Wavemaker,-1
+266,2,beer-name,iJack Pine Savage,1
+267,3,style,Rye Beer,-1
+268,6,brewery_id,N444,1
+269,6,brewery_id,444,-1
+270,3,style,American IPAq,1
+271,4,abv,0.055,-1
+272,8,city,Hamiltong,1
+273,0,index,274,-1
+274,8,city,oHitmaln,1
+275,8,city,Indianapolis,-1
+276,5,ibu,16,1
+277,4,abv,0.075,-1
+278,8,city,UTemecula,1
+279,7,brewery-name,Black Market Brewing Company,-1
+280,9,state,OC,1
+281,4,abv,0.071,-1
+282,5,ibu,34A,1
+283,8,city,Denver,-1
+284,9,state,,1
+285,5,ibu,20,-1
+286,3,style,BeyreeR ,1
+287,8,city,Marquette,-1
+288,4,abv,u0.06,1
+289,6,brewery_id,12,-1
+290,9,state,MIZ,1
+291,7,brewery-name,Blackrocks Brewery,-1
+292,3,style,Cream Alea,1
+293,1,id,1564,-1
+294,1,id,,1
+295,6,brewery_id,380,-1
+296,7,brewery-name,  nlur pgelBanoeyBwmBiooCd,1
+297,6,brewery_id,380,-1
+298,7,brewery-name,Bo lneiuBpCwy emBdgrlnoo a,1
+299,0,index,300,-1
+300,6,brewery_id,803,1
+301,2,beer-name,1335 Wicked Snout,-1
+302,5,ibu,,1
+303,8,city,Lincoln,-1
+304,1,id,868,1
+305,5,ibu,37,-1
+306,2,beer-name,y pas8pl e 34HAA,1
+307,3,style,Mead,-1
+308,6,brewery_id,y422,1
+309,9,state,MA,-1
+310,3,style,,1
+311,3,style,Extra Special / Strong Bitter (ESB),-1
+312,6,brewery_id,,1
+313,8,city,Afton,-1
+314,9,state,VAy,1
+315,1,id,2490,-1
+316,7,brewery-name,,1
+317,4,abv,,-1
+318,0,index,,1
+319,6,brewery_id,489,-1
+320,6,brewery_id,489Q,1
+321,6,brewery_id,489,-1
+322,9,state,,1
+323,8,city,Midvale,-1
+324,6,brewery_id,364T,1
+325,0,index,326,-1
+326,4,abv,05.0,1
+327,3,style,Vienna Lager,-1
+328,1,id,1569P,1
+329,1,id,1568,-1
+330,2,beer-name,A k seBnrlwN oe'soo DdCule,1
+331,6,brewery_id,281,-1
+332,3,style,Irish Dry StoutV,1
+333,8,city,New York,-1
+334,4,abv,5.400,1
+335,0,index,336,-1
+336,9,state,yCO,1
+337,6,brewery_id,107,-1
+338,9,state,,1
+339,3,style,English India Pale Ale (IPA),-1
+340,6,brewery_id,N107,1
+341,3,style,American IPA,-1
+342,4,abv,0.047V,1
+343,5,ibu,,-1
+344,0,index,,1
+345,7,brewery-name,Bonfire Brewing Company,-1
+346,9,state,TCO,1
+347,7,brewery-name,Bonfire Brewing Company,-1
+348,8,city,elEag,1
+349,5,ibu,,-1
+350,2,beer-name,Demshitz Brown AleG,1
+351,7,brewery-name,Bonfire Brewing Company,-1
+352,7,brewery-name,BBonfire Brewing Company,1
+353,7,brewery-name,Bonfire Brewing Company,-1
+354,5,ibu,16L,1
+355,6,brewery_id,300,-1
+356,5,ibu,45j,1
+357,7,brewery-name,Boston Beer Company,-1
+358,4,abv,.0056,1
+359,2,beer-name,Boston Lager,-1
+360,9,state,,1
+361,4,abv,0.053,-1
+362,2,beer-name,,1
+363,1,id,1143,-1
+364,4,abv,F0.049,1
+365,5,ibu,35,-1
+366,3,style,American Pale Ale (APA)l,1
+367,9,state,MO,-1
+368,9,state,,1
+369,3,style,American IPA,-1
+370,9,state,PA,1
+371,6,brewery_id,219,-1
+372,7,brewery-name,,1
+373,5,ibu,80,-1
+374,5,ibu,j25,1
+375,3,style,American Amber / Red Ale,-1
+376,9,state,nTX,1
+377,1,id,2204,-1
+378,4,abv,Z0.042,1
+379,8,city,Denver,-1
+380,8,city,rDenver,1
+381,7,brewery-name,Breckenridge Brewery,-1
+382,0,index,383,1
+383,0,index,384,-1
+384,7,brewery-name,nrrB e usegBwiBw,1
+385,8,city,Tampa,-1
+386,8,city,PlainfieldQ,1
+387,9,state,MI,-1
+388,9,state,MIA,1
+389,4,abv,0.06,-1
+390,0,index,391,1
+391,6,brewery_id,10,-1
+392,2,beer-name,Beasts A'Burnin'q,1
+393,3,style,Bière de Garde,-1
+394,6,brewery_id,10,1
+395,9,state,MI,-1
+396,6,brewery_id,10a,1
+397,0,index,398,-1
+398,2,beer-name,Nuit Serpenty,1
+399,5,ibu,,-1
+400,0,index,041,1
+401,3,style,Saison / Farmhouse Ale,-1
+402,2,beer-name,Root StockV,1
+403,4,abv,0.041,-1
+404,7,brewery-name,Brewery Vivantu,1
+405,8,city,Grand Rapids,-1
+406,3,style,xBelgian Dark Ale,1
+407,1,id,2382,-1
+408,8,city,LGrand Rapids,1
+409,3,style,Witbier,-1
+410,8,city,Grand RapidsG,1
+411,0,index,412,-1
+412,8,city,disprand GRa,1
+413,6,brewery_id,10,-1
+414,9,state,MID,1
+415,5,ibu,,-1
+416,6,brewery_id,S10,1
+417,8,city,Grand Rapids,-1
+418,5,ibu,,1
+419,0,index,420,-1
+420,0,index,p421,1
+421,0,index,422,-1
+422,8,city,a iRGnpsdadr,1
+423,0,index,424,-1
+424,0,index,452,1
+425,4,abv,0.045,-1
+426,7,brewery-name,,1
+427,1,id,1947,-1
+428,2,beer-name,,1
+429,6,brewery_id,10,-1
+430,9,state,MIA,1
+431,6,brewery_id,10,-1
+432,3,style,,1
+433,3,style,Saison / Farmhouse Ale,-1
+434,4,abv,N0.082,1
+435,0,index,436,-1
+436,9,state,,1
+437,5,ibu,,-1
+438,4,abv,0.095E,1
+439,0,index,440,-1
+440,7,brewery-name,,1
+441,2,beer-name,Vivant Belgian Style Imperial Stout (2012),-1
+442,8,city,iRdnar Gpdsa,1
+443,6,brewery_id,10,-1
+444,1,id,,1
+445,0,index,446,-1
+446,0,index,447b,1
+447,4,abv,0.055,-1
+448,5,ibu,,1
+449,5,ibu,,-1
+450,5,ibu,f,1
+451,0,index,452,-1
+452,8,city,,1
+453,1,id,921,-1
+454,2,beer-name,Polar Pale AleR,1
+455,2,beer-name,Chugach Session Ale,-1
+456,1,id,846,1
+457,6,brewery_id,437,-1
+458,5,ibu,Q,1
+459,1,id,566,-1
+460,0,index,461,1
+461,7,brewery-name,Brooklyn Brewery,-1
+462,7,brewery-name,wn okBreoyrlerBy,1
+463,2,beer-name,Tour de Nez Belgian IPA (Current),-1
+464,8,city,onRe,1
+465,5,ibu,85,-1
+466,5,ibu,,1
+467,4,abv,0.062,-1
+468,4,abv,.5080,1
+469,1,id,26,-1
+470,4,abv,,1
+471,3,style,American Pale Ale (APA),-1
+472,5,ibu,40d,1
+473,6,brewery_id,214,-1
+474,6,brewery_id,Y214,1
+475,4,abv,0.065,-1
+476,6,brewery_id,24G,1
+477,0,index,478,-1
+478,0,index,479o,1
+479,1,id,2471,-1
+480,8,city,oMichigan City,1
+481,6,brewery_id,24,-1
+482,9,state,JIN,1
+483,6,brewery_id,24,-1
+484,5,ibu,,1
+485,0,index,486,-1
+486,8,city,SPortland,1
+487,2,beer-name,Mucho Aloha Hawaiian Pale Ale,-1
+488,5,ibu,U,1
+489,7,brewery-name,Butternuts Beer and Ale,-1
+490,1,id,B50,1
+491,5,ibu,,-1
+492,7,brewery-name,BCOAST Brewing Company,1
+493,3,style,American Brown Ale,-1
+494,7,brewery-name,S oC gryOanBpwACnmeiT,1
+495,2,beer-name,32°/50° Kölsch,-1
+496,5,ibu,m,1
+497,1,id,2652,-1
+498,4,abv,,1
+499,5,ibu,25,-1
+500,3,style,,1
+501,6,brewery_id,182,-1
+502,8,city,oCOlykm haati,1
+503,3,style,American Blonde Ale,-1
+504,2,beer-name,pni uPocK HnptyoIostArk,1
+505,1,id,1808,-1
+506,1,id,1419I,1
+507,1,id,878,-1
+508,3,style,,1
+509,3,style,American IPA,-1
+510,0,index,115,1
+511,9,state,OR,-1
+512,4,abv,0.056b,1
+513,8,city,Ashland,-1
+514,9,state,mOR,1
+515,2,beer-name,Caldera Pale Ale (2011),-1
+516,9,state,DOR,1
+517,5,ibu,94,-1
+518,7,brewery-name,OCambridge Brewing Company,1
+519,7,brewery-name,Cambridge Brewing Company,-1
+520,7,brewery-name,eCC naad r saatnBnne,1
+521,8,city,Charlotte,-1
+522,6,brewery_id,497e,1
+523,8,city,Charlotte,-1
+524,5,ibu,43,1
+525,0,index,526,-1
+526,8,city,eGloucester,1
+527,1,id,2065,-1
+528,2,beer-name,esBes'rhiwmF nar,1
+529,7,brewery-name,Cape Cod Beer,-1
+530,8,city,HyannisV,1
+531,7,brewery-name,Capital Brewery,-1
+532,8,city,,1
+533,0,index,534,-1
+534,9,state,,1
+535,4,abv,0.046,-1
+536,6,brewery_id,s192,1
+537,1,id,840,-1
+538,0,index,539P,1
+539,8,city,Middleton,-1
+540,8,city,oMiddleton,1
+541,7,brewery-name,Capital Brewery,-1
+542,0,index,u543,1
+543,5,ibu,,-1
+544,4,abv,0.035N,1
+545,2,beer-name,Santa's Secret,-1
+546,3,style,English India Pale Ale (IPA)v,1
+547,2,beer-name,Sky Blue Golden Ale,-1
+548,7,brewery-name,aptmr e iwnroBConaygCn,1
+549,4,abv,0.039,-1
+550,4,abv,T0.078,1
+551,5,ibu,35,-1
+552,8,city,bPortland,1
+553,0,index,554,-1
+554,5,ibu,,1
+555,3,style,American IPA,-1
+556,7,brewery-name,a wpnbiaCBontrewyaam gC,1
+557,2,beer-name,King Winterbolt Winter Ale,-1
+558,1,id,638I,1
+559,8,city,Morganton,-1
+560,9,state,,1
+561,9,state,OH,-1
+562,0,index,,1
+563,8,city,Morganton,-1
+564,6,brewery_id,x96,1
+565,1,id,2600,-1
+566,5,ibu,l,1
+567,6,brewery_id,29,-1
+568,7,brewery-name, rd erereBakCywrCee,1
+569,2,beer-name,Elliott's Phoned Home Pale Ale,-1
+570,2,beer-name,R nerahnegwT La,1
+571,7,brewery-name,Centennial Beer Company,-1
+572,3,style,,1
+573,9,state,VA,-1
+574,6,brewery_id,122,1
+575,2,beer-name,Main St. Virginia Ale,-1
+576,7,brewery-name,,1
+577,2,beer-name,Chai Ale,-1
+578,4,abv,Z0.072,1
+579,3,style,American Double / Imperial IPA,-1
+580,3,style,American Black AleG,1
+581,7,brewery-name,Champion Brewing Company,-1
+582,7,brewery-name,FChampion Brewing Company,1
+583,2,beer-name,Killer Kolsch,-1
+584,1,id,1933A,1
+585,4,abv,0.045,-1
+586,1,id,z2018,1
+587,6,brewery_id,250,-1
+588,9,state,bIN,1
+589,7,brewery-name,Chatham Brewing,-1
+590,4,abv,,1
+591,6,brewery_id,121,-1
+592,8,city,cCheboygan,1
+593,3,style,Altbier,-1
+594,2,beer-name,elf0B2Du( 4)gaoye bno 1A alI PB,1
+595,9,state,WA,-1
+596,6,brewery_id,254,1
+597,1,id,1341,-1
+598,5,ibu,,1
+599,8,city,Tampa,-1
+600,5,ibu,,1
+601,8,city,Tampa,-1
+602,3,style,,1
+603,1,id,2010,-1
+604,7,brewery-name,Cigar City Brewing Companys,1
+605,7,brewery-name,Cigar City Brewing Company,-1
+606,3,style,uAmerican IPA,1
+607,0,index,608,-1
+608,2,beer-name,lDry-Hopped On The High Seas Caribbean-Style IPA,1
+609,1,id,1693,-1
+610,3,style,American IPAm,1
+611,5,ibu,,-1
+612,7,brewery-name,oieiiamy yC gngprntB aCCwr,1
+613,2,beer-name,Humidor Series India Pale Ale,-1
+614,0,index,615e,1
+615,9,state,FL,-1
+616,9,state,DFL,1
+617,6,brewery_id,141,-1
+618,1,id,571z,1
+619,0,index,620,-1
+620,2,beer-name,,1
+621,2,beer-name,Jai Alai IPA,-1
+622,0,index,623y,1
+623,5,ibu,,-1
+624,0,index,,1
+625,9,state,MA,-1
+626,7,brewery-name,,1
+627,1,id,656,-1
+628,3,style,,1
+629,5,ibu,,-1
+630,8,city,nClaremont,1
+631,3,style,American Black Ale,-1
+632,1,id,893,1
+633,5,ibu,17,-1
+634,5,ibu,s55,1
+635,4,abv,0.046,-1
+636,6,brewery_id,x101,1
+637,2,beer-name,Hurricane Amber Ale (2004),-1
+638,3,style,tAmerican Amber / Red Ale,1
+639,2,beer-name,Big Blue Van,-1
+640,0,index,,1
+641,9,state,IA,-1
+642,3,style,ZAmerican Blonde Ale,1
+643,2,beer-name,Behemoth,-1
+644,8,city,Springdalen,1
+645,5,ibu,,-1
+646,8,city,,1
+647,1,id,737,-1
+648,4,abv,K0.05,1
+649,8,city,Greeley,-1
+650,8,city,,1
+651,8,city,Greeley,-1
+652,2,beer-name,tNeomexicanus Native,1
+653,2,beer-name,Old Soul,-1
+654,0,index,655i,1
+655,0,index,656,-1
+656,6,brewery_id,63Q,1
+657,7,brewery-name,Crazy Mountain Brewing Company,-1
+658,9,state,,1
+659,0,index,660,-1
+660,4,abv,l0.065,1
+661,9,state,GA,-1
+662,7,brewery-name,Cok inge eCBdnoereaomFcw yprn,1
+663,7,brewery-name,Crooked Fence Brewing Company,-1
+664,9,state,IDw,1
+665,2,beer-name,Red Water Irish Style Red,-1
+666,0,index,667i,1
+667,6,brewery_id,212,-1
+668,3,style,,1
+669,1,id,542,-1
+670,2,beer-name,Pile O'Dirt PorterS,1
+671,4,abv,0.06,-1
+672,0,index,673i,1
+673,3,style,Kölsch,-1
+674,5,ibu,,1
+675,7,brewery-name,Cutters Brewing Company,-1
+676,9,state,zIN,1
+677,4,abv,0.063,-1
+678,3,style,kEnglish Pale Ale,1
+679,0,index,680,-1
+680,4,abv,080.,1
+681,2,beer-name,The Tradition,-1
+682,4,abv,v0.053,1
+683,0,index,684,-1
+684,0,index,j685,1
+685,6,brewery_id,227,-1
+686,3,style,,1
+687,0,index,688,-1
+688,0,index,y689,1
+689,6,brewery_id,451,-1
+690,1,id,1632,1
+691,9,state,WI,-1
+692,7,brewery-name,wDavid's Ale Works,1
+693,3,style,American Pale Ale (APA),-1
+694,3,style,  ee rmcrdAenAab/mR Aile,1
+695,3,style,Euro Pale Lager,-1
+696,6,brewery_id,D127,1
+697,7,brewery-name,Deep Ellum Brewing Company,-1
+698,0,index,d699,1
+699,2,beer-name,Double Brown Stout,-1
+700,8,city,DallasC,1
+701,3,style,German Pilsener,-1
+702,9,state,TX,1
+703,3,style,American IPA,-1
+704,9,state,KSV,1
+705,3,style,English Pale Mild Ale,-1
+706,5,ibu,I55,1
+707,5,ibu,46,-1
+708,1,id,C947,1
+709,3,style,Irish Red Ale,-1
+710,9,state,COt,1
+711,2,beer-name,Graham Cracker Porter,-1
+712,8,city,BendF,1
+713,9,state,IL,-1
+714,9,state,ILY,1
+715,1,id,2025,-1
+716,7,brewery-name,DDestihl Brewery,1
+717,7,brewery-name,Destihl Brewery,-1
+718,7,brewery-name,gDestihl Brewery,1
+719,6,brewery_id,57,-1
+720,2,beer-name,,1
+721,7,brewery-name,Devil's Backbone Brewing Company,-1
+722,1,id,924S,1
+723,4,abv,,-1
+724,1,id,370,1
+725,4,abv,0.074,-1
+726,6,brewery_id,,1
+727,7,brewery-name,Dirty Bucket Brewing Company,-1
+728,5,ibu,,1
+729,6,brewery_id,531,-1
+730,8,city,nDolores,1
+731,4,abv,,-1
+732,9,state,,1
+733,1,id,447,-1
+734,0,index,357,1
+735,5,ibu,,-1
+736,3,style,Ciderd,1
+737,1,id,881,-1
+738,3,style,vFruit / Vegetable Beer,1
+739,8,city,Aurora,-1
+740,8,city,GAurora,1
+741,6,brewery_id,340,-1
+742,2,beer-name,Dundee Summer Wheat BeerB,1
+743,8,city,Buena Vista,-1
+744,6,brewery_id,369,1
+745,8,city,Buena Vista,-1
+746,1,id,,1
+747,8,city,Buena Vista,-1
+748,5,ibu,k,1
+749,1,id,395,-1
+750,9,state,OHb,1
+751,5,ibu,25,-1
+752,4,abv,0.07R,1
+753,9,state,WA,-1
+754,1,id,2477n,1
+755,9,state,CO,-1
+756,4,abv,50.0,1
+757,8,city,Denver,-1
+758,2,beer-name,drstA ainety tes  LSllsSeoInSe tiilei,1
+759,1,id,1504,-1
+760,0,index,761r,1
+761,3,style,Belgian IPA,-1
+762,4,abv,,1
+763,3,style,American Pale Ale (APA),-1
+764,5,ibu,,1
+765,6,brewery_id,26,-1
+766,7,brewery-name,Evil Twin BrewingI,1
+767,4,abv,0.085,-1
+768,0,index,U769,1
+769,5,ibu,,-1
+770,8,city,lBrooklyn,1
+771,2,beer-name,Iron Horse Pale Ale,-1
+772,8,city,,1
+773,1,id,1434,-1
+774,9,state,OHE,1
+775,7,brewery-name,Fat Head's Brewery,-1
+776,6,brewery_id,405p,1
+777,7,brewery-name,Fate Brewing Company,-1
+778,6,brewery_id,405v,1
+779,6,brewery_id,405,-1
+780,0,index,w781,1
+781,5,ibu,53,-1
+782,8,city,dataasEc,1
+783,4,abv,0.051,-1
+784,2,beer-name,Aed21)0 ioL e3l(R k,1
+785,7,brewery-name,Fearless Brewing Company,-1
+786,7,brewery-name,,1
+787,4,abv,0.081,-1
+788,4,abv,,1
+789,5,ibu,80,-1
+790,1,id,,1
+791,7,brewery-name,Figueroa Mountain Brewing Company,-1
+792,1,id,2590Z,1
+793,2,beer-name,FMB 101,-1
+794,9,state,FIL,1
+795,7,brewery-name,Finch's Beer Company,-1
+796,8,city,,1
+797,3,style,American Pale Wheat Ale,-1
+798,3,style,utArn Semctiao,1
+799,1,id,935,-1
+800,0,index,o801,1
+801,4,abv,0.075,-1
+802,3,style,American Pale Ale (APA)w,1
+803,5,ibu,,-1
+804,8,city,fPaso Robles,1
+805,7,brewery-name,Firestone Walker Brewing Company,-1
+806,3,style,ePrnrmiea lsneG,1
+807,9,state,CA,-1
+808,8,city,Paso RoblesH,1
+809,7,brewery-name,Flat 12 Bierwerks,-1
+810,4,abv,,1
+811,1,id,1610,-1
+812,8,city,tiSonthm,1
+813,7,brewery-name,Flesk Brewing Company,-1
+814,2,beer-name,,1
+815,7,brewery-name,Flying Dog Brewery,-1
+816,9,state,VAd,1
+817,0,index,818,-1
+818,4,abv,0.078O,1
+819,0,index,820,-1
+820,9,state,RIx,1
+821,3,style,American Blonde Ale,-1
+822,4,abv,H0.05,1
+823,5,ibu,65,-1
+824,3,style,PenBlA leailge a,1
+825,7,brewery-name,Fort George Brewery,-1
+826,4,abv,0.045j,1
+827,8,city,Astoria,-1
+828,5,ibu,h,1
+829,4,abv,0.067,-1
+830,6,brewery_id,,1
+831,9,state,OR,-1
+832,8,city,AstoriaO,1
+833,6,brewery_id,206,-1
+834,0,index,835o,1
+835,1,id,318,-1
+836,6,brewery_id,,1
+837,8,city,San Francisco,-1
+838,7,brewery-name,Fort Point Beer Companyl,1
+839,7,brewery-name,Fort Point Beer Company,-1
+840,6,brewery_id,,1
+841,3,style,Scotch Ale / Wee Heavy,-1
+842,5,ibu,,1
+843,4,abv,0.047,-1
+844,8,city,aDllas,1
+845,7,brewery-name,Four Corners Brewing Company,-1
+846,0,index,f847,1
+847,9,state,IN,-1
+848,6,brewery_id,U22,1
+849,1,id,2611,-1
+850,1,id,,1
+851,5,ibu,,-1
+852,9,state,oAZ,1
+853,6,brewery_id,160,-1
+854,9,state,AZP,1
+855,7,brewery-name,Four Peaks Brewing Company,-1
+856,5,ibu,,1
+857,6,brewery_id,160,-1
+858,1,id,,1
+859,3,style,American Porter,-1
+860,1,id,x2427,1
+861,3,style,American Pale Ale (APA),-1
+862,2,beer-name,fBig Star White IPA,1
+863,2,beer-name,Old Detroit,-1
+864,9,state,MIP,1
+865,8,city,Frankenmuth,-1
+866,8,city,,1
+867,8,city,San Antonio,-1
+868,1,id,5252,1
+869,6,brewery_id,66,-1
+870,5,ibu,t,1
+871,0,index,872,-1
+872,4,abv,0.059u,1
+873,1,id,2520,-1
+874,0,index,875F,1
+875,6,brewery_id,460,-1
+876,0,index,787,1
+877,1,id,901,-1
+878,4,abv,,1
+879,9,state,WA,-1
+880,4,abv,,1
+881,9,state,NC,-1
+882,1,id,1260W,1
+883,3,style,Extra Special / Strong Bitter (ESB),-1
+884,0,index,,1
+885,9,state,NC,-1
+886,3,style,American IPAR,1
+887,7,brewery-name,Geneva Lake Brewing Company,-1
+888,1,id,,1
+889,9,state,ME,-1
+890,8,city,sLeAglns eo,1
+891,9,state,CA,-1
+892,0,index,389,1
+893,8,city,Los Angeles,-1
+894,1,id,6411,1
+895,3,style,American IPA,-1
+896,3,style,Hefeweizenb,1
+897,1,id,1399,-1
+898,0,index,g899,1
+899,7,brewery-name,Golden Road Brewing,-1
+900,8,city,,1
+901,6,brewery_id,240,-1
+902,0,index,y903,1
+903,4,abv,0.059,-1
+904,8,city,,1
+905,9,state,MI,-1
+906,6,brewery_id,,1
+907,5,ibu,18,-1
+908,6,brewery_id,478w,1
+909,5,ibu,103,-1
+910,0,index,,1
+911,8,city,Birmingham,-1
+912,6,brewery_id,,1
+913,9,state,OR,-1
+914,6,brewery_id,R196,1
+915,4,abv,0.054,-1
+916,2,beer-name,I312 Urban Pale Ale,1
+917,5,ibu,18,-1
+918,9,state,ILf,1
+919,6,brewery_id,88,-1
+920,5,ibu,19e,1
+921,2,beer-name,White Water Wheat,-1
+922,5,ibu,W,1
+923,1,id,143,-1
+924,8,city,Williamst,1
+925,8,city,Farmers Branch,-1
+926,3,style,noEl iwh erlBAgns,1
+927,3,style,American Pale Ale (APA),-1
+928,1,id,2303o,1
+929,2,beer-name,Cherry Ale,-1
+930,5,ibu,33B,1
+931,0,index,932,-1
+932,8,city,,1
+933,4,abv,0.053,-1
+934,7,brewery-name,Great Crescent BreweryK,1
+935,6,brewery_id,165,-1
+936,6,brewery_id,165H,1
+937,2,beer-name,Cherry Ale (1),-1
+938,2,beer-name,eA1ua (Lg a0rro2)r1,1
+939,9,state,IN,-1
+940,5,ibu,13,1
+941,3,style,American Stout,-1
+942,9,state,KIN,1
+943,5,ibu,33,-1
+944,7,brewery-name,Great Crescent BreweryN,1
+945,7,brewery-name,Great Crescent Brewery,-1
+946,9,state,INY,1
+947,0,index,948,-1
+948,5,ibu,,1
+949,1,id,2649,-1
+950,8,city,,1
+951,0,index,952,-1
+952,0,index,,1
+953,3,style,American IPA,-1
+954,4,abv,a0.095,1
+955,2,beer-name,Colette,-1
+956,7,brewery-name,,1
+957,2,beer-name,Black Star Double Hopped Golden Lager (24 oz.),-1
+958,3,style,SAmerican Pale Lager,1
+959,5,ibu,49,-1
+960,6,brewery_id,629,1
+961,6,brewery_id,365,-1
+962,3,style,,1
+963,1,id,1446,-1
+964,3,style,,1
+965,0,index,966,-1
+966,5,ibu,,1
+967,2,beer-name,Aaah Bock Lager,-1
+968,8,city,lDavenport,1
+969,6,brewery_id,365,-1
+970,4,abv,0.053e,1
+971,4,abv,0.09,-1
+972,8,city,,1
+973,3,style,American IPA,-1
+974,2,beer-name,OOktoberfest,1
+975,1,id,517,-1
+976,1,id,u371,1
+977,4,abv,0.053,-1
+978,6,brewery_id,365U,1
+979,2,beer-name,Pablo Beach Pale Ale,-1
+980,9,state,WV,1
+981,7,brewery-name,Greenbrier Valley Brewing Company,-1
+982,3,style,,1
+983,3,style,American Double / Imperial IPA,-1
+984,2,beer-name,HAutumn Winds,1
+985,1,id,1505,-1
+986,5,ibu,20,1
+987,3,style,American Blonde Ale,-1
+988,3,style,Pcierrmn Areota,1
+989,2,beer-name,Flying Jenny Extra Pale Ale (2012),-1
+990,1,id,r631,1
+991,1,id,2375,-1
+992,9,state,jMI,1
+993,1,id,2142,-1
+994,4,abv,,1
+995,3,style,American Amber / Red Ale,-1
+996,1,id,2139j,1
+997,2,beer-name,Grind Line,-1
+998,8,city,,1
+999,0,index,1000,-1
+1000,7,brewery-name,,1
+1001,7,brewery-name,Hale's Ales,-1
+1002,8,city,hSeattle,1
+1003,2,beer-name,Heyoka IPA,-1
+1004,5,ibu,,1
+1005,7,brewery-name,Half Acre Beer Company,-1
+1006,6,brewery_id,273,1
+1007,1,id,849,-1
+1008,7,brewery-name,Aaa C f eeHlmpyecronBr,1
+1009,1,id,149,-1
+1010,8,city,,1
+1011,8,city,Stamford,-1
+1012,7,brewery-name,ale FrufBewlyHl r,1
+1013,9,state,CA,-1
+1014,5,ibu,C14,1
+1015,9,state,VA,-1
+1016,7,brewery-name,otwafrrrdw kaPHCroeBedyr ya ,1
+1017,3,style,American Pale Ale (APA),-1
+1018,8,city,Boostn,1
+1019,3,style,American White IPA,-1
+1020,4,abv,.4800,1
+1021,7,brewery-name,Harpoon Brewery,-1
+1022,0,index,,1
+1023,4,abv,0.059,-1
+1024,8,city,otsBno,1
+1025,4,abv,0.059,-1
+1026,9,state,,1
+1027,8,city,Boston,-1
+1028,8,city,BostonU,1
+1029,0,index,1030,-1
+1030,3,style,,1
+1031,6,brewery_id,535,-1
+1032,3,style,IAmerican Blonde Ale,1
+1033,9,state,HI,-1
+1034,7,brewery-name, araHi'ougBiiCeN w.iw n,1
+1035,9,state,HI,-1
+1036,9,state,bHI,1
+1037,9,state,CA,-1
+1038,0,index,c1039,1
+1039,0,index,1040,-1
+1040,4,abv,V0.072,1
+1041,9,state,MD,-1
+1042,2,beer-name,NDavy Jones Lager,1
+1043,0,index,1044,-1
+1044,1,id,,1
+1045,4,abv,0.099,-1
+1046,3,style,American PilsnerF,1
+1047,7,brewery-name,High Hops Brewery,-1
+1048,7,brewery-name,,1
+1049,6,brewery_id,500,-1
+1050,1,id,96Q,1
+1051,6,brewery_id,362,-1
+1052,5,ibu,34,1
+1053,8,city,Seattle,-1
+1054,4,abv,50.05,1
+1055,2,beer-name,Hilliard's Saison,-1
+1056,9,state,WI,1
+1057,7,brewery-name,Hop Farm Brewing Company,-1
+1058,9,state,AP,1
+1059,5,ibu,45,-1
+1060,6,brewery_id,891,1
+1061,2,beer-name,Festeroo Winter Ale,-1
+1062,3,style,,1
+1063,1,id,1390,-1
+1064,2,beer-name,,1
+1065,2,beer-name,Alphadelic IPA,-1
+1066,7,brewery-name,Hop Valley Brewing CompanyL,1
+1067,8,city,Springfield,-1
+1068,6,brewery_id,953,1
+1069,1,id,1004,-1
+1070,3,style,leitbrA,1
+1071,1,id,501,-1
+1072,1,id,L2357,1
+1073,9,state,OR,-1
+1074,6,brewery_id,80E,1
+1075,7,brewery-name,Hopworks Urban Brewery,-1
+1076,8,city,VPortland,1
+1077,8,city,Portland,-1
+1078,7,brewery-name,yb rerwsrknoUoBr eapwH,1
+1079,2,beer-name,Nonstop Hef Hop,-1
+1080,1,id,,1
+1081,9,state,OR,-1
+1082,7,brewery-name,Hopworks Urban Breweryf,1
+1083,8,city,Portland,-1
+1084,2,beer-name,pNe noHtH oofps,1
+1085,0,index,1086,-1
+1086,4,abv,,1
+1087,1,id,2388,-1
+1088,3,style,,1
+1089,5,ibu,75,-1
+1090,9,state,RO,1
+1091,8,city,Portland,-1
+1092,4,abv,0.058K,1
+1093,6,brewery_id,80,-1
+1094,4,abv,,1
+1095,6,brewery_id,80,-1
+1096,8,city,wMilwaukee,1
+1097,2,beer-name,Laka Laka Pineapple,-1
+1098,7,brewery-name,utBnPare r  ywHoGob,1
+1099,2,beer-name,Trail Maker Pale Ale,-1
+1100,3,style,Vienna LagerX,1
+1101,8,city,Minneapolis,-1
+1102,0,index,,1
+1103,0,index,1104,-1
+1104,4,abv,,1
+1105,4,abv,0.065,-1
+1106,6,brewery_id,277,1
+1107,0,index,1108,-1
+1108,0,index,1109r,1
+1109,0,index,1110,-1
+1110,9,state,zIN,1
+1111,5,ibu,75,-1
+1112,2,beer-name,MHijack,1
+1113,1,id,559,-1
+1114,9,state,QFL,1
+1115,1,id,553,-1
+1116,1,id,J2376,1
+1117,0,index,1118,-1
+1118,6,brewery_id,2,1
+1119,9,state,MA,-1
+1120,9,state,AMA,1
+1121,2,beer-name,Hoponius Union,-1
+1122,3,style,American India Pale Lagerb,1
+1123,2,beer-name,Helen's Blend,-1
+1124,8,city,UBiglerville,1
+1125,8,city,Nashville,-1
+1126,1,id,2453B,1
+1127,7,brewery-name,Jackie O's Pub & Brewery,-1
+1128,2,beer-name,IPaiMsMacym tA ,1
+1129,8,city,Athens,-1
+1130,2,beer-name,wtrlHAeBu n nhnamuNeom Cgo olyo,1
+1131,5,ibu,,-1
+1132,7,brewery-name,James Page Brewing Companye,1
+1133,2,beer-name,Healani,-1
+1134,0,index,1135s,1
+1135,4,abv,0.055,-1
+1136,0,index,k1137,1
+1137,4,abv,0.06,-1
+1138,7,brewery-name,Joseph James Brewing Companyx,1
+1139,0,index,1140,-1
+1140,7,brewery-name,Joseph James Brewing Companye,1
+1141,0,index,1142,-1
+1142,2,beer-name,Sucha Much IPAP,1
+1143,0,index,1144,-1
+1144,8,city,utHonso,1
+1145,7,brewery-name,Karbach Brewing Company,-1
+1146,8,city,vHouston,1
+1147,5,ibu,25,-1
+1148,1,id,,1
+1149,1,id,1068,-1
+1150,9,state,TXG,1
+1151,7,brewery-name,Karbach Brewing Company,-1
+1152,7,brewery-name,Karbach Brewing CompanyE,1
+1153,9,state,TX,-1
+1154,6,brewery_id,v342,1
+1155,7,brewery-name,KelSo Beer Company,-1
+1156,4,abv,s0.055,1
+1157,2,beer-name,Skilak Scottish Ale,-1
+1158,1,id,7811,1
+1159,3,style,American IPA,-1
+1160,8,city,Soldotnaj,1
+1161,5,ibu,11,-1
+1162,1,id,759,1
+1163,0,index,1164,-1
+1164,5,ibu,50,1
+1165,7,brewery-name,Kettle House Brewing Company,-1
+1166,0,index,6171,1
+1167,8,city,Houghton,-1
+1168,2,beer-name,sNovember Gale Pale Ale,1
+1169,6,brewery_id,84,-1
+1170,8,city,,1
+1171,4,abv,,-1
+1172,4,abv,Q,1
+1173,0,index,1174,-1
+1174,1,id,2436k,1
+1175,6,brewery_id,102,-1
+1176,0,index,1177n,1
+1177,4,abv,0.057,-1
+1178,4,abv,,1
+1179,3,style,American IPA,-1
+1180,9,state,OM,1
+1181,4,abv,0.046,-1
+1182,9,state,IHI,1
+1183,5,ibu,18,-1
+1184,2,beer-name,Longboard Island Lagerb,1
+1185,7,brewery-name,Krebs Brewing Company (Pete's Pl...,-1
+1186,1,id,1637f,1
+1187,5,ibu,15,-1
+1188,9,state,MN,1
+1189,0,index,1190,-1
+1190,8,city,,1
+1191,1,id,2547,-1
+1192,3,style,,1
+1193,2,beer-name,Schoolhouse Honey,-1
+1194,2,beer-name,10 Degrees of Separationl,1
+1195,1,id,2108,-1
+1196,7,brewery-name,,1
+1197,5,ibu,66,-1
+1198,3,style,aAmerican IPA,1
+1199,4,abv,0.056,-1
+1200,7,brewery-name,,1
+1201,6,brewery_id,537,-1
+1202,2,beer-name,ETumbleweed IPA,1
+1203,4,abv,0.05,-1
+1204,7,brewery-name,nCrCpLBeoyn aildwar  snm ekwiga,1
+1205,7,brewery-name,Lewis and Clark Brewing Company,-1
+1206,9,state,MNT,1
+1207,5,ibu,30,-1
+1208,8,city,Yorkj,1
+1209,1,id,1688,-1
+1210,2,beer-name,,1
+1211,8,city,York,-1
+1212,5,ibu,l40,1
+1213,4,abv,0.06,-1
+1214,0,index,5121,1
+1215,5,ibu,47,-1
+1216,0,index,1217l,1
+1217,5,ibu,30,-1
+1218,5,ibu,,1
+1219,3,style,American Amber / Red Ale,-1
+1220,5,ibu,33,1
+1221,7,brewery-name,Long Trail Brewing Company,-1
+1222,9,state,VTE,1
+1223,5,ibu,8,-1
+1224,5,ibu,,1
+1225,8,city,East Fairfield,-1
+1226,9,state,,1
+1227,8,city,Ashburn,-1
+1228,5,ibu,q55,1
+1229,8,city,Menominee,-1
+1230,4,abv,,1
+1231,7,brewery-name,Lucette Brewing Company,-1
+1232,3,style,,1
+1233,6,brewery_id,245,-1
+1234,1,id,,1
+1235,2,beer-name,Knotty Pine,-1
+1236,9,state,AZe,1
+1237,9,state,AZ,-1
+1238,4,abv,5.080,1
+1239,9,state,OR,-1
+1240,2,beer-name,,1
+1241,3,style,American Pale Ale (APA),-1
+1242,6,brewery_id,,1
+1243,4,abv,0.099,-1
+1244,9,state,HO,1
+1245,4,abv,0.085,-1
+1246,4,abv,0.079v,1
+1247,6,brewery_id,91,-1
+1248,3,style,American Pale Ale (APA)Y,1
+1249,4,abv,0.069,-1
+1250,3,style,,1
+1251,3,style,American Amber / Red Ale,-1
+1252,4,abv,0.051q,1
+1253,1,id,1113,-1
+1254,3,style,uFruit / Vegetable Beer,1
+1255,7,brewery-name,Mammoth Brewing Company,-1
+1256,4,abv,.0056,1
+1257,0,index,1258,-1
+1258,7,brewery-name,,1
+1259,0,index,1260,-1
+1260,5,ibu,,1
+1261,0,index,1262,-1
+1262,0,index,1263G,1
+1263,4,abv,0.055,-1
+1264,2,beer-name,ueSsamerr dmiaP,1
+1265,4,abv,0.09,-1
+1266,8,city,,1
+1267,8,city,Philadelphia,-1
+1268,2,beer-name,JChaotic Double IPA,1
+1269,7,brewery-name,Manzanita Brewing Company,-1
+1270,9,state,CA,1
+1271,2,beer-name,Gillespie Brown Ale,-1
+1272,0,index,3172,1
+1273,8,city,Albuquerque,-1
+1274,6,brewery_id,443t,1
+1275,4,abv,0.072,-1
+1276,3,style,LAmerican Pale Ale (APA),1
+1277,5,ibu,,-1
+1278,3,style,KAmerican Pale Ale (APA),1
+1279,3,style,American Double / Imperial IPA,-1
+1280,1,id,,1
+1281,1,id,2268,-1
+1282,0,index,,1
+1283,5,ibu,,-1
+1284,0,index,1285P,1
+1285,8,city,Fort Worth,-1
+1286,0,index,7218,1
+1287,7,brewery-name,Martin House Brewing Company,-1
+1288,1,id,1183,1
+1289,2,beer-name,Saranac Shandy,-1
+1290,7,brewery-name,HMatt Brewing Company,1
+1291,3,style,German Pilsener,-1
+1292,7,brewery-name, ye mttCpnBiwaMrnoga,1
+1293,3,style,Light Lager,-1
+1294,8,city,,1
+1295,7,brewery-name,Matt Brewing Company,-1
+1296,8,city,,1
+1297,2,beer-name,Saranac White IPA,-1
+1298,3,style,PemrcWlna iee  ltheAaaA,1
+1299,4,abv,0.055,-1
+1300,2,beer-name,Saranac Pale Ale (16 oz.)W,1
+1301,7,brewery-name,Maui Brewing Company,-1
+1302,3,style,,1
+1303,4,abv,0.05,-1
+1304,8,city,nLahaia,1
+1305,5,ibu,,-1
+1306,7,brewery-name,Maui Brewing Companyf,1
+1307,8,city,Lahaina,-1
+1308,3,style,,1
+1309,2,beer-name,Mana Wheat,-1
+1310,0,index,1311j,1
+1311,6,brewery_id,375,-1
+1312,1,id,31L,1
+1313,2,beer-name,Pit Stop Chocolate Porter,-1
+1314,1,id,1236,1
+1315,4,abv,0.037,-1
+1316,0,index,1173,1
+1317,4,abv,0.069,-1
+1318,7,brewery-name,Meckley's Ciderya,1
+1319,8,city,Hilo,-1
+1320,9,state,HIJ,1
+1321,6,brewery_id,203,-1
+1322,5,ibu,27J,1
+1323,0,index,1324,-1
+1324,1,id,7216,1
+1325,8,city,Miami,-1
+1326,6,brewery_id,,1
+1327,1,id,1506,-1
+1328,8,city,Miamic,1
+1329,6,brewery_id,552,-1
+1330,0,index,I1331,1
+1331,0,index,1332,-1
+1332,3,style,,1
+1333,5,ibu,24,-1
+1334,4,abv,G0.057,1
+1335,7,brewery-name,Mike Hess Brewing Company,-1
+1336,6,brewery_id,3,1
+1337,9,state,CA,-1
+1338,0,index,1339S,1
+1339,5,ibu,30,-1
+1340,7,brewery-name,aMike Hess Brewing Company,1
+1341,9,state,IL,-1
+1342,4,abv,y0.08,1
+1343,5,ibu,,-1
+1344,5,ibu,P,1
+1345,2,beer-name,En Parfaite Harmonie,-1
+1346,7,brewery-name,r BwMgeeinoipkhern,1
+1347,7,brewery-name,Mikerphone Brewing,-1
+1348,7,brewery-name,ZMikerphone Brewing,1
+1349,0,index,1350,-1
+1350,7,brewery-name,MikkellerR,1
+1351,7,brewery-name,MillKing It Productions,-1
+1352,5,ibu,,1
+1353,2,beer-name,AXL Pale Ale,-1
+1354,5,ibu,,1
+1355,6,brewery_id,284,-1
+1356,7,brewery-name,UMilwaukee Brewing Company,1
+1357,7,brewery-name,Milwaukee Brewing Company,-1
+1358,2,beer-name,-GiiO,1
+1359,5,ibu,18,-1
+1360,2,beer-name,Louie’s Demise Immort-Ale (2010)O,1
+1361,2,beer-name,Axe Head Malt Liquor,-1
+1362,6,brewery_id,,1
+1363,4,abv,0.04,-1
+1364,9,state,UWI,1
+1365,3,style,American Pale Lager,-1
+1366,8,city,TMonroe,1
+1367,9,state,WI,-1
+1368,3,style,JAmerican Pale Lager,1
+1369,8,city,Monroe,-1
+1370,9,state,WI,1
+1371,1,id,2275,-1
+1372,6,brewery_id,,1
+1373,4,abv,0.05,-1
+1374,2,beer-name,Ctlood zGer,1
+1375,7,brewery-name,Mission Brewery,-1
+1376,2,beer-name,,1
+1377,9,state,CA,-1
+1378,1,id,C1476,1
+1379,3,style,American Pale Wheat Ale,-1
+1380,8,city,boMa,1
+1381,0,index,1382,-1
+1382,4,abv,f0.055,1
+1383,3,style,American Pale Ale (APA),-1
+1384,5,ibu,,1
+1385,8,city,San Diego,-1
+1386,0,index,T1387,1
+1387,5,ibu,50,-1
+1388,2,beer-name,raArou,1
+1389,3,style,Saison / Farmhouse Ale,-1
+1390,2,beer-name,RFortunate Islands,1
+1391,8,city,San Diego,-1
+1392,8,city,Daio genS,1
+1393,2,beer-name,Wapiti Amber Ale,-1
+1394,2,beer-name,Sweet Georgia BrownU,1
+1395,1,id,718,-1
+1396,9,state,CAk,1
+1397,9,state,NY,-1
+1398,3,style,irrS  gc ESBB)tEtrSatin t/eep(axo l,1
+1399,0,index,1400,-1
+1400,3,style,Märzen / Oktoberfestg,1
+1401,7,brewery-name,Morgan Street Brewery,-1
+1402,4,abv,0.046b,1
+1403,1,id,1046,-1
+1404,5,ibu,,1
+1405,5,ibu,,-1
+1406,8,city,vKinston,1
+1407,2,beer-name,Towhead,-1
+1408,0,index,,1
+1409,9,state,MI,-1
+1410,8,city,,1
+1411,2,beer-name,Desert Magic IPA,-1
+1412,0,index,,1
+1413,8,city,Lake Havasu City,-1
+1414,1,id,n131,1
+1415,0,index,1416,-1
+1416,6,brewery_id,366H,1
+1417,5,ibu,,-1
+1418,9,state,OKF,1
+1419,9,state,OK,-1
+1420,5,ibu,g10,1
+1421,6,brewery_id,143,-1
+1422,6,brewery_id,143x,1
+1423,0,index,1424,-1
+1424,0,index,5214,1
+1425,7,brewery-name,Narragansett Brewing Company,-1
+1426,4,abv,20.04,1
+1427,9,state,RI,-1
+1428,6,brewery_id,314,1
+1429,2,beer-name,Narragansett Fest Lager,-1
+1430,7,brewery-name,,1
+1431,5,ibu,,-1
+1432,9,state,NOR,1
+1433,5,ibu,86,-1
+1434,6,brewery_id,387,1
+1435,3,style,American Blonde Ale,-1
+1436,7,brewery-name,m kbgoyspwB eaeirnNCraan,1
+1437,4,abv,0.065,-1
+1438,4,abv,0.048r,1
+1439,6,brewery_id,337,-1
+1440,8,city,xPapillion,1
+1441,1,id,1758,-1
+1442,3,style,German Pilsenerv,1
+1443,5,ibu,40,-1
+1444,3,style,American IPAS,1
+1445,9,state,CO,-1
+1446,9,state,,1
+1447,6,brewery_id,82,-1
+1448,8,city,Fort CollinsR,1
+1449,6,brewery_id,82,-1
+1450,8,city,,1
+1451,2,beer-name,Fat Tire Amber Ale,-1
+1452,1,id,H952,1
+1453,4,abv,0.052,-1
+1454,9,state,,1
+1455,0,index,1456,-1
+1456,0,index,w1457,1
+1457,1,id,115,-1
+1458,1,id,27,1
+1459,7,brewery-name,New Belgium Brewing Company,-1
+1460,8,city,odbioeWgdr,1
+1461,2,beer-name,Sea Hag IPA,-1
+1462,3,style,liirP ercnasenAm,1
+1463,0,index,1464,-1
+1464,0,index,1465s,1
+1465,8,city,Woodbridge,-1
+1466,2,beer-name,668 Neighbor of the Beast (16 oz.) (2010)b,1
+1467,1,id,42,-1
+1468,6,brewery_id,k410,1
+1469,7,brewery-name,New England Brewing Company,-1
+1470,6,brewery_id,,1
+1471,4,abv,0.05,-1
+1472,8,city,,1
+1473,5,ibu,,-1
+1474,2,beer-name,Hopitoulas IPAU,1
+1475,8,city,New Orleans,-1
+1476,4,abv,0.049n,1
+1477,6,brewery_id,241,-1
+1478,9,state,yTX,1
+1479,5,ibu,50,-1
+1480,8,city,tlyB haeerMc,1
+1481,5,ibu,,-1
+1482,5,ibu,35g,1
+1483,6,brewery_id,495,-1
+1484,7,brewery-name,,1
+1485,9,state,MA,-1
+1486,7,brewery-name,qNight Shift Brewing,1
+1487,5,ibu,31,-1
+1488,6,brewery_id,,1
+1489,5,ibu,,-1
+1490,7,brewery-name,,1
+1491,5,ibu,,-1
+1492,5,ibu,,1
+1493,1,id,2692,-1
+1494,4,abv,0094.,1
+1495,5,ibu,19,-1
+1496,5,ibu,38U,1
+1497,0,index,1498,-1
+1498,0,index,1499c,1
+1499,1,id,1854,-1
+1500,1,id,1227q,1
+1501,4,abv,0.063,-1
+1502,4,abv,0.045M,1
+1503,9,state,WI,-1
+1504,2,beer-name,o fDILtPei Ahfltae  ,1
+1505,6,brewery_id,271,-1
+1506,6,brewery_id,F442,1
+1507,5,ibu,66,-1
+1508,3,style,brtaeeiuF  tee rlge/BV,1
+1509,6,brewery_id,150,-1
+1510,4,abv,5.400,1
+1511,6,brewery_id,150,-1
+1512,4,abv,,1
+1513,4,abv,0.082,-1
+1514,0,index,1155,1
+1515,5,ibu,35,-1
+1516,8,city,utAsin,1
+1517,0,index,1518,-1
+1518,0,index,,1
+1519,4,abv,0.05,-1
+1520,1,id,1081s,1
+1521,4,abv,0.092,-1
+1522,6,brewery_id,184,1
+1523,6,brewery_id,148,-1
+1524,8,city,ArvadaU,1
+1525,0,index,1526,-1
+1526,3,style,ePAA aPlmAa( n)c reliAe,1
+1527,0,index,1528,-1
+1528,5,ibu,19h,1
+1529,1,id,1058,-1
+1530,5,ibu,29V,1
+1531,5,ibu,45,-1
+1532,9,state,IAQ,1
+1533,1,id,600,-1
+1534,3,style,,1
+1535,6,brewery_id,301,-1
+1536,1,id,6814,1
+1537,6,brewery_id,301,-1
+1538,8,city,iDanville,1
+1539,7,brewery-name,Old Forge Brewing Company,-1
+1540,5,ibu,,1
+1541,8,city,Danville,-1
+1542,6,brewery_id,,1
+1543,2,beer-name,Endless Summer Ale (2011),-1
+1544,9,state,WAH,1
+1545,0,index,1546,-1
+1546,8,city,,1
+1547,8,city,Airway Heights,-1
+1548,1,id,2615,1
+1549,9,state,GA,-1
+1550,4,abv,5030.,1
+1551,8,city,Longmont,-1
+1552,7,brewery-name,dOskar Blues Brewery,1
+1553,8,city,Longmont,-1
+1554,6,brewery_id,661,1
+1555,2,beer-name,CAN'D AID Foundation,-1
+1556,1,id,1752D,1
+1557,4,abv,0.05,-1
+1558,3,style, ciAAmPIanre,1
+1559,9,state,CO,-1
+1560,8,city,togLnonm,1
+1561,7,brewery-name,Oskar Blues Brewery,-1
+1562,1,id,X993,1
+1563,6,brewery_id,166,-1
+1564,2,beer-name,Dale's Pale Aleh,1
+1565,6,brewery_id,166,-1
+1566,6,brewery_id,166a,1
+1567,0,index,1568,-1
+1568,8,city,,1
+1569,8,city,Longmont,-1
+1570,6,brewery_id,166e,1
+1571,7,brewery-name,Oskar Blues Brewery,-1
+1572,9,state,,1
+1573,0,index,1574,-1
+1574,0,index,,1
+1575,1,id,565,-1
+1576,4,abv,q0.09,1
+1577,2,beer-name,G'KNIGHT (12 oz.),-1
+1578,8,city,,1
+1579,4,abv,0.053,-1
+1580,9,state,COH,1
+1581,5,ibu,35,-1
+1582,8,city,Longmontp,1
+1583,3,style,American Pale Ale (APA),-1
+1584,3,style,American Double / Imperial IPAt,1
+1585,3,style,Russian Imperial Stout,-1
+1586,5,ibu,89,1
+1587,8,city,Lyons,-1
+1588,4,abv,,1
+1589,7,brewery-name,Oskar Blues Brewery,-1
+1590,1,id,,1
+1591,9,state,CO,-1
+1592,7,brewery-name,uOskeesBre Byar rlw,1
+1593,2,beer-name,Dale's Pale Ale (2003),-1
+1594,5,ibu,,1
+1595,8,city,Lyons,-1
+1596,6,brewery_id,350,1
+1597,4,abv,0.087,-1
+1598,9,state,CN,1
+1599,1,id,1328,-1
+1600,0,index,u1601,1
+1601,0,index,1602,-1
+1602,6,brewery_id,K389,1
+1603,3,style,American White IPA,-1
+1604,5,ibu,55p,1
+1605,9,state,AR,-1
+1606,1,id,o1684,1
+1607,1,id,927,-1
+1608,7,brewery-name,Pateros Creek Brewing Companyg,1
+1609,5,ibu,48,-1
+1610,8,city,,1
+1611,3,style,English Bitter,-1
+1612,0,index,,1
+1613,2,beer-name,Rodeo Rye Pale Ale,-1
+1614,8,city,eyG idntrCa,1
+1615,3,style,American Pale Lager,-1
+1616,8,city,,1
+1617,7,brewery-name,Payette Brewing Company,-1
+1618,1,id,,1
+1619,2,beer-name,Fresh Cut Pilsner,-1
+1620,8,city,QPortland,1
+1621,1,id,2238,-1
+1622,2,beer-name,i eaKHl  Eb olRyenerrtPosen,1
+1623,4,abv,0.065,-1
+1624,9,state,,1
+1625,0,index,1626,-1
+1626,3,style,e GPlmnrenirsea,1
+1627,8,city,Comstock Park,-1
+1628,8,city,,1
+1629,9,state,MI,-1
+1630,0,index,1631T,1
+1631,5,ibu,40,-1
+1632,3,style,American IPAs,1
+1633,1,id,1062,-1
+1634,2,beer-name,PSd9crmre 5'i1t)eeW(B9uk me es w,1
+1635,7,brewery-name,Pete's Brewing Company,-1
+1636,8,city,JSan Antonio,1
+1637,7,brewery-name,Pete's Brewing Company,-1
+1638,8,city,QSan Antonio,1
+1639,5,ibu,,-1
+1640,6,brewery_id,11O,1
+1641,4,abv,0.059,-1
+1642,5,ibu,20g,1
+1643,6,brewery_id,11,-1
+1644,0,index,1645I,1
+1645,5,ibu,,-1
+1646,8,city,,1
+1647,6,brewery_id,355,-1
+1648,4,abv,,1
+1649,2,beer-name,Atom Splitter Pale Ale,-1
+1650,2,beer-name,A al HottDee,1
+1651,3,style,American Black Ale,-1
+1652,5,ibu,,1
+1653,7,brewery-name,Piney River Brewing Company,-1
+1654,0,index,1655I,1
+1655,2,beer-name,Black Walnut Wheat,-1
+1656,5,ibu,O20,1
+1657,3,style,American IPA,-1
+1658,1,id,2559a,1
+1659,6,brewery_id,324,-1
+1660,6,brewery_id,324v,1
+1661,9,state,CA,-1
+1662,9,state,CA,1
+1663,6,brewery_id,370,-1
+1664,3,style,,1
+1665,3,style,American Pale Ale (APA),-1
+1666,9,state,HO,1
+1667,2,beer-name,Ponderosa IPA,-1
+1668,5,ibu,,1
+1669,5,ibu,14,-1
+1670,2,beer-name,JHideout Helles,1
+1671,1,id,1462,-1
+1672,1,id,1461b,1
+1673,9,state,CO,-1
+1674,4,abv,.0805,1
+1675,0,index,1676,-1
+1676,7,brewery-name,,1
+1677,8,city,Seattle,-1
+1678,8,city,Greenvilleh,1
+1679,6,brewery_id,246,-1
+1680,6,brewery_id,167,1
+1681,9,state,TX,-1
+1682,3,style,Goes,1
+1683,9,state,TX,-1
+1684,7,brewery-name,Agpenrea Rlm anieCwlyBo ,1
+1685,2,beer-name,Firemans #4 Blonde Ale (2013),-1
+1686,3,style,,1
+1687,1,id,1091,-1
+1688,6,brewery_id,P128,1
+1689,1,id,830,-1
+1690,7,brewery-name,gRed Hare Brewing Company,1
+1691,9,state,GA,-1
+1692,7,brewery-name,wdanen piCme  eRBrragHyo,1
+1693,6,brewery_id,68,-1
+1694,9,state,DM,1
+1695,3,style,Belgian IPA,-1
+1696,1,id,5213,1
+1697,0,index,1698,-1
+1698,6,brewery_id,430,1
+1699,0,index,1700,-1
+1700,5,ibu,44h,1
+1701,7,brewery-name,Redhook Brewery,-1
+1702,5,ibu,,1
+1703,1,id,1374,-1
+1704,1,id,q1373,1
+1705,7,brewery-name,Refuge Brewery,-1
+1706,0,index,7107,1
+1707,5,ibu,60,-1
+1708,0,index,,1
+1709,6,brewery_id,110,-1
+1710,0,index,1117,1
+1711,5,ibu,100,-1
+1712,6,brewery_id,386T,1
+1713,6,brewery_id,386,-1
+1714,1,id,710,1
+1715,2,beer-name,Miner's Gold,-1
+1716,9,state,CO,1
+1717,9,state,CO,-1
+1718,5,ibu,a,1
+1719,7,brewery-name,Revolution Brewing,-1
+1720,0,index,1721v,1
+1721,1,id,1133,-1
+1722,2,beer-name,Rosa Hibiscus Alea,1
+1723,1,id,418,-1
+1724,0,index,a1725,1
+1725,3,style,American Porter,-1
+1726,8,city,Chicagof,1
+1727,4,abv,0.05,-1
+1728,2,beer-name,setHlu,1
+1729,4,abv,0.055,-1
+1730,5,ibu,N60,1
+1731,6,brewery_id,93,-1
+1732,5,ibu,,1
+1733,2,beer-name,Zen,-1
+1734,4,abv,0.072i,1
+1735,9,state,OH,-1
+1736,7,brewery-name,iRight Brain Brewery,1
+1737,2,beer-name,Gose,-1
+1738,2,beer-name,nlAsn dleIa iMTila aer,1
+1739,6,brewery_id,459,-1
+1740,7,brewery-name,eteBrve oNhiyrR rrw,1
+1741,3,style,American IPA,-1
+1742,3,style,American Pale Ale (APA)O,1
+1743,3,style,American IPA,-1
+1744,0,index,1475,1
+1745,3,style,Pumpkin Ale,-1
+1746,0,index,,1
+1747,4,abv,0.071,-1
+1748,4,abv,2060.,1
+1749,7,brewery-name,Rivertowne Brewing Company,-1
+1750,5,ibu,O,1
+1751,5,ibu,,-1
+1752,1,id,1103d,1
+1753,0,index,1754,-1
+1754,7,brewery-name,,1
+1755,7,brewery-name,Rivertowne Brewing Company,-1
+1756,1,id,l1099,1
+1757,8,city,Export,-1
+1758,5,ibu,,1
+1759,1,id,2074,-1
+1760,1,id,,1
+1761,4,abv,0.055,-1
+1762,8,city,,1
+1763,1,id,363,-1
+1764,2,beer-name,vCornerstone IPA,1
+1765,3,style,American Adjunct Lager,-1
+1766,4,abv,0.051v,1
+1767,0,index,1768,-1
+1768,1,id,c1576,1
+1769,7,brewery-name,RoughTail Brewing Company,-1
+1770,1,id,4023,1
+1771,3,style,Belgian Strong Pale Ale,-1
+1772,5,ibu,y,1
+1773,6,brewery_id,164,-1
+1774,3,style,nlBaAekAmccre  ali,1
+1775,6,brewery_id,164,-1
+1776,5,ibu,S28,1
+1777,1,id,1479,-1
+1778,0,index,1779J,1
+1779,7,brewery-name,Ruhstaller Beer Company,-1
+1780,3,style,,1
+1781,3,style,American Amber / Red Ale,-1
+1782,3,style,bWetrii,1
+1783,6,brewery_id,288,-1
+1784,5,ibu,Y40,1
+1785,4,abv,0.048,-1
+1786,4,abv,e0.069,1
+1787,3,style,Winter Warmer,-1
+1788,7,brewery-name,,1
+1789,6,brewery_id,30,-1
+1790,5,ibu,,1
+1791,3,style,American Pale Wheat Ale,-1
+1792,7,brewery-name,,1
+1793,4,abv,0.055,-1
+1794,5,ibu,15z,1
+1795,3,style,American IPA,-1
+1796,6,brewery_id,J30,1
+1797,1,id,850,-1
+1798,5,ibu,,1
+1799,3,style,Fruit / Vegetable Beer,-1
+1800,3,style,American Pale Ale (APA)G,1
+1801,9,state,AZ,-1
+1802,7,brewery-name,ASanTan Brewing Company,1
+1803,0,index,1804,-1
+1804,3,style,mcl/ abmdneeRAAre ri  eA,1
+1805,2,beer-name,Sanitas Saison Ale,-1
+1806,5,ibu,56,1
+1807,2,beer-name,Giant DIPA,-1
+1808,1,id,6318,1
+1809,3,style,English India Pale Ale (IPA),-1
+1810,4,abv,a0.055,1
+1811,8,city,Santa Fe,-1
+1812,3,style,mIrish Red Ale,1
+1813,3,style,Märzen / Oktoberfest,-1
+1814,8,city,,1
+1815,8,city,Santa Fe,-1
+1816,2,beer-name,,1
+1817,5,ibu,11,-1
+1818,0,index,1819w,1
+1819,7,brewery-name,Schilling & Company,-1
+1820,1,id,1245V,1
+1821,3,style,American Pale Wheat Ale,-1
+1822,8,city,,1
+1823,0,index,1824,-1
+1824,0,index,m1825,1
+1825,8,city,Saint Louis,-1
+1826,5,ibu,,1
+1827,6,brewery_id,502,-1
+1828,2,beer-name,RBlur India Pale Ale,1
+1829,0,index,1830,-1
+1830,2,beer-name,FDry Hard Cider,1
+1831,7,brewery-name,Seven Brides Brewery,-1
+1832,0,index,,1
+1833,8,city,Columbus,-1
+1834,9,state,gOH,1
+1835,8,city,Columbus,-1
+1836,2,beer-name,Humulus Nimbus Super Pale AleK,1
+1837,6,brewery_id,183,-1
+1838,5,ibu,,1
+1839,5,ibu,,-1
+1840,6,brewery_id,538,1
+1841,2,beer-name,Shipyard Summer Ale,-1
+1842,9,state,EM,1
+1843,5,ibu,,-1
+1844,5,ibu,,1
+1845,1,id,2239,-1
+1846,3,style,Maibock / Helles Bockj,1
+1847,8,city,Chico,-1
+1848,5,ibu,37,1
+1849,2,beer-name,Old Chico Crystal Wheat,-1
+1850,7,brewery-name,Sierra Nevada Brewing CompanyB,1
+1851,4,abv,0.072,-1
+1852,2,beer-name,,1
+1853,6,brewery_id,137,-1
+1854,1,id,B212,1
+1855,7,brewery-name,Silverton Brewery,-1
+1856,7,brewery-name,yltreSr nioBreewv,1
+1857,5,ibu,52,-1
+1858,1,id,4297,1
+1859,6,brewery_id,46,-1
+1860,8,city,olrynBok,1
+1861,5,ibu,62,-1
+1862,1,id,,1
+1863,2,beer-name,Hi-Res,-1
+1864,9,state,,1
+1865,5,ibu,74,-1
+1866,9,state,NY,1
+1867,5,ibu,34,-1
+1868,1,id,,1
+1869,8,city,Brooklyn,-1
+1870,6,brewery_id,46,1
+1871,3,style,American Brown Ale,-1
+1872,0,index,1873l,1
+1873,5,ibu,35,-1
+1874,3,style,American Double / Imperial IPAh,1
+1875,3,style,American Stout,-1
+1876,0,index,,1
+1877,4,abv,0.054,-1
+1878,0,index,e1879,1
+1879,6,brewery_id,46,-1
+1880,7,brewery-name,Sixpoint Craft AlesZ,1
+1881,6,brewery_id,264,-1
+1882,5,ibu,m,1
+1883,3,style,American IPA,-1
+1884,4,abv,,1
+1885,5,ibu,,-1
+1886,6,brewery_id,642,1
+1887,3,style,American Stout,-1
+1888,0,index,n1889,1
+1889,0,index,1890,-1
+1890,6,brewery_id,624,1
+1891,0,index,1892,-1
+1892,9,state,oCO,1
+1893,9,state,ID,-1
+1894,9,state,IDN,1
+1895,2,beer-name,Monkey Dancing On A Razor Blade,-1
+1896,0,index,9871,1
+1897,3,style,English Pale Ale,-1
+1898,0,index,8199,1
+1899,2,beer-name,Sly Fox Christmas Ale 2013,-1
+1900,0,index,1910,1
+1901,2,beer-name,360° India Pale Ale,-1
+1902,0,index,,1
+1903,9,state,PA,-1
+1904,2,beer-name,s ypdeliAPe myIOaIsr,1
+1905,8,city,Pottstown,-1
+1906,4,abv,700.,1
+1907,1,id,23,-1
+1908,6,brewery_id,N371,1
+1909,9,state,PA,-1
+1910,4,abv,T0.051,1
+1911,8,city,Norfolk,-1
+1912,0,index,K1913,1
+1913,1,id,2405,-1
+1914,2,beer-name,,1
+1915,3,style,American Pale Ale (APA),-1
+1916,4,abv,0.054F,1
+1917,1,id,407,-1
+1918,8,city,sckonJa,1
+1919,0,index,1920,-1
+1920,8,city,cJkanos,1
+1921,0,index,1922,-1
+1922,8,city,JBoise,1
+1923,6,brewery_id,309,-1
+1924,4,abv,,1
+1925,3,style,Märzen / Oktoberfest,-1
+1926,8,city,esoiB,1
+1927,2,beer-name,Barrel Aged Seven Devils Imperial Stout,-1
+1928,5,ibu,,1
+1929,5,ibu,,-1
+1930,8,city,,1
+1931,0,index,1932,-1
+1932,1,id,1152n,1
+1933,3,style,American Pale Ale (APA),-1
+1934,7,brewery-name,Sockeye Brewing CompanyU,1
+1935,8,city,Boise,-1
+1936,7,brewery-name,ESockeye Brewing Company,1
+1937,9,state,ID,-1
+1938,4,abv,T0.07,1
+1939,7,brewery-name,South Austin Brewery,-1
+1940,9,state,ATX,1
+1941,2,beer-name,Kol' Beer,-1
+1942,9,state,,1
+1943,5,ibu,32,-1
+1944,8,city,,1
+1945,4,abv,0.075,-1
+1946,8,city,,1
+1947,2,beer-name,Jack the Sipper,-1
+1948,1,id,,1
+1949,1,id,2296,-1
+1950,4,abv,0.08,1
+1951,8,city,Hattiesburg,-1
+1952,4,abv,0.05U,1
+1953,9,state,MS,-1
+1954,0,index,P1955,1
+1955,0,index,1956,-1
+1956,9,state,eTX,1
+1957,9,state,TX,-1
+1958,1,id,1497B,1
+1959,0,index,1960,-1
+1960,8,city,eConor,1
+1961,0,index,1962,-1
+1962,7,brewery-name,Southern Star Brewing CompanyI,1
+1963,0,index,1964,-1
+1964,2,beer-name,Le Mort Vivant (2011)i,1
+1965,9,state,TX,-1
+1966,9,state,TXe,1
+1967,1,id,44,-1
+1968,6,brewery_id,78p,1
+1969,7,brewery-name,Spilker Ales,-1
+1970,7,brewery-name,,1
+1971,9,state,IL,-1
+1972,4,abv,.0802,1
+1973,2,beer-name,Working for the Weekend,-1
+1974,9,state,VIL,1
+1975,0,index,1976,-1
+1976,6,brewery_id,175E,1
+1977,0,index,1978,-1
+1978,9,state,,1
+1979,3,style,American Pale Ale (APA),-1
+1980,0,index,1981,1
+1981,8,city,Chicago,-1
+1982,5,ibu,22,1
+1983,8,city,Glendale,-1
+1984,4,abv,0.056q,1
+1985,2,beer-name,Gunga Din,-1
+1986,4,abv,m0.042,1
+1987,8,city,Crozet,-1
+1988,0,index,1989H,1
+1989,6,brewery_id,383,-1
+1990,0,index,1919,1
+1991,4,abv,0.049,-1
+1992,6,brewery_id,119S,1
+1993,6,brewery_id,119,-1
+1994,8,city,Stevens PointS,1
+1995,8,city,Stevens Point,-1
+1996,1,id,,1
+1997,7,brewery-name,Stevens Point Brewery,-1
+1998,9,state,WIs,1
+1999,8,city,Stevens Point,-1
+2000,3,style,GAmerican Adjunct Lager,1
+2001,0,index,2002,-1
+2002,0,index,,1
+2003,8,city,Stevens Point,-1
+2004,7,brewery-name,Stevens Point BreweryB,1
+2005,5,ibu,7,-1
+2006,5,ibu,,1
+2007,5,ibu,7,-1
+2008,3,style,American Blonde AleZ,1
+2009,3,style,Kölsch,-1
+2010,0,index,1120,1
+2011,3,style,American Brown Ale,-1
+2012,3,style,QAmerican Pale Wheat Ale,1
+2013,8,city,Stevens Point,-1
+2014,6,brewery_id,,1
+2015,0,index,2016,-1
+2016,2,beer-name,,1
+2017,2,beer-name,Brontide,-1
+2018,9,state,BMD,1
+2019,2,beer-name,Classique,-1
+2020,1,id,y922,1
+2021,4,abv,0.051,-1
+2022,9,state,ALj,1
+2023,8,city,Huntsville,-1
+2024,8,city,PSt Mary's,1
+2025,5,ibu,8,-1
+2026,2,beer-name,FAmerican Amber,1
+2027,3,style,Light Lager,-1
+2028,0,index,2920,1
+2029,7,brewery-name,Summit Brewing Company,-1
+2030,8,city,,1
+2031,2,beer-name,Unchained #18 Hop Silo,-1
+2032,1,id,2605P,1
+2033,5,ibu,,-1
+2034,0,index,2035t,1
+2035,4,abv,0.058,-1
+2036,2,beer-name,( VM)elcuPk312 0,1
+2037,5,ibu,36,-1
+2038,6,brewery_id,L25,1
+2039,9,state,IN,-1
+2040,9,state,NI,1
+2041,2,beer-name,Fistful of Hops Orange,-1
+2042,0,index,Y2043,1
+2043,2,beer-name,Fistful of Hops Green,-1
+2044,6,brewery_id,N25,1
+2045,0,index,2046,-1
+2046,6,brewery_id,25,1
+2047,2,beer-name,Grapefruit Jungle (GFJ),-1
+2048,2,beer-name,Osiris Pale Alen,1
+2049,7,brewery-name,Sun King Brewing Company,-1
+2050,3,style,,1
+2051,2,beer-name,Bourbon Barrel Cowbell,-1
+2052,0,index,2053h,1
+2053,8,city,Indianapolis,-1
+2054,4,abv,C0.054,1
+2055,5,ibu,60,-1
+2056,0,index,,1
+2057,2,beer-name,The Velvet Fog,-1
+2058,4,abv,500.5,1
+2059,6,brewery_id,25,-1
+2060,3,style,Dortmunder / Export Lagers,1
+2061,0,index,2062,-1
+2062,6,brewery_id,25,1
+2063,2,beer-name,Wee Muckle (2011),-1
+2064,0,index,,1
+2065,7,brewery-name,Sun King Brewing Company,-1
+2066,8,city,IndianapolisX,1
+2067,0,index,2068,-1
+2068,8,city,dIndianapolis,1
+2069,6,brewery_id,25,-1
+2070,8,city,,1
+2071,3,style,American IPA,-1
+2072,1,id,5324,1
+2073,3,style,Extra Special / Strong Bitter (ESB),-1
+2074,2,beer-name,KKABRL,1
+2075,8,city,Brooklyn Center,-1
+2076,9,state,MNk,1
+2077,2,beer-name,Bitter Brewer,-1
+2078,3,style,Rye Beerh,1
+2079,9,state,MN,-1
+2080,0,index,2081D,1
+2081,4,abv,0.097,-1
+2082,1,id,,1
+2083,2,beer-name,CynicAle,-1
+2084,5,ibu,99L,1
+2085,1,id,1242,-1
+2086,6,brewery_id,t447,1
+2087,8,city,Gainesville,-1
+2088,6,brewery_id,R447,1
+2089,0,index,2090,-1
+2090,8,city,XManheim,1
+2091,0,index,2092,-1
+2092,1,id,,1
+2093,5,ibu,,-1
+2094,0,index,0592,1
+2095,2,beer-name,Dodgy Knight Imperial IPA,-1
+2096,8,city,San Diegou,1
+2097,1,id,663,-1
+2098,5,ibu,44I,1
+2099,4,abv,0.049,-1
+2100,4,abv,j0.05,1
+2101,2,beer-name,Blacktop Blonde,-1
+2102,1,id,b361,1
+2103,1,id,2575,-1
+2104,6,brewery_id,,1
+2105,6,brewery_id,45,-1
+2106,9,state,KS,1
+2107,3,style,Oatmeal Stout,-1
+2108,7,brewery-name,agaerp myrTBnwslos nlCiag,1
+2109,8,city,Manhattan,-1
+2110,8,city,nnhaattaM,1
+2111,1,id,765,-1
+2112,9,state,IKS,1
+2113,9,state,KS,-1
+2114,8,city,Manhattans,1
+2115,0,index,2116,-1
+2116,6,brewery_id,,1
+2117,7,brewery-name,Tallgrass Brewing Company,-1
+2118,2,beer-name,,1
+2119,5,ibu,20,-1
+2120,5,ibu,60r,1
+2121,8,city,Lakeside,-1
+2122,6,brewery_id,409V,1
+2123,7,brewery-name,Tampa Bay Brewing Company,-1
+2124,8,city,aTpma,1
+2125,1,id,2640,-1
+2126,5,ibu,,1
+2127,6,brewery_id,7,-1
+2128,3,style,mDubbel,1
+2129,9,state,CO,-1
+2130,8,city,TellurideD,1
+2131,0,index,2132,-1
+2132,1,id,x2155,1
+2133,3,style,Fruit / Vegetable Beer,-1
+2134,7,brewery-name,cpmC nTpeeae mBeaoenryr,1
+2135,1,id,1082,-1
+2136,8,city,imhdcRon,1
+2137,9,state,TX,-1
+2138,7,brewery-name,wTexian Brewing Co.,1
+2139,6,brewery_id,215,-1
+2140,5,ibu,,1
+2141,2,beer-name,The Crusher,-1
+2142,5,ibu,,1
+2143,6,brewery_id,272,-1
+2144,7,brewery-name,i ehheATmstcl,1
+2145,5,ibu,120,-1
+2146,3,style, A nrceeeAmm Ai/ rlaedRb,1
+2147,8,city,Sheridan,-1
+2148,2,beer-name,,1
+2149,7,brewery-name,The Black Tooth Brewing Company,-1
+2150,3,style,Belgian Pale Alek,1
+2151,2,beer-name,Ozzy,-1
+2152,5,ibu,I,1
+2153,8,city,Bronx,-1
+2154,9,state,YN,1
+2155,0,index,2156,-1
+2156,7,brewery-name,The Dudes' Brewing CompanyE,1
+2157,7,brewery-name,The Dudes' Brewing Company,-1
+2158,2,beer-name,,1
+2159,9,state,CA,-1
+2160,7,brewery-name,The Dudes' Brewing CompanyD,1
+2161,2,beer-name,Just IPA,-1
+2162,6,brewery_id,,1
+2163,5,ibu,,-1
+2164,5,ibu,U,1
+2165,9,state,MI,-1
+2166,3,style,Aone uctStimar,1
+2167,7,brewery-name,The Right Brain Brewery,-1
+2168,1,id,1732,1
+2169,8,city,Cold Spring,-1
+2170,8,city,Cold SpringO,1
+2171,3,style,Cream Ale,-1
+2172,4,abv,0.049P,1
+2173,1,id,2421,-1
+2174,2,beer-name,qKnotty Blonde Ale,1
+2175,0,index,2176,-1
+2176,1,id,2316I,1
+2177,7,brewery-name,Three Notch'd Brewing Company,-1
+2178,2,beer-name,c40 Mile IPA,1
+2179,0,index,2180,-1
+2180,7,brewery-name,,1
+2181,0,index,2182,-1
+2182,7,brewery-name,eiwgr niPenBseTthr ,1
+2183,7,brewery-name,Thunderhead Brewing Company,-1
+2184,5,ibu,,1
+2185,4,abv,0.075,-1
+2186,0,index,2187n,1
+2187,0,index,2188,-1
+2188,0,index,2189M,1
+2189,1,id,2621,-1
+2190,3,style,RoggenbierG,1
+2191,1,id,1449,-1
+2192,4,abv,0.058K,1
+2193,5,ibu,22,-1
+2194,8,city,nEsvlvleia,1
+2195,7,brewery-name,Tin Man Brewing Company,-1
+2196,3,style,eeilaAcBoeAdn nrm l,1
+2197,5,ibu,60,-1
+2198,2,beer-name,Parade Ground Coffee PorterJ,1
+2199,8,city,Baton Rouge,-1
+2200,5,ibu,,1
+2201,1,id,495,-1
+2202,1,id,944,1
+2203,6,brewery_id,291,-1
+2204,2,beer-name,Ornery Amber Lager (2003)X,1
+2205,4,abv,0.05,-1
+2206,2,beer-name,fPreservation IPA,1
+2207,6,brewery_id,265,-1
+2208,3,style,Milk / Sweet StoutC,1
+2209,9,state,NM,-1
+2210,7,brewery-name,mTriangle Brewing Company,1
+2211,2,beer-name,Triangle White Ale,-1
+2212,2,beer-name,Triangle Belgian Golden AleZ,1
+2213,2,beer-name,Troegenator,-1
+2214,5,ibu,39,1
+2215,9,state,PA,-1
+2216,4,abv,p0.082,1
+2217,8,city,Hershey,-1
+2218,1,id,433o,1
+2219,9,state,CO,-1
+2220,9,state,,1
+2221,9,state,TX,-1
+2222,4,abv,,1
+2223,6,brewery_id,190,-1
+2224,7,brewery-name,PTwo Beers Brewing Company,1
+2225,4,abv,0.052,-1
+2226,9,state,AW,1
+2227,2,beer-name,Presidential Pils,-1
+2228,1,id,,1
+2229,8,city,Seattle,-1
+2230,8,city,XSeattle,1
+2231,9,state,WA,-1
+2232,9,state,,1
+2233,4,abv,0.048,-1
+2234,8,city,tleetSa,1
+2235,7,brewery-name,Two Brothers Brewing Company,-1
+2236,7,brewery-name,,1
+2237,6,brewery_id,74,-1
+2238,7,brewery-name,cTwo Brothers Brewing Company,1
+2239,5,ibu,36,-1
+2240,7,brewery-name,QTwo Brothers Brewing Company,1
+2241,1,id,1041,-1
+2242,4,abv,0.065T,1
+2243,9,state,IL,-1
+2244,8,city,,1
+2245,6,brewery_id,243,-1
+2246,7,brewery-name,,1
+2247,3,style,American White IPA,-1
+2248,2,beer-name,Road 2 Ruin Double IPAT,1
+2249,0,index,2250,-1
+2250,5,ibu,N,1
+2251,6,brewery_id,159,-1
+2252,7,brewery-name,Uinta Brewing Companyx,1
+2253,1,id,1925,-1
+2254,1,id,3721,1
+2255,2,beer-name,SUM'R,-1
+2256,3,style,crzirhebawS,1
+2257,4,abv,0.073,-1
+2258,2,beer-name,TCutthroat Pale Ale,1
+2259,9,state,UT,-1
+2260,8,city,dUkiah,1
+2261,4,abv,0.06,-1
+2262,4,abv,F0.047,1
+2263,1,id,1704,-1
+2264,8,city,,1
+2265,0,index,2266,-1
+2266,5,ibu,,1
+2267,5,ibu,,-1
+2268,7,brewery-name,,1
+2269,9,state,CA,-1
+2270,6,brewery_id,,1
+2271,2,beer-name,Double Duckpin,-1
+2272,2,beer-name,rOld Pro,1
+2273,2,beer-name,Duckpin Pale Ale,-1
+2274,4,abv,0.06M,1
+2275,1,id,2190,-1
+2276,8,city,,1
+2277,2,beer-name,Dragonfly IPA,-1
+2278,5,ibu,,1
+2279,9,state,CO,-1
+2280,0,index,,1
+2281,3,style,American Double / Imperial Stout,-1
+2282,9,state,JCO,1
+2283,8,city,Boulder,-1
+2284,1,id,N1932,1
+2285,0,index,2286,-1
+2286,0,index,X2287,1
+2287,2,beer-name,Upslope Christmas Ale,-1
+2288,0,index,,1
+2289,4,abv,0.075,-1
+2290,8,city,dulBoer,1
+2291,5,ibu,15,-1
+2292,0,index,,1
+2293,6,brewery_id,51,-1
+2294,1,id,,1
+2295,7,brewery-name,Upslope Brewing Company,-1
+2296,6,brewery_id,i546,1
+2297,2,beer-name,Upstate I.P.W.,-1
+2298,2,beer-name,eqAentu  tllaeuSlFrup  lensSaPossi,1
+2299,8,city,Salt Lake City,-1
+2300,1,id,1428,1
+2301,1,id,1823,-1
+2302,9,state,UTl,1
+2303,1,id,1681,-1
+2304,3,style,American Double / Imperial IPAf,1
+2305,7,brewery-name,Utah Brewers Cooperative,-1
+2306,9,state,,1
+2307,9,state,MI,-1
+2308,7,brewery-name,inMrrddseVi a lleC,1
+2309,8,city,Spring Lake,-1
+2310,6,brewery_id,851,1
+2311,6,brewery_id,113,-1
+2312,8,city,MeadvilleO,1
+2313,2,beer-name,White Magick of the Sun,-1
+2314,3,style,,1
+2315,8,city,Meadville,-1
+2316,3,style,American IPAm,1
+2317,2,beer-name,Pilzilla,-1
+2318,9,state,oMA,1
+2319,2,beer-name,Green Monsta IPA,-1
+2320,5,ibu,A50,1
+2321,0,index,2322,-1
+2322,7,brewery-name,nWachusett Brewing Company,1
+2323,3,style,American Pale Wheat Ale,-1
+2324,1,id,1030S,1
+2325,9,state,MA,-1
+2326,3,style,,1
+2327,8,city,Westminster,-1
+2328,4,abv,600.,1
+2329,1,id,780,-1
+2330,4,abv,,1
+2331,9,state,OH,-1
+2332,2,beer-name,10 TonZ,1
+2333,2,beer-name,Flyin' Rye,-1
+2334,7,brewery-name,,1
+2335,6,brewery_id,100,-1
+2336,9,state,ZKY,1
+2337,4,abv,,-1
+2338,3,style,,1
+2339,3,style,Gose,-1
+2340,1,id,,1
+2341,7,brewery-name,Westbrook Brewing Company,-1
+2342,3,style,HMärzen / Oktoberfest,1
+2343,7,brewery-name,Westfield River Brewing Company,-1
+2344,5,ibu,V55,1
+2345,8,city,Weston,-1
+2346,7,brewery-name,,1
+2347,8,city,Weston,-1
+2348,5,ibu,j89,1
+2349,9,state,MO,-1
+2350,8,city,Westony,1
+2351,3,style,American Amber / Red Ale,-1
+2352,9,state,HN,1
+2353,7,brewery-name,White Birch Brewing,-1
+2354,1,id,N2571,1
+2355,1,id,2570,-1
+2356,2,beer-name,Super G IPAV,1
+2357,2,beer-name,Hefe Lemon,-1
+2358,0,index,,1
+2359,4,abv,0.049,-1
+2360,5,ibu,100k,1
+2361,2,beer-name,Pumpkin Ale,-1
+2362,1,id,1364e,1
+2363,4,abv,0.052,-1
+2364,0,index,5362,1
+2365,8,city,Lake Barrington,-1
+2366,6,brewery_id,e361,1
+2367,3,style,Oatmeal Stout,-1
+2368,6,brewery_id,631,1
+2369,2,beer-name,Paddy Pale Ale,-1
+2370,7,brewery-name,,1
+2371,4,abv,0.057,-1
+2372,9,state,VA,1
+2373,7,brewery-name,Wild Wolf Brewing Company,-1
+2374,8,city,,1
+2375,9,state,MT,-1
+2376,7,brewery-name,Wildwood Brewing Companyd,1
+2377,9,state,WY,-1
+2378,8,city,PinedaleR,1
+2379,8,city,Tacoma,-1
+2380,4,abv,0.08j,1
+2381,0,index,2382,-1
+2382,3,style,,1
+2383,0,index,2384,-1
+2384,3,style,iAmerican IPA,1
+2385,0,index,2386,-1
+2386,3,style,,1
+2387,3,style,American Pilsner,-1
+2388,4,abv,0.058W,1
+2389,3,style,American Brown Ale,-1
+2390,9,state,VAs,1
+2391,8,city,Ann Arbor,-1
+2392,2,beer-name,,1
+2393,7,brewery-name,"Woodstock Inn, Station & Brewery",-1
+2394,7,brewery-name,"aWoodstock Inn, Station & Brewery",1
+2395,4,abv,0.065,-1
+2396,7,brewery-name,inynomrpawBrgt h CoyeW,1
+2397,0,index,2398,-1
+2398,7,brewery-name,,1
+2399,8,city,Bend,-1
+2400,3,style,,1
+2401,2,beer-name,Patty's Chile Beer,-1
+2402,1,id,3611,1
+2403,9,state,CO,-1
+2404,0,index,2405N,1
+2405,3,style,Belgian IPA,-1
+2406,7,brewery-name,Wynkoop Brewing Companym,1
+2407,0,index,2408,-1
+2408,4,abv,0.055Y,1
+2409,7,brewery-name,Wynkoop Brewing Company,-1

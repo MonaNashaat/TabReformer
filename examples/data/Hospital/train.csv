@@ -1,0 +1,1001 @@
+tid,cid,column,value,label
+0,4,state,ALb,1
+1,16,stateavg,AL_SCIP-INF-1,-1
+2,14,score,n,1
+3,2,address1,1720 UNIVERSITY BLVD,-1
+4,10,emergency service,,1
+5,7,phone number,2053258100,-1
+6,1,hospital name,CALLAHAN EYE FOUNDATION HOSPITALr,1
+7,8,hospital type,Acute Care Hospitals,-1
+8,4,state,ALD,1
+9,7,phone number,2563864556,-1
+10,2,address1,m1300 SOUTH MONTGOMERY AVENUE,1
+11,14,score,100%,-1
+12,4,state,DAL,1
+13,15,sample,0 patients,-1
+14,16,stateavg,8LAI_AA-M,1
+15,0,provider number,10019,-1
+16,8,hospital type,,1
+17,2,address1,1300 SOUTH MONTGOMERY AVENUE,-1
+18,9,hospital owner,,1
+19,8,hospital type,Acute Care Hospitals,-1
+20,7,phone number,3947783103,1
+21,11,condition,Heart Attack,-1
+22,16,stateavg,,1
+23,5,zip code,36302,-1
+24,10,emergency service,eYs,1
+25,13,measure name,Heart Attack Patients Given PCI Within 90 Minutes Of Arrival,-1
+26,15,sample,,1
+27,13,measure name,Heart Failure Patients Given an Evaluation of Left Ventricular Systolic (LVS) Function,-1
+28,4,state,ALs,1
+29,2,address1,1108 ROSS CLARK CIRCLE,-1
+30,10,emergency service,GYes,1
+31,5,zip code,36302,-1
+32,5,zip code,36302T,1
+33,6,county name,HOUSTON,-1
+34,10,emergency service,Yesh,1
+35,7,phone number,3347938701,-1
+36,3,city,DNAHTO,1
+37,4,state,AL,-1
+38,7,phone number,3347938701M,1
+39,9,hospital owner,Government - Hospital District or Authority,-1
+40,13,measure name,,1
+41,13,measure name,surgery patients needing hair removed from the surgical area before surgery&#54; who had hair removed using a safer method (electric clippers or hair removal cream �C not a razor),-1
+42,6,county name,HOUSTONT,1
+43,0,provider number,10001,-1
+44,1,hospital name,,1
+45,15,sample,5 patients,-1
+46,8,hospital type,Acute Care HospitalsM,1
+47,7,phone number,2565938310,-1
+48,5,zip code,35957x,1
+49,3,city,BOAZ,-1
+50,1,hospital name,uMARSHALL MEDICAL CENTER SOUTH,1
+51,2,address1,2505 U S HIGHWAY 431 NORTH,-1
+52,6,county name,aMARSHALL,1
+53,3,city,BOAZ,-1
+54,6,county name,HLLAARSM,1
+55,1,hospital name,MARSHALL MEDICAL CENTER SOUTH,-1
+56,14,score,97%,1
+57,10,emergency service,Yes,-1
+58,7,phone number,,1
+59,0,provider number,10005,-1
+60,14,score,18%,1
+61,9,hospital owner,Government - Hospital District or Authority,-1
+62,6,county name,SHAARLML,1
+63,10,emergency service,Yes,-1
+64,7,phone number,2565938310V,1
+65,14,score,,-1
+66,13,measure name,,1
+67,3,city,BOAZ,-1
+68,7,phone number,5625019338,1
+69,6,county name,LAUDERDALE,-1
+70,7,phone number,2567688400W,1
+71,4,state,AL,-1
+72,2,address1,,1
+73,8,hospital type,Acute Care Hospitals,-1
+74,10,emergency service,YesI,1
+75,14,score,98%,-1
+76,3,city,aFLORENCE,1
+77,14,score,97%,-1
+78,5,zip code,35631c,1
+79,14,score,100%,-1
+80,1,hospital name,,1
+81,3,city,FLORENCE,-1
+82,11,condition,unomieanP,1
+83,0,provider number,10006,-1
+84,8,hospital type,Acute Care HospitalsF,1
+85,6,county name,LAUDERDALE,-1
+86,15,sample,,1
+87,1,hospital name,ELIZA COFFEE MEMORIAL HOSPITAL,-1
+88,0,provider number,B10006,1
+89,0,provider number,10006,-1
+90,1,hospital name,AEZLCFHL TOPFMOEM OR AILIEESAI,1
+91,3,city,FLORENCE,-1
+92,9,hospital owner,On aretrrtuf nol-htipooVy n-,1
+93,0,provider number,10006,-1
+94,16,stateavg,AL_AMI-1P,1
+95,9,hospital owner,Voluntary non-profit - Private,-1
+96,10,emergency service,NoV,1
+97,6,county name,COVINGTON,-1
+98,0,provider number,,1
+99,15,sample,0 patients,-1
+100,10,emergency service,nNo,1
+101,2,address1,702 N MAIN ST,-1
+102,5,zip code,F36467,1
+103,7,phone number,3344933541,-1
+104,9,hospital owner,,1
+105,3,city,OPP,-1
+106,9,hospital owner,Voluntary non-profit - Privatem,1
+107,2,address1,702 N MAIN ST,-1
+108,7,phone number,,1
+109,8,hospital type,Acute Care Hospitals,-1
+110,15,sample,C63 patients,1
+111,12,measure code,SCIP-CARD-2,-1
+112,11,condition,ercPnetigrfo onaISclneivu nit,1
+113,6,county name,COVINGTON,-1
+114,15,sample,,1
+115,4,state,AL,-1
+116,6,county name,KCOVINGTON,1
+117,8,hospital type,Acute Care Hospitals,-1
+118,6,county name,,1
+119,13,measure name,Heart Attack Patients Given Aspirin at Arrival,-1
+120,10,emergency service,Yes,1
+121,16,stateavg,AL_AMI-3,-1
+122,8,hospital type,,1
+123,3,city,LUVERNE,-1
+124,8,hospital type,fAcute Care Hospitals,1
+125,11,condition,Heart Attack,-1
+126,4,state,LA,1
+127,0,provider number,10008,-1
+128,12,measure code,-3FH,1
+129,10,emergency service,Yes,-1
+130,8,hospital type,vAcute Care Hospitals,1
+131,11,condition,Pneumonia,-1
+132,6,county name,lCRENSHAW,1
+133,2,address1,101 HOSPITAL CIRCLE,-1
+134,6,county name,CRENSHAWS,1
+135,6,county name,CRENSHAW,-1
+136,11,condition,WSurgical Infection Prevention,1
+137,12,measure code,SCIP-INF-1,-1
+138,0,provider number,E10008,1
+139,4,state,AL,-1
+140,7,phone number,,1
+141,6,county name,CRENSHAW,-1
+142,5,zip code,s36049,1
+143,1,hospital name,CRENSHAW COMMUNITY HOSPITAL,-1
+144,12,measure code,AMI-1J,1
+145,11,condition,Heart Attack,-1
+146,13,measure name,o(fEyRtu  nAADsal ciifo IaViebHVt s  uiLSorate  Cnnhyo SaiGk ceicPtAolfnctBnrrLr)etitnet vD ttsrr,1
+147,0,provider number,10009,-1
+148,9,hospital owner,Poiarytrepr,1
+149,10,emergency service,Yes,-1
+150,1,hospital name,,1
+151,6,county name,MORGAN,-1
+152,16,stateavg,,1
+153,6,county name,MORGAN,-1
+154,3,city,HARTSELLEK,1
+155,5,zip code,35640,-1
+156,15,sample,,1
+157,5,zip code,35640,-1
+158,12,measure code,PN-5Cp,1
+159,6,county name,MORGAN,-1
+160,16,stateavg,N7_A-LP,1
+161,11,condition,Surgical Infection Prevention,-1
+162,11,condition,,1
+163,3,city,HARTSELLE,-1
+164,10,emergency service,,1
+165,3,city,HARTSELLE,-1
+166,12,measure code,SCIP-INF-6d,1
+167,9,hospital owner,Proprietary,-1
+168,10,emergency service,esY,1
+169,8,hospital type,Acute Care Hospitals,-1
+170,6,county name,AMLARHSL,1
+171,0,provider number,10010,-1
+172,4,state,YAL,1
+173,6,county name,MARSHALL,-1
+174,11,condition,GHeart Attack,1
+175,10,emergency service,Yes,-1
+176,3,city,,1
+177,13,measure name,Heart Failure Patients Given an Evaluation of Left Ventricular Systolic (LVS) Function,-1
+178,12,measure code,VHF-3,1
+179,8,hospital type,Acute Care Hospitals,-1
+180,7,phone number,2565718000b,1
+181,1,hospital name,MARSHALL MEDICAL CENTER NORTH,-1
+182,7,phone number,r2565718000,1
+183,7,phone number,2565718000,-1
+184,16,stateavg,NL_P-6A,1
+185,1,hospital name,MARSHALL MEDICAL CENTER NORTH,-1
+186,2,address1,W8000 ALABAMA HIGHWAY 69,1
+187,1,hospital name,MARSHALL MEDICAL CENTER NORTH,-1
+188,7,phone number,1552870060,1
+189,13,measure name,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),-1
+190,16,stateavg,P-ICSNA-I4FL_,1
+191,7,phone number,2565718000,-1
+192,2,address1,0L8HAM YA00AW HIA 96AGB,1
+193,0,provider number,10010,-1
+194,8,hospital type,bAcute Care Hospitals,1
+195,3,city,BIRMINGHAM,-1
+196,14,score,e91%,1
+197,2,address1,50 MEDICAL PARK EAST DRIVE,-1
+198,10,emergency service,FYes,1
+199,15,sample,0 patients,-1
+200,7,phone number,J2058383122,1
+201,13,measure name,Heart Failure Patients Given Discharge Instructions,-1
+202,3,city,BIRMINGHAMC,1
+203,5,zip code,35235,-1
+204,14,score,,1
+205,5,zip code,35235,-1
+206,0,provider number,10101,1
+207,11,condition,Pneumonia,-1
+208,16,stateavg,XAL_PN-5C,1
+209,2,address1,50 MEDICAL PARK EAST DRIVE,-1
+210,10,emergency service,,1
+211,0,provider number,10011,-1
+212,6,county name,JEFFERSONo,1
+213,9,hospital owner,Voluntary non-profit - Private,-1
+214,12,measure code,,1
+215,1,hospital name,ST VINCENT'S EAST,-1
+216,15,sample,,1
+217,14,score,89%,-1
+218,14,score,,1
+219,2,address1,200 MED CENTER DRIVE,-1
+220,14,score,95%y,1
+221,8,hospital type,Acute Care Hospitals,-1
+222,13,measure name,/siA aCtg aestGe iaoknsAnmeitu vPie tittCncvda SosneHcnogirekln,1
+223,12,measure code,AMI-5,-1
+224,1,hospital name,mDEKALB REGIONAL MEDICAL CENTER,1
+225,6,county name,DE KALB,-1
+226,6,county name,XDE KALB,1
+227,3,city,FORT PAYNE,-1
+228,1,hospital name,,1
+229,12,measure code,HF-4,-1
+230,4,state,AL,1
+231,10,emergency service,Yes,-1
+232,16,stateavg,-PN_4AL,1
+233,11,condition,Pneumonia,-1
+234,0,provider number,F10012,1
+235,16,stateavg,AL_PN-7,-1
+236,7,phone number,2568453150K,1
+237,4,state,AL,-1
+238,8,hospital type,,1
+239,1,hospital name,DEKALB REGIONAL MEDICAL CENTER,-1
+240,10,emergency service,TYes,1
+241,16,stateavg,AL_SCIP-INF-6,-1
+242,11,condition,ieenatSo erctv nlnguofPInciir,1
+243,3,city,FORT PAYNE,-1
+244,2,address1,,1
+245,10,emergency service,Yes,-1
+246,1,hospital name,UA AEEBTMSELTIDLOWSHNM AAACC RTE,1
+247,15,sample,0 patients,-1
+248,16,stateavg,AL_AMI-5x,1
+249,4,state,AL,-1
+250,9,hospital owner,Fee-eomdaelrnv rn tG,1
+251,7,phone number,3346366221,-1
+252,13,measure name,Heart Failure Patients Given an Evaluation of Left Ventricular Systolic (LVS) Functionp,1
+253,9,hospital owner,Government - Federal,-1
+254,7,phone number,,1
+255,14,score,92%,-1
+256,5,zip code,,1
+257,7,phone number,3346366221,-1
+258,6,county name,RLKCEA,1
+259,8,hospital type,Acute Care Hospitals,-1
+260,0,provider number,,1
+261,16,stateavg,AL_SCIP-CARD-2,-1
+262,16,stateavg,,1
+263,7,phone number,3346366221,-1
+264,12,measure code,mSCIP-INF-3,1
+265,8,hospital type,Acute Care Hospitals,-1
+266,12,measure code,ICPI--N6FS,1
+267,14,score,90%,-1
+268,2,address1,A07WY3H0G 34 3HI,1
+269,1,hospital name,SHELBY BAPTIST MEDICAL CENTER,-1
+270,11,condition,t rattaAHkce,1
+271,3,city,ALABASTER,-1
+272,2,address1,,1
+273,9,hospital owner,Voluntary non-profit - Church,-1
+274,12,measure code,,1
+275,2,address1,1000 FIRST STREET NORTH,-1
+276,16,stateavg,NAL_HF-1,1
+277,8,hospital type,Acute Care Hospitals,-1
+278,5,zip code,35007m,1
+279,2,address1,1000 FIRST STREET NORTH,-1
+280,0,provider number,,1
+281,8,hospital type,Acute Care Hospitals,-1
+282,8,hospital type,Acute Care Hospitalsp,1
+283,2,address1,1000 FIRST STREET NORTH,-1
+284,11,condition,,1
+285,6,county name,SHELBY,-1
+286,4,state,xAL,1
+287,6,county name,SHELBY,-1
+288,8,hospital type,wAcute Care Hospitals,1
+289,3,city,ALABASTER,-1
+290,0,provider number,g10016,1
+291,9,hospital owner,Voluntary non-profit - Church,-1
+292,6,county name,,1
+293,9,hospital owner,Voluntary non-profit - Church,-1
+294,12,measure code,AIM1-,1
+295,6,county name,JEFFERSON,-1
+296,13,measure name,,1
+297,1,hospital name,CALLAHAN EYE FOUNDATION HOSPITAL,-1
+298,0,provider number,10018P,1
+299,15,sample,,-1
+300,0,provider number,,1
+301,1,hospital name,CALLAHAN EYE FOUNDATION HOSPITAL,-1
+302,2,address1,B2V7IYTL10UESNR  DIV,1
+303,15,sample,,-1
+304,14,score,,1
+305,15,sample,,-1
+306,3,city,INGRHMIBMA,1
+307,10,emergency service,Yes,-1
+308,4,state,,1
+309,1,hospital name,CALLAHAN EYE FOUNDATION HOSPITAL,-1
+310,0,provider number,01810,1
+311,5,zip code,36201,-1
+312,10,emergency service,YesJ,1
+313,11,condition,Heart Attack,-1
+314,12,measure code,,1
+315,9,hospital owner,Proprietary,-1
+316,3,city,TIANNONS,1
+317,12,measure code,AMI-5,-1
+318,8,hospital type,,1
+319,1,hospital name,STRINGFELLOW MEMORIAL HOSPITAL,-1
+320,5,zip code,03126,1
+321,14,score,100%,-1
+322,1,hospital name,L NLHPTAREAG OSEFOMITMILOIWRSL,1
+323,5,zip code,36201,-1
+324,3,city,,1
+325,12,measure code,PN-3B,-1
+326,14,score,a100%,1
+327,11,condition,Pneumonia,-1
+328,13,measure name,,1
+329,9,hospital owner,Proprietary,-1
+330,10,emergency service,YesF,1
+331,14,score,100%,-1
+332,0,provider number,P10055,1
+333,14,score,100%,-1
+334,16,stateavg,2AN_-LP,1
+335,14,score,100%,-1
+336,1,hospital name,,1
+337,12,measure code,PN-5C,-1
+338,15,sample,nia21stet 1p,1
+339,13,measure name,Pneumonia Patients Assessed and Given Influenza Vaccination,-1
+340,3,city,DOTHANz,1
+341,1,hospital name,FLOWERS HOSPITAL,-1
+342,8,hospital type,Acute Care Hospitalss,1
+343,12,measure code,SCIP-INF-3,-1
+344,3,city,,1
+345,8,hospital type,Acute Care Hospitals,-1
+346,6,county name,,1
+347,3,city,DOTHAN,-1
+348,9,hospital owner,,1
+349,13,measure name,Heart Attack Patients Given Aspirin at Discharge,-1
+350,2,address1,,1
+351,1,hospital name,ST VINCENTS HOSPITAL,-1
+352,4,state,vAL,1
+353,3,city,DECATUR,-1
+354,10,emergency service,HYes,1
+355,4,state,AL,-1
+356,16,stateavg,,1
+357,7,phone number,2054877736,-1
+358,6,county name,,1
+359,14,score,0%,-1
+360,14,score,,1
+361,6,county name,MARION,-1
+362,0,provider number,,1
+363,12,measure code,HF-3,-1
+364,9,hospital owner,yiPorertpar,1
+365,2,address1,1530 U S HIGHWAY 43,-1
+366,0,provider number,,1
+367,10,emergency service,Yes,-1
+368,1,hospital name,NORTHWEST MEDICAL CENTERQ,1
+369,9,hospital owner,Proprietary,-1
+370,13,measure name,,1
+371,5,zip code,35594,-1
+372,13,measure name,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infectionx,1
+373,8,hospital type,Acute Care Hospitals,-1
+374,1,hospital name,MWNA CTSLIRDERETN OECTEH,1
+375,16,stateavg,AL_SCIP-INF-4,-1
+376,3,city,rWINFIELD,1
+377,5,zip code,35594,-1
+378,5,zip code,35594c,1
+379,0,provider number,10087,-1
+380,3,city,LEMOIB,1
+381,1,hospital name,UNIV OF SOUTH ALABAMA MEDICAL CENTER,-1
+382,3,city,MOBILEu,1
+383,8,hospital type,Acute Care Hospitals,-1
+384,9,hospital owner,,1
+385,10,emergency service,Yes,-1
+386,4,state,LA,1
+387,12,measure code,HF-2,-1
+388,7,phone number,C2514717110,1
+389,7,phone number,2514717110,-1
+390,5,zip code,g36617,1
+391,2,address1,2451 FILLINGIM STREET,-1
+392,5,zip code,67360,1
+393,2,address1,124 S MEMORIAL DR,-1
+394,4,state,ALr,1
+395,8,hospital type,Acute Care Hospitals,-1
+396,13,measure name,yHeart Attack Patients Given Fibrinolytic Medication Within 30 Minutes Of Arrival,1
+397,5,zip code,36067,-1
+398,16,stateavg,,1
+399,6,county name,AUTAUGA,-1
+400,4,state,qAL,1
+401,1,hospital name,PRATTVILLE BAPTIST HOSPITAL,-1
+402,2,address1,124 S MEMORIAL DRp,1
+403,13,measure name,Pneumonia Patients Whose Initial Emergency Room Blood Culture Was Performed Prior To The Administration Of The First Hospital Dose Of Antibiotics,-1
+404,7,phone number,3343614267M,1
+405,12,measure code,PN-5C,-1
+406,5,zip code,,1
+407,6,county name,AUTAUGA,-1
+408,2,address1,,1
+409,15,sample,10 patients,-1
+410,15,sample,10 patientsc,1
+411,1,hospital name,PRATTVILLE BAPTIST HOSPITAL,-1
+412,13,measure name,vsurgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries,1
+413,7,phone number,2563321611,-1
+414,11,condition,Heart AttackX,1
+415,7,phone number,2562495000,-1
+416,16,stateavg,3AMI_L-A,1
+417,14,score,,-1
+418,16,stateavg,kAL_AMI-5,1
+419,1,hospital name,COOSA VALLEY MEDICAL CENTER,-1
+420,9,hospital owner,,1
+421,3,city,SYLACAUGA,-1
+422,13,measure name,lavsuinacrsic anot aet)VLFa  oe t( fStl nit naVerc HinPtoterii venyuar ouEeLFltufGnSli,1
+423,9,hospital owner,Voluntary non-profit - Other,-1
+424,3,city,SYLACAUGAu,1
+425,4,state,AL,-1
+426,12,measure code,VPN-3B,1
+427,9,hospital owner,Voluntary non-profit - Other,-1
+428,11,condition,Pneumoniax,1
+429,2,address1,315 W HICKORY ST,-1
+430,10,emergency service,NoV,1
+431,10,emergency service,No,-1
+432,13,measure name,dHeart Failure Patients Given Discharge Instructions,1
+433,5,zip code,99508,-1
+434,9,hospital owner,Proprietaryp,1
+435,13,measure name,Heart Failure Patients Given Smoking Cessation Advice/Counseling,-1
+436,7,phone number,,1
+437,9,hospital owner,Proprietary,-1
+438,10,emergency service,YesQ,1
+439,12,measure code,PN-5C,-1
+440,1,hospital name,nALASKA REGIONAL HOSPITAL,1
+441,12,measure code,PN-7,-1
+442,7,phone number,,1
+443,3,city,ANCHORAGE,-1
+444,0,provider number,a20017,1
+445,11,condition,Surgical Infection Prevention,-1
+446,7,phone number,9072761131i,1
+447,7,phone number,9072761131,-1
+448,14,score,%49,1
+449,3,city,ANCHORAGE,-1
+450,6,county name,BETHELW,1
+451,14,score,,-1
+452,15,sample,e1t s0atp5ni,1
+453,7,phone number,2563864556,-1
+454,0,provider number,,1
+455,0,provider number,10019,-1
+456,11,condition,PneumoniaU,1
+457,6,county name,JEFFERSON,-1
+458,3,city,SHEFFIELDY,1
+459,10,emergency service,Yes,-1
+460,3,city,,1
+461,5,zip code,35660,-1
+462,2,address1,METUVONN0G  MA0RSEOHY 3EOTU1,1
+463,9,hospital owner,Government - Hospital District or Authority,-1
+464,10,emergency service,Yesw,1
+465,2,address1,1300 SOUTH MONTGOMERY AVENUE,-1
+466,9,hospital owner,otivol ycoutsGAe thatirnotrsrm p t eriin-HD,1
+467,6,county name,DALE,-1
+468,7,phone number,3347742601D,1
+469,6,county name,DALE,-1
+470,1,hospital name,DALE MEDICAL CENTERc,1
+471,8,hospital type,Acute Care Hospitals,-1
+472,6,county name,,1
+473,2,address1,126 HOSPITAL AVE,-1
+474,12,measure code,HF-2W,1
+475,8,hospital type,Acute Care Hospitals,-1
+476,7,phone number,,1
+477,9,hospital owner,Government - Hospital District or Authority,-1
+478,7,phone number,,1
+479,9,hospital owner,Government - Hospital District or Authority,-1
+480,9,hospital owner,PGovernment - Hospital District or Authority,1
+481,14,score,64%,-1
+482,12,measure code,P-7N,1
+483,0,provider number,10021,-1
+484,16,stateavg,fAL_SCIP-INF-1,1
+485,8,hospital type,Acute Care Hospitals,-1
+486,3,city,KRAOZ,1
+487,3,city,OZARK,-1
+488,3,city,VOZARK,1
+489,16,stateavg,AL_SCIP-VTE-1,-1
+490,2,address1,r126 HOSPITAL AVE,1
+491,4,state,AL,-1
+492,3,city,,1
+493,9,hospital owner,Voluntary non-profit - Private,-1
+494,11,condition,Hta teraktAc,1
+495,12,measure code,AMI-5,-1
+496,7,phone number,5623155792,1
+497,16,stateavg,AL_AMI-8A,-1
+498,12,measure code,,1
+499,0,provider number,10022,-1
+500,3,city,CENTREr,1
+501,2,address1,400 NORTHWOOD DR,-1
+502,13,measure name,Pneumonia Patients Assessed and Given Pneumococcal VaccinationU,1
+503,11,condition,Pneumonia,-1
+504,4,state,,1
+505,16,stateavg,AL_PN-5C,-1
+506,10,emergency service,,1
+507,6,county name,CHEROKEE,-1
+508,4,state,,1
+509,6,county name,CHEROKEE,-1
+510,2,address1,Y400 NORTHWOOD DR,1
+511,13,measure name,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),-1
+512,9,hospital owner,a-eroiortpauVtyotnfiP-n  vln r,1
+513,13,measure name,surgery patients needing hair removed from the surgical area before surgery&#54; who had hair removed using a safer method (electric clippers or hair removal cream �C not a razor),-1
+514,10,emergency service,,1
+515,14,score,100%,-1
+516,1,hospital name,BAPTIST MEDICAL CENTER SOUTHh,1
+517,4,state,AL,-1
+518,0,provider number,,1
+519,3,city,MONTGOMERY,-1
+520,3,city,,1
+521,11,condition,Heart Attack,-1
+522,2,address1,TBT UEHUVD0S SORA 1OEAL52,1
+523,9,hospital owner,Voluntary non-profit - Church,-1
+524,11,condition,Heart FailureD,1
+525,13,measure name,Heart Failure Patients Given ACE Inhibitor or ARB for Left Ventricular Systolic Dysfunction (LVSD),-1
+526,12,measure code,,1
+527,10,emergency service,Yes,-1
+528,15,sample,Z103 patients,1
+529,12,measure code,PN-4,-1
+530,0,provider number,D10023,1
+531,12,measure code,PN-6,-1
+532,0,provider number,10023z,1
+533,6,county name,MONTGOMERY,-1
+534,4,state,,1
+535,12,measure code,SCIP-INF-2,-1
+536,0,provider number,10023f,1
+537,10,emergency service,Yes,-1
+538,6,county name,ZMONTGOMERY,1
+539,5,zip code,36116,-1
+540,8,hospital type, surseAciaottp alHCe,1
+541,6,county name,MONTGOMERY,-1
+542,0,provider number,02140,1
+543,14,score,79%,-1
+544,6,county name,TNRMOGEMYO,1
+545,3,city,MONTGOMERY,-1
+546,15,sample,R0 patients,1
+547,9,hospital owner,Voluntary non-profit - Private,-1
+548,10,emergency service,Yes,1
+549,13,measure name,Heart Failure Patients Given an Evaluation of Left Ventricular Systolic (LVS) Function,-1
+550,13,measure name,VHeart Failure Patients Given ACE Inhibitor or ARB for Left Ventricular Systolic Dysfunction (LVSD),1
+551,13,measure name,Heart Failure Patients Given Smoking Cessation Advice/Counseling,-1
+552,7,phone number,T3342938000,1
+553,16,stateavg,AL_PN-3B,-1
+554,13,measure name,,1
+555,16,stateavg,AL_PN-5C,-1
+556,16,stateavg,AL_PN-6S,1
+557,3,city,MONTGOMERY,-1
+558,7,phone number,,1
+559,11,condition,Surgical Infection Prevention,-1
+560,2,address1,X1725 PINE STREET,1
+561,16,stateavg,AL_SCIP-INF-3,-1
+562,15,sample,,1
+563,13,measure name,surgery patients needing hair removed from the surgical area before surgery&#54; who had hair removed using a safer method (electric clippers or hair removal cream �C not a razor),-1
+564,12,measure code,SCIP-VTE-1k,1
+565,14,score,87%,-1
+566,11,condition,Heart Attackf,1
+567,15,sample,10 patients,-1
+568,4,state,ALR,1
+569,11,condition,Heart Attack,-1
+570,11,condition,Heart Attacke,1
+571,9,hospital owner,Voluntary non-profit - Other,-1
+572,11,condition,Heart AttackU,1
+573,6,county name,CHAMBERS,-1
+574,3,city,VALLEYc,1
+575,0,provider number,10025,-1
+576,3,city,WVALLEY,1
+577,8,hospital type,Acute Care Hospitals,-1
+578,5,zip code,36854i,1
+579,7,phone number,3347561400,-1
+580,2,address1,4800 48TH STQ,1
+581,6,county name,CHAMBERS,-1
+582,6,county name,,1
+583,0,provider number,10025,-1
+584,14,score,j100%,1
+585,9,hospital owner,Voluntary non-profit - Other,-1
+586,4,state,LA,1
+587,16,stateavg,AL_SCIP-INF-4,-1
+588,2,address1,8 0TTS0H4 48,1
+589,9,hospital owner,Voluntary non-profit - Other,-1
+590,14,score,82%a,1
+591,2,address1,987 DRAYTON STREET,-1
+592,7,phone number,,1
+593,16,stateavg,AL_AMI-3,-1
+594,6,county name,,1
+595,12,measure code,AMI-5,-1
+596,3,city,LAEB,1
+597,14,score,,-1
+598,7,phone number,,1
+599,3,city,ELBA,-1
+600,7,phone number,,1
+601,15,sample,0 patients,-1
+602,10,emergency service,Yess,1
+603,15,sample,19 patients,-1
+604,11,condition,nemaPuion,1
+605,7,phone number,3348972257,-1
+606,6,county name,COFFEEC,1
+607,1,hospital name,ELBA GENERAL HOSPITAL,-1
+608,6,county name,,1
+609,4,state,AL,-1
+610,6,county name,pCOFFEE,1
+611,3,city,ELBA,-1
+612,14,score,,1
+613,2,address1,987 DRAYTON STREET,-1
+614,4,state,,1
+615,3,city,ELBA,-1
+616,15,sample,,1
+617,0,provider number,10029,-1
+618,1,hospital name,,1
+619,4,state,AL,-1
+620,5,zip code,,1
+621,1,hospital name,EAST ALABAMA MEDICAL CENTER AND SNF,-1
+622,6,county name,HLEE,1
+623,15,sample,527 patients,-1
+624,10,emergency service,sYe,1
+625,16,stateavg,AL_HF-3,-1
+626,13,measure name,,1
+627,7,phone number,3347493411,-1
+628,0,provider number,20091,1
+629,6,county name,LEE,-1
+630,14,score,96%j,1
+631,0,provider number,10029,-1
+632,6,county name,EEL,1
+633,16,stateavg,AL_SCIP-CARD-2,-1
+634,6,county name,EEL,1
+635,1,hospital name,EAST ALABAMA MEDICAL CENTER AND SNF,-1
+636,15,sample,,1
+637,1,hospital name,EAST ALABAMA MEDICAL CENTER AND SNF,-1
+638,1,hospital name,dEAST ALABAMA MEDICAL CENTER AND SNF,1
+639,13,measure name,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries,-1
+640,7,phone number,y3347493411,1
+641,13,measure name,Heart Attack Patients Given Aspirin at Arrival,-1
+642,14,score,67%,1
+643,9,hospital owner,Government - Local,-1
+644,7,phone number,2563572111a,1
+645,13,measure name,Heart Attack Patients Given Beta Blocker at Discharge,-1
+646,2,address1,209 NORTH MAIN STREETU,1
+647,11,condition,Heart Attack,-1
+648,12,measure code,THF-1,1
+649,16,stateavg,AL_HF-2,-1
+650,10,emergency service,uNo,1
+651,12,measure code,HF-4,-1
+652,11,condition,PneumoniaK,1
+653,14,score,100%,-1
+654,14,score,g67%,1
+655,7,phone number,2563572111,-1
+656,10,emergency service,,1
+657,6,county name,RANDOLPH,-1
+658,0,provider number,10032N,1
+659,4,state,AL,-1
+660,9,hospital owner,c nmlteL-nra oGeov,1
+661,9,hospital owner,Government - Local,-1
+662,14,score,X,1
+663,15,sample,,-1
+664,7,phone number,C2563572111,1
+665,15,sample,,-1
+666,15,sample,229 patientsv,1
+667,14,score,98%,-1
+668,7,phone number,2059344011R,1
+669,9,hospital owner,Government - State,-1
+670,12,measure code,MA5I-,1
+671,7,phone number,2059344011,-1
+672,11,condition, tktctraaHAe,1
+673,7,phone number,2059344011,-1
+674,5,zip code,33352,1
+675,1,hospital name,UNIVERSITY OF ALABAMA HOSPITAL,-1
+676,11,condition,Heart FailureD,1
+677,0,provider number,10033,-1
+678,1,hospital name,XUNIVERSITY OF ALABAMA HOSPITAL,1
+679,4,state,AL,-1
+680,9,hospital owner, trnvetaoS metn-eG,1
+681,16,stateavg,AL_PN-6,-1
+682,0,provider number,13030,1
+683,3,city,BIRMINGHAM,-1
+684,14,score,,1
+685,6,county name,JEFFERSON,-1
+686,7,phone number,2059344011M,1
+687,2,address1,619 SOUTH 19TH STREET,-1
+688,2,address1,EHSTRU9T S1 EH96 TO1T,1
+689,13,measure name,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries,-1
+690,14,score,,1
+691,13,measure name,Heart Attack Patients Given Aspirin at Arrival,-1
+692,2,address1,805 FRIENDSHIP ROADG,1
+693,5,zip code,36078,-1
+694,12,measure code,AMI-4Y,1
+695,15,sample,4 patients,-1
+696,16,stateavg,A7_AA-MIL,1
+697,2,address1,805 FRIENDSHIP ROAD,-1
+698,2,address1,y805 FRIENDSHIP ROAD,1
+699,16,stateavg,AL_HF-2,-1
+700,5,zip code,,1
+701,5,zip code,36078,-1
+702,1,hospital name,XCOMMUNITY HOSPITAL INC,1
+703,10,emergency service,No,-1
+704,2,address1,,1
+705,6,county name,ELMORE,-1
+706,3,city,STELSLEAA,1
+707,13,measure name,Pneumonia Patients Assessed and Given Influenza Vaccination,-1
+708,0,provider number,34010,1
+709,11,condition,Surgical Infection Prevention,-1
+710,3,city,zTALLASSEE,1
+711,8,hospital type,Acute Care Hospitals,-1
+712,0,provider number,,1
+713,14,score,100%,-1
+714,3,city,TLSLASEEA,1
+715,3,city,TALLASSEE,-1
+716,11,condition,trc eAaktatH,1
+717,12,measure code,AMI-2,-1
+718,12,measure code,LAMI-3,1
+719,3,city,CULLMAN,-1
+720,11,condition,Heart Attackf,1
+721,16,stateavg,AL_AMI-7A,-1
+722,10,emergency service,Yesd,1
+723,13,measure name,Heart Failure Patients Given Discharge Instructions,-1
+724,1,hospital name,vCULLMAN REGIONAL MEDICAL CENTER,1
+725,10,emergency service,Yes,-1
+726,0,provider number,10035g,1
+727,13,measure name,Pneumonia Patients Assessed and Given Pneumococcal Vaccination,-1
+728,2,address1,,1
+729,12,measure code,PN-4,-1
+730,14,score,99%D,1
+731,4,state,AL,-1
+732,14,score,89%,1
+733,15,sample,68 patients,-1
+734,10,emergency service,YesA,1
+735,2,address1,1912 ALABAMA HIGHWAY 157,-1
+736,15,sample,,1
+737,8,hospital type,Acute Care Hospitals,-1
+738,14,score,,1
+739,6,county name,CULLMAN,-1
+740,7,phone number,3560702720,1
+741,10,emergency service,No,-1
+742,0,provider number,F10036,1
+743,16,stateavg,AL_AMI-3,-1
+744,3,city,,1
+745,4,state,AL,-1
+746,15,sample,,1
+747,2,address1,849 SOUTH THREE NOTCH STREET,-1
+748,8,hospital type,Acute Care HospitalsV,1
+749,3,city,ANDALUSIA,-1
+750,13,measure name,,1
+751,7,phone number,3342228466,-1
+752,15,sample,77 patientsn,1
+753,4,state,AL,-1
+754,7,phone number,3342228466a,1
+755,1,hospital name,ANDALUSIA REGIONAL HOSPITAL,-1
+756,3,city,NANDALUSIA,1
+757,8,hospital type,Acute Care Hospitals,-1
+758,9,hospital owner,kProprietary,1
+759,7,phone number,3342228466,-1
+760,6,county name,TCOVINGTON,1
+761,5,zip code,36420,-1
+762,15,sample,,1
+763,5,zip code,36420,-1
+764,12,measure code,VP1SC-EIT-,1
+765,12,measure code,SCIP-VTE-2,-1
+766,0,provider number,10038l,1
+767,10,emergency service,Yes,-1
+768,15,sample,L98 patients,1
+769,0,provider number,10038,-1
+770,12,measure code,I-4I-CPSFN,1
+771,16,stateavg,AL_SCIP-INF-6,-1
+772,15,sample,etip7tsn 1a1,1
+773,11,condition,Surgical Infection Prevention,-1
+774,3,city,FHUNTSVILLE,1
+775,12,measure code,CAC-2,-1
+776,4,state,LA,1
+777,5,zip code,35801,-1
+778,9,hospital owner,v noriciu GlotoAhttept-s  aentrmisir rHoDty,1
+779,9,hospital owner,Government - Hospital District or Authority,-1
+780,10,emergency service,seY,1
+781,12,measure code,AMI-5,-1
+782,4,state,ALD,1
+783,0,provider number,10039,-1
+784,8,hospital type,eaA siusp ttCoacHerl,1
+785,15,sample,303 patients,-1
+786,4,state,eAL,1
+787,12,measure code,HF-4,-1
+788,15,sample,,1
+789,2,address1,101 SIVLEY RD,-1
+790,2,address1,I101 SIVLEY RD,1
+791,12,measure code,PN-5C,-1
+792,10,emergency service,,1
+793,7,phone number,2562651000,-1
+794,9,hospital owner,iti tiuter opHoGnctDyvh m  siars-Atlrroeont,1
+795,5,zip code,35801,-1
+796,14,score,99%u,1
+797,9,hospital owner,Government - Hospital District or Authority,-1
+798,3,city,HUNTSVILLEx,1
+799,7,phone number,2562651000,-1
+800,8,hospital type, CeoAitectl rusaaHps,1
+801,1,hospital name,HUNTSVILLE HOSPITAL,-1
+802,3,city,ESANGDD,1
+803,0,provider number,10040,-1
+804,6,county name,WEAOTH,1
+805,5,zip code,35903,-1
+806,8,hospital type,IAcute Care Hospitals,1
+807,15,sample,25 patients,-1
+808,11,condition,,1
+809,13,measure name,Heart Failure Patients Given Discharge Instructions,-1
+810,0,provider number,c10040,1
+811,6,county name,ETOWAH,-1
+812,16,stateavg,aAL_HF-4,1
+813,8,hospital type,Acute Care Hospitals,-1
+814,9,hospital owner,proytiraPre,1
+815,11,condition,Pneumonia,-1
+816,4,state,ALV,1
+817,11,condition,Pneumonia,-1
+818,16,stateavg,P-7A_LN,1
+819,2,address1,1007 GOODYEAR AVENUE,-1
+820,9,hospital owner,,1
+821,5,zip code,35903,-1
+822,8,hospital type,cAcute Care Hospitals,1
+823,16,stateavg,AL_SCIP-INF-4,-1
+824,8,hospital type,HCeiasospatt lAc ure,1
+825,3,city,GADSDEN,-1
+826,0,provider number,10040q,1
+827,2,address1,1010 LAY DAM ROAD,-1
+828,5,zip code,35045L,1
+829,11,condition,Heart Attack,-1
+830,7,phone number,2057552500M,1
+831,9,hospital owner,Voluntary non-profit - Private,-1
+832,7,phone number,2057552500g,1
+833,12,measure code,AMI-8A,-1
+834,6,county name,aCHILTON,1
+835,0,provider number,10043,-1
+836,10,emergency service,,1
+837,1,hospital name,CHILTON MEDICAL CENTER,-1
+838,14,score,89%C,1
+839,4,state,AL,-1
+840,16,stateavg,PAL_PN-4,1
+841,13,measure name,Pneumonia Patients Given Initial Antibiotic(s) within 6 Hours After Arrival,-1
+842,4,state,ALA,1
+843,3,city,CLANTON,-1
+844,1,hospital name,,1
+845,4,state,AL,-1
+846,16,stateavg,,1
+847,3,city,CLANTON,-1
+848,16,stateavg,NAL_SCIP-INF-4,1
+849,12,measure code,SCIP-INF-6,-1
+850,15,sample,0 patientsK,1
+851,1,hospital name,CHILTON MEDICAL CENTER,-1
+852,5,zip code,a35570,1
+853,2,address1,1256 MILITARY STREET SOUTH,-1
+854,0,provider number,c10044,1
+855,3,city,HAMILTON,-1
+856,6,county name,,1
+857,9,hospital owner,Voluntary non-profit - Private,-1
+858,10,emergency service,Yesc,1
+859,10,emergency service,Yes,-1
+860,0,provider number,J10044,1
+861,5,zip code,35570,-1
+862,11,condition,Faltai reeurH,1
+863,16,stateavg,AL_PN-2,-1
+864,0,provider number,A10044,1
+865,5,zip code,35570,-1
+866,9,hospital owner,KVoluntary non-profit - Private,1
+867,12,measure code,PN-6,-1
+868,6,county name,vMARION,1
+869,5,zip code,35570,-1
+870,12,measure code,FP1C-SII-N,1
+871,14,score,87%,-1
+872,14,score,V87%,1
+873,9,hospital owner,Voluntary non-profit - Private,-1
+874,1,hospital name,,1
+875,4,state,AL,-1
+876,0,provider number,40140,1
+877,11,condition,Heart Attack,-1
+878,10,emergency service,,1
+879,8,hospital type,Acute Care Hospitals,-1
+880,3,city,uFAYETTE,1
+881,2,address1,1653 TEMPLE AVENUE NORTH,-1
+882,13,measure name,trel iietW ieMtcu0a3iiPvniltMrtrs  oktcrhic oGFdnAsnnaataveti fOiH eA nnib aity ,1
+883,11,condition,Heart Attack,-1
+884,6,county name,yFAYETTE,1
+885,0,provider number,10045,-1
+886,1,hospital name,LCATM ACFEE IETENYTEDR,1
+887,3,city,FAYETTE,-1
+888,15,sample,V117 patients,1
+889,16,stateavg,AL_PN-3B,-1
+890,9,hospital owner,Voluntary non-profit - Otherc,1
+891,9,hospital owner,Voluntary non-profit - Other,-1
+892,1,hospital name,bFAYETTE MEDICAL CENTER,1
+893,5,zip code,35555,-1
+894,15,sample,n0tpati es,1
+895,4,state,AL,-1
+896,0,provider number,,1
+897,14,score,,-1
+898,8,hospital type,Acute Care Hospitalss,1
+899,2,address1,1653 TEMPLE AVENUE NORTH,-1
+900,12,measure code,SCIP-VTE-1F,1
+901,6,county name,FAYETTE,-1
+902,13,measure name,vChildren Who Received Reliever Medication While Hospitalized for Asthma,1
+903,8,hospital type,Acute Care Hospitals,-1
+904,10,emergency service,eYs,1
+905,12,measure code,AMI-1,-1
+906,15,sample,4t nsa51ietp,1
+907,14,score,100%,-1
+908,3,city,uGADSDEN,1
+909,14,score,100%,-1
+910,13,measure name,Heart Attack Patients Given Fibrinolytic Medication Within 30 Minutes Of ArrivalA,1
+911,1,hospital name,RIVERVIEW REGIONAL MEDICAL CENTER,-1
+912,3,city,GADSDENr,1
+913,9,hospital owner,Proprietary,-1
+914,5,zip code,,1
+915,10,emergency service,Yes,-1
+916,8,hospital type,,1
+917,0,provider number,10046,-1
+918,15,sample,,1
+919,0,provider number,10046,-1
+920,15,sample,,1
+921,0,provider number,10046,-1
+922,7,phone number,2356405025,1
+923,9,hospital owner,Proprietary,-1
+924,12,measure code,SCIP-INF-2R,1
+925,4,state,AL,-1
+926,6,county name,ETOWAHh,1
+927,9,hospital owner,Proprietary,-1
+928,13,measure name,tng te ote drwtrrierruoicpltegh  sepsmtvt eeed refcotorsuteetir y osfa slyoscaodbnrpaeo ntdsaers not re s,1
+929,16,stateavg,AL_SCIP-VTE-2,-1
+930,16,stateavg,,1
+931,11,condition,Heart Attack,-1
+932,15,sample,1 patientss,1
+933,8,hospital type,Acute Care Hospitals,-1
+934,5,zip code,36033z,1
+935,1,hospital name,GEORGIANA HOSPITAL,-1
+936,5,zip code,I36033,1
+937,12,measure code,HF-1,-1
+938,3,city,,1
+939,13,measure name,Heart Failure Patients Given ACE Inhibitor or ARB for Left Ventricular Systolic Dysfunction (LVSD),-1
+940,6,county name,RTLEUB,1
+941,13,measure name,Pneumonia Patients Assessed and Given Pneumococcal Vaccination,-1
+942,6,county name,,1
+943,11,condition,Pneumonia,-1
+944,16,stateavg,RAL_PN-5C,1
+945,5,zip code,36033,-1
+946,10,emergency service,NoB,1
+947,10,emergency service,No,-1
+948,2,address1,AIN5R1M  S5DTA,1
+949,10,emergency service,No,-1
+950,14,score,,1
+951,3,city,GEORGIANA,-1
+952,5,zip code,36033y,1
+953,9,hospital owner,Voluntary non-profit - Private,-1
+954,9,hospital owner,to-p ar oto lnevaPVuyrrnnfii-t,1
+955,4,state,AL,-1
+956,9,hospital owner,earotiryPrp,1
+957,8,hospital type,Acute Care Hospitals,-1
+958,1,hospital name,HMEDICAL CENTER ENTERPRISE,1
+959,11,condition,Heart Attack,-1
+960,5,zip code,36330,1
+961,16,stateavg,AL_AMI-8A,-1
+962,5,zip code,36330w,1
+963,0,provider number,10049,-1
+964,11,condition,eHeart Failure,1
+965,4,state,AL,-1
+966,2,address1,,1
+967,7,phone number,3343470584,-1
+968,4,state,XAL,1
+969,1,hospital name,MEDICAL CENTER ENTERPRISE,-1
+970,14,score,99%d,1
+971,10,emergency service,Yes,-1
+972,2,address1,400 N EDWARDS STREETX,1
+973,8,hospital type,Acute Care Hospitals,-1
+974,4,state,,1
+975,13,measure name,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),-1
+976,4,state,LA,1
+977,13,measure name,surgery patients needing hair removed from the surgical area before surgery&#54; who had hair removed using a safer method (electric clippers or hair removal cream �C not a razor),-1
+978,3,city,EPITRNSEER,1
+979,9,hospital owner,Proprietary,-1
+980,14,score,,1
+981,1,hospital name,ST VINCENTS BLOUNT,-1
+982,12,measure code,AMI-3o,1
+983,2,address1,150 GILBREATH DRIVE,-1
+984,14,score,,1
+985,6,county name,BLOUNT,-1
+986,5,zip code,,1
+987,16,stateavg,AL_HF-1,-1
+988,7,phone number,,1
+989,3,city,ONEONTA,-1
+990,7,phone number,2052743000f,1
+991,2,address1,150 GILBREATH DRIVE,-1
+992,3,city,ONEONTAi,1
+993,13,measure name,Pneumonia Patients Given Smoking Cessation Advice/Counseling,-1
+994,11,condition,Pneumonian,1
+995,9,hospital owner,Voluntary non-profit - Private,-1
+996,12,measure code,mPN-7,1
+997,11,condition,Surgical Infection Prevention,-1
+998,9,hospital owner,iVoluntary non-profit - Private,1
+999,0,provider number,10050,-1

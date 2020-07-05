@@ -1,0 +1,2377 @@
+tid,cid,column,value,label
+0,2,sched_dep_time,,1
+1,1,flight,AA-1007-MIA-PHX,-1
+2,2,sched_dep_time,,1
+3,1,flight,AA-1007-MIA-PHX,-1
+4,1,flight,,1
+5,4,sched_arr_time,8:05 p.m.,-1
+6,2,sched_dep_time,4:55 p.m.I,1
+7,1,flight,AA-1007-MIA-PHX,-1
+8,3,act_dep_time,O5:08 p.m.,1
+9,0,src,flightview,-1
+10,4,sched_arr_time,m5.8.p :0,1
+11,4,sched_arr_time,8:05 p.m.,-1
+12,2,sched_dep_time,w4:55 p.m.,1
+13,4,sched_arr_time,8:05 p.m.,-1
+14,1,flight,eAA-1007-MIA-PHX,1
+15,4,sched_arr_time,8:05 p.m.,-1
+16,4,sched_arr_time,,1
+17,5,act_arr_time,7:55 p.m.,-1
+18,3,act_dep_time,5:08 p.m.z,1
+19,0,src,quicktrip,-1
+20,3,act_dep_time,,1
+21,0,src,aa,-1
+22,2,sched_dep_time,:5..9a m6,1
+23,2,sched_dep_time,6:59 a.m.,-1
+24,4,sched_arr_time,14a:0.3 .m,1
+25,0,src,businesstravellogue,-1
+26,3,act_dep_time,7:22 a.m.r,1
+27,3,act_dep_time,7:22 a.m.,-1
+28,3,act_dep_time,7:22 a.m.t,1
+29,4,sched_arr_time,10:34 a.m.,-1
+30,1,flight,J1-A1K-5IAA6-FM,1
+31,1,flight,AA-1165-JFK-MIA,-1
+32,0,src,Qflytecomm,1
+33,1,flight,AA-1165-JFK-MIA,-1
+34,5,act_arr_time,,1
+35,4,sched_arr_time,10:34 a.m.,-1
+36,0,src,ami,1
+37,4,sched_arr_time,10:34 a.m.,-1
+38,5,act_arr_time,10:04 a.m.w,1
+39,2,sched_dep_time,6:59 a.m.,-1
+40,2,sched_dep_time,P6:59 a.m.,1
+41,1,flight,AA-1165-JFK-MIA,-1
+42,0,src,,1
+43,1,flight,AA-1165-JFK-MIA,-1
+44,2,sched_dep_time,6:59 a.m.y,1
+45,4,sched_arr_time,10:34 a.m.,-1
+46,3,act_dep_time,p32m:8. .,1
+47,2,sched_dep_time,8:00 p.m.,-1
+48,5,act_arr_time,9:53 p.m.Y,1
+49,2,sched_dep_time,8:00 p.m.,-1
+50,2,sched_dep_time,8:00 p.m.h,1
+51,2,sched_dep_time,8:00 p.m.,-1
+52,2,sched_dep_time,,1
+53,3,act_dep_time,8:23 p.m.,-1
+54,3,act_dep_time,8:23 p.m.O,1
+55,1,flight,AA-1221-MCO-ORD,-1
+56,4,sched_arr_time, .pm9.54:,1
+57,3,act_dep_time,8:23 p.m.,-1
+58,5,act_arr_time,59: .m3p.,1
+59,1,flight,AA-1221-MCO-ORD,-1
+60,4,sched_arr_time,E9:45 p.m.,1
+61,5,act_arr_time,9:53 p.m.,-1
+62,2,sched_dep_time,p.m00.8 :,1
+63,5,act_arr_time,9:53 p.m.,-1
+64,3,act_dep_time,83 p..2:m,1
+65,0,src,orbitz,-1
+66,1,flight,OAA-1221-MCO-ORD,1
+67,5,act_arr_time,9:53 p.m.,-1
+68,5,act_arr_time,9:53 p.m.m,1
+69,0,src,travelocity,-1
+70,3,act_dep_time,8:23 p.m.f,1
+71,4,sched_arr_time,9:45 p.m.,-1
+72,4,sched_arr_time,,1
+73,2,sched_dep_time,8:00 p.m.,-1
+74,0,src,aa,1
+75,1,flight,AA-1279-DFW-PHX,-1
+76,5,act_arr_time,3:30 p.m.O,1
+77,4,sched_arr_time,2:35 p.m.,-1
+78,1,flight,,1
+79,3,act_dep_time,2:04 p.m.,-1
+80,5,act_arr_time,,1
+81,0,src,flightaware,-1
+82,0,src,,1
+83,1,flight,AA-1279-DFW-PHX,-1
+84,1,flight,,1
+85,5,act_arr_time,3:30 p.m.,-1
+86,0,src,Rflylouisville,1
+87,5,act_arr_time,3:30 p.m.,-1
+88,2,sched_dep_time,s1:00 p.m.,1
+89,3,act_dep_time,2:04 p.m.,-1
+90,3,act_dep_time,.mp4.0 :2,1
+91,2,sched_dep_time,1:00 p.m.,-1
+92,1,flight,A7FW9X-HAP-D21-,1
+93,2,sched_dep_time,1:00 p.m.,-1
+94,3,act_dep_time,x2:04 p.m.,1
+95,5,act_arr_time,3:30 p.m.,-1
+96,4,sched_arr_time,,1
+97,1,flight,AA-1279-DFW-PHX,-1
+98,1,flight,-9PW1A7D2-XFAH-,1
+99,3,act_dep_time,7:21 a.m.,-1
+100,0,src,Lairtravelcenter,1
+101,2,sched_dep_time,7:15 a.m.,-1
+102,3,act_dep_time,b7:21 a.m.,1
+103,3,act_dep_time,7:21 a.m.,-1
+104,1,flight,AA-1434-DFW-MCOC,1
+105,1,flight,AA-1434-DFW-MCO,-1
+106,4,sched_arr_time,n10:35 a.m.,1
+107,0,src,flightstats,-1
+108,1,flight,4C1-FM3OAWA-4-D,1
+109,3,act_dep_time,7:21 a.m.,-1
+110,1,flight,aAA-1434-DFW-MCO,1
+111,5,act_arr_time,10:36 a.m.,-1
+112,2,sched_dep_time,,1
+113,4,sched_arr_time,10:35 a.m.,-1
+114,5,act_arr_time,,1
+115,0,src,ifly,-1
+116,1,flight,D3W1-A44C--AMOF,1
+117,5,act_arr_time,10:36 a.m.,-1
+118,5,act_arr_time,k10:36 a.m.,1
+119,1,flight,AA-1434-DFW-MCO,-1
+120,5,act_arr_time,i10:36 a.m.,1
+121,1,flight,AA-1434-DFW-MCO,-1
+122,1,flight,AA-1434-DFW-MCOG,1
+123,4,sched_arr_time,10:35 a.m.,-1
+124,4,sched_arr_time,K10:35 a.m.,1
+125,1,flight,AA-1522-SFO-ORD,-1
+126,2,sched_dep_time,51:p5. .m1,1
+127,5,act_arr_time,5:50 a.m.,-1
+128,3,act_dep_time,11:55 p.m.H,1
+129,2,sched_dep_time,11:55 p.m.,-1
+130,3,act_dep_time,: 1m5.51p.,1
+131,3,act_dep_time,11:55 p.m.,-1
+132,2,sched_dep_time,,1
+133,5,act_arr_time,5:50 a.m.,-1
+134,3,act_dep_time,1p m1:5..5,1
+135,2,sched_dep_time,11:55 p.m.,-1
+136,5,act_arr_time,5 :5.a0m.,1
+137,3,act_dep_time,11:55 p.m.,-1
+138,0,src,,1
+139,5,act_arr_time,5:50 a.m.,-1
+140,1,flight,AA-1522-SFO-ORDV,1
+141,4,sched_arr_time,5:50 a.m.,-1
+142,2,sched_dep_time,,1
+143,2,sched_dep_time,11:55 p.m.,-1
+144,5,act_arr_time,,1
+145,1,flight,AA-1522-SFO-ORD,-1
+146,0,src,,1
+147,1,flight,AA-1522-SFO-ORD,-1
+148,0,src,,1
+149,2,sched_dep_time,11:25 a.m.,-1
+150,0,src,,1
+151,4,sched_arr_time,5:25 p.m.,-1
+152,4,sched_arr_time,,1
+153,1,flight,AA-1544-SAN-ORD,-1
+154,1,flight,AA-1544-SAN-ORDD,1
+155,1,flight,AA-1544-SAN-ORD,-1
+156,0,src,,1
+157,3,act_dep_time,11:40 a.m.,-1
+158,0,src,,1
+159,5,act_arr_time,4:56 p.m.,-1
+160,4,sched_arr_time,,1
+161,4,sched_arr_time,5:25 p.m.,-1
+162,3,act_dep_time,,1
+163,3,act_dep_time,11:40 a.m.,-1
+164,4,sched_arr_time, m25.5.p:,1
+165,3,act_dep_time,11:40 a.m.,-1
+166,4,sched_arr_time,,1
+167,3,act_dep_time,11:40 a.m.,-1
+168,2,sched_dep_time,,1
+169,0,src,weather,-1
+170,4,sched_arr_time,m2p .7.:5,1
+171,5,act_arr_time,7:25 p.m.,-1
+172,1,flight,A4MAM0O-A1C-6-I,1
+173,3,act_dep_time,6:30 p.m.,-1
+174,0,src,leurlobtnsiavsgseue,1
+175,1,flight,AA-1640-MIA-MCO,-1
+176,0,src,,1
+177,0,src,flightexplorer,-1
+178,3,act_dep_time,0.mp6 3.:,1
+179,5,act_arr_time,7:25 p.m.,-1
+180,4,sched_arr_time,f7:25 p.m.,1
+181,4,sched_arr_time,7:25 p.m.,-1
+182,5,act_arr_time,M7:25 p.m.,1
+183,4,sched_arr_time,7:25 p.m.,-1
+184,2,sched_dep_time,,1
+185,5,act_arr_time,7:25 p.m.,-1
+186,0,src,Ghelloflight,1
+187,2,sched_dep_time,6:30 p.m.,-1
+188,5,act_arr_time,,1
+189,4,sched_arr_time,7:25 p.m.,-1
+190,1,flight,AA-1640-MIA-MCOq,1
+191,0,src,panynj,-1
+192,1,flight,0IAC-1M-6A-MA4O,1
+193,1,flight,AA-1640-MIA-MCO,-1
+194,2,sched_dep_time,6:30 p.m.F,1
+195,5,act_arr_time,7:25 p.m.,-1
+196,5,act_arr_time,c7:25 p.m.,1
+197,0,src,wunderground,-1
+198,3,act_dep_time,10:18 a.m.I,1
+199,0,src,airtravelcenter,-1
+200,2,sched_dep_time,a1:m. .510,1
+201,2,sched_dep_time,10:15 a.m.,-1
+202,1,flight,eAA-1664-MIA-ATL,1
+203,2,sched_dep_time,10:15 a.m.,-1
+204,4,sched_arr_time,N12:10 p.m.,1
+205,3,act_dep_time,10:18 a.m.,-1
+206,3,act_dep_time,,1
+207,4,sched_arr_time,12:10 p.m.,-1
+208,5,act_arr_time,11:56 a.m.r,1
+209,4,sched_arr_time,12:10 p.m.,-1
+210,0,src,mlofmyect,1
+211,3,act_dep_time,10:18 a.m.,-1
+212,3,act_dep_time,:m.101a.8 ,1
+213,2,sched_dep_time,10:15 a.m.,-1
+214,1,flight,-AT-MI6L64AA-A1,1
+215,1,flight,AA-1664-MIA-ATL,-1
+216,3,act_dep_time,0..11a8m: ,1
+217,5,act_arr_time,11:56 a.m.,-1
+218,5,act_arr_time,f11:56 a.m.,1
+219,2,sched_dep_time,10:15 a.m.,-1
+220,0,src,,1
+221,0,src,weather,-1
+222,3,act_dep_time,10:18 a.m.Q,1
+223,2,sched_dep_time,10:15 a.m.,-1
+224,0,src,paa,1
+225,2,sched_dep_time,7:45 p.m.,-1
+226,4,sched_arr_time,,1
+227,5,act_arr_time,10:30 p.m.,-1
+228,2,sched_dep_time,7:45 p.m.o,1
+229,2,sched_dep_time,7:45 p.m.,-1
+230,0,src,,1
+231,5,act_arr_time,10:30 p.m.,-1
+232,1,flight,AA-1733-ORD-PHXU,1
+233,5,act_arr_time,10:30 p.m.,-1
+234,1,flight,3HO-17-D3AARXP-,1
+235,5,act_arr_time,10:30 p.m.,-1
+236,5,act_arr_time,,1
+237,2,sched_dep_time,7:45 p.m.,-1
+238,0,src,helloflightk,1
+239,5,act_arr_time,10:30 p.m.,-1
+240,4,sched_arr_time,.p 03.:01m,1
+241,3,act_dep_time,7:58 p.m.,-1
+242,3,act_dep_time,7:58 p.m.U,1
+243,4,sched_arr_time,10:30 p.m.,-1
+244,1,flight,TAA-1733-ORD-PHX,1
+245,0,src,quicktrip,-1
+246,2,sched_dep_time,a7:45 p.m.,1
+247,1,flight,AA-1733-ORD-PHX,-1
+248,0,src,wtereah,1
+249,2,sched_dep_time,7:45 p.m.,-1
+250,4,sched_arr_time, .0.3p1m:0,1
+251,5,act_arr_time,1:40 p.m.,-1
+252,4,sched_arr_time,,1
+253,4,sched_arr_time,2:20 p.m.,-1
+254,1,flight,AA-1886-BOS-MIAT,1
+255,1,flight,AA-1886-BOS-MIA,-1
+256,5,act_arr_time,,1
+257,0,src,flights,-1
+258,1,flight,A6A8OMS--81A-BI,1
+259,5,act_arr_time,1:40 p.m.,-1
+260,1,flight,,1
+261,4,sched_arr_time,2:20 p.m.,-1
+262,1,flight,wAA-1886-BOS-MIA,1
+263,0,src,helloflight,-1
+264,0,src,tlrmyaenap,1
+265,5,act_arr_time,1:40 p.m.,-1
+266,0,src,lpanynj,1
+267,2,sched_dep_time,10:45 a.m.,-1
+268,2,sched_dep_time,,1
+269,5,act_arr_time,1:40 p.m.,-1
+270,0,src,,1
+271,0,src,airtravelcenter,-1
+272,3,act_dep_time, 2.m.p:73,1
+273,0,src,boston,-1
+274,3,act_dep_time,3:27 p.m.V,1
+275,3,act_dep_time,3:27 p.m.,-1
+276,1,flight,,1
+277,5,act_arr_time,5:43 p.m.,-1
+278,2,sched_dep_time,.mp25 :5.,1
+279,2,sched_dep_time,2:55 p.m.,-1
+280,0,src,foytemclm,1
+281,3,act_dep_time,3:27 p.m.,-1
+282,4,sched_arr_time,b5:55 p.m.,1
+283,1,flight,AA-1917-JFK-MCO,-1
+284,1,flight,vAA-1917-JFK-MCO,1
+285,3,act_dep_time,3:27 p.m.,-1
+286,5,act_arr_time,m5:43 p.m.,1
+287,5,act_arr_time,5:43 p.m.,-1
+288,5,act_arr_time,5:43 p.m.b,1
+289,3,act_dep_time,3:27 p.m.,-1
+290,1,flight,,1
+291,0,src,travelocity,-1
+292,5,act_arr_time,,1
+293,2,sched_dep_time,2:55 p.m.,-1
+294,1,flight,K7-AMFAOC-91J-1,1
+295,2,sched_dep_time,11:25 p.m.,-1
+296,4,sched_arr_time,,1
+297,4,sched_arr_time,6:55 a.m.,-1
+298,2,sched_dep_time,,1
+299,4,sched_arr_time,6:55 a.m.,-1
+300,4,sched_arr_time,,1
+301,0,src,flightexplorer,-1
+302,1,flight,,1
+303,0,src,flightstats,-1
+304,4,sched_arr_time,,1
+305,1,flight,AA-204-LAX-MCO,-1
+306,0,src,,1
+307,5,act_arr_time,6:55 a.m.,-1
+308,0,src,ogoxf,1
+309,2,sched_dep_time,11:25 p.m.,-1
+310,4,sched_arr_time,: 6a.m.55,1
+311,3,act_dep_time,11:25 p.m.,-1
+312,2,sched_dep_time,,1
+313,0,src,orbitz,-1
+314,5,act_arr_time,v6:55 a.m.,1
+315,0,src,quicktrip,-1
+316,3,act_dep_time,11:25 p.m.R,1
+317,2,sched_dep_time,11:25 p.m.,-1
+318,4,sched_arr_time,:m5.a65. ,1
+319,5,act_arr_time,6:55 a.m.,-1
+320,5,act_arr_time,2:46 p.m.K,1
+321,4,sched_arr_time,2:45 p.m.,-1
+322,2,sched_dep_time,. 4m0a0:.1,1
+323,0,src,boston,-1
+324,0,src,Fbusinesstravellogue,1
+325,2,sched_dep_time,10:40 a.m.,-1
+326,1,flight,AA-2050-ORD-MIAS,1
+327,2,sched_dep_time,10:40 a.m.,-1
+328,0,src,Jflights,1
+329,0,src,flightstats,-1
+330,3,act_dep_time,X11:05 a.m.,1
+331,1,flight,AA-2050-ORD-MIA,-1
+332,2,sched_dep_time,R10:40 a.m.,1
+333,3,act_dep_time,11:05 a.m.,-1
+334,4,sched_arr_time,,1
+335,3,act_dep_time,11:05 a.m.,-1
+336,2,sched_dep_time,,1
+337,1,flight,AA-2050-ORD-MIA,-1
+338,5,act_arr_time,2:46 p.m.S,1
+339,5,act_arr_time,2:46 p.m.,-1
+340,0,src,ordL,1
+341,2,sched_dep_time,10:40 a.m.,-1
+342,4,sched_arr_time,,1
+343,4,sched_arr_time,2:45 p.m.,-1
+344,4,sched_arr_time,2:45 p.m.g,1
+345,2,sched_dep_time,10:40 a.m.,-1
+346,2,sched_dep_time,V10:40 a.m.,1
+347,5,act_arr_time,2:46 p.m.,-1
+348,2,sched_dep_time,L7:10 a.m.,1
+349,2,sched_dep_time,7:10 a.m.,-1
+350,0,src,inlaarteglai,1
+351,2,sched_dep_time,7:10 a.m.,-1
+352,5,act_arr_time,3:14 p.m.B,1
+353,4,sched_arr_time,3:30 p.m.,-1
+354,1,flight,S2X2OA-BA-L2A-,1
+355,2,sched_dep_time,7:10 a.m.,-1
+356,3,act_dep_time,7:31 a.m.Y,1
+357,3,act_dep_time,7:31 a.m.,-1
+358,2,sched_dep_time,e7:10 a.m.,1
+359,4,sched_arr_time,3:30 p.m.,-1
+360,0,src,tymmocefl,1
+361,5,act_arr_time,3:14 p.m.,-1
+362,4,sched_arr_time,0:.m. 3p3,1
+363,5,act_arr_time,3:14 p.m.,-1
+364,5,act_arr_time,,1
+365,1,flight,AA-222-LAX-BOS,-1
+366,2,sched_dep_time,7:10 a.m.C,1
+367,2,sched_dep_time,7:10 a.m.,-1
+368,2,sched_dep_time,,1
+369,3,act_dep_time,7:31 a.m.,-1
+370,5,act_arr_time,,1
+371,2,sched_dep_time,7:10 a.m.,-1
+372,4,sched_arr_time,,1
+373,4,sched_arr_time,11:35 a.m.,-1
+374,4,sched_arr_time,,1
+375,3,act_dep_time,7:22 a.m.,-1
+376,4,sched_arr_time,11:35 a.m.h,1
+377,3,act_dep_time,7:22 a.m.,-1
+378,0,src,flightawareF,1
+379,4,sched_arr_time,11:35 a.m.,-1
+380,1,flight,P8-26OD-ARX2H-A,1
+381,5,act_arr_time,11:06 a.m.,-1
+382,3,act_dep_time,7:22 a.m.j,1
+383,5,act_arr_time,11:06 a.m.,-1
+384,0,src,,1
+385,4,sched_arr_time,11:35 a.m.,-1
+386,5,act_arr_time,,1
+387,1,flight,AA-2268-PHX-ORD,-1
+388,0,src,aartenmypl,1
+389,4,sched_arr_time,11:35 a.m.,-1
+390,0,src,Uord,1
+391,1,flight,AA-2268-PHX-ORD,-1
+392,3,act_dep_time,a:27m. 2.,1
+393,0,src,travelocity,-1
+394,5,act_arr_time,11:06 a.m.D,1
+395,2,sched_dep_time,7:15 a.m.,-1
+396,0,src,,1
+397,3,act_dep_time,7:22 a.m.,-1
+398,5,act_arr_time,z11:50 p.m.,1
+399,0,src,airtravelcenter,-1
+400,4,sched_arr_time,,1
+401,5,act_arr_time,11:50 p.m.,-1
+402,5,act_arr_time,11:50 p.m.M,1
+403,1,flight,AA-2312-DFW-DTW,-1
+404,1,flight,AA-2312-DFW-DTWp,1
+405,4,sched_arr_time,11:50 p.m.,-1
+406,3,act_dep_time,8:25 p.m.i,1
+407,5,act_arr_time,11:50 p.m.,-1
+408,5,act_arr_time,,1
+409,2,sched_dep_time,8:25 p.m.,-1
+410,2,sched_dep_time,8:25 p.m.T,1
+411,0,src,flylouisville,-1
+412,1,flight,AA-2312-DFW-DTWl,1
+413,5,act_arr_time,11:50 p.m.,-1
+414,1,flight,AA-2312-DFW-DTWj,1
+415,3,act_dep_time,8:25 p.m.,-1
+416,4,sched_arr_time,,1
+417,5,act_arr_time,11:50 p.m.,-1
+418,5,act_arr_time,11:50 p.m.T,1
+419,4,sched_arr_time,11:50 p.m.,-1
+420,4,sched_arr_time,0m51p.1: .,1
+421,0,src,travelocity,-1
+422,2,sched_dep_time,,1
+423,5,act_arr_time,11:50 p.m.,-1
+424,2,sched_dep_time,Z8:25 p.m.,1
+425,2,sched_dep_time,7:25 a.m.,-1
+426,3,act_dep_time,,1
+427,4,sched_arr_time,11:10 a.m.,-1
+428,5,act_arr_time,R11:06 a.m.,1
+429,4,sched_arr_time,11:10 a.m.,-1
+430,5,act_arr_time,,1
+431,5,act_arr_time,11:06 a.m.,-1
+432,2,sched_dep_time,h7:25 a.m.,1
+433,2,sched_dep_time,7:25 a.m.,-1
+434,0,src,Pflightview,1
+435,5,act_arr_time,11:06 a.m.,-1
+436,3,act_dep_time,:7.am3 .9,1
+437,2,sched_dep_time,7:25 a.m.,-1
+438,3,act_dep_time,7:39 a.m.d,1
+439,1,flight,AA-2525-DFW-MIA,-1
+440,5,act_arr_time,11:06 a.m.l,1
+441,0,src,mia,-1
+442,3,act_dep_time,A7:39 a.m.,1
+443,2,sched_dep_time,7:25 a.m.,-1
+444,0,src,Corbitz,1
+445,3,act_dep_time,7:39 a.m.,-1
+446,4,sched_arr_time,11a:.m. 10,1
+447,4,sched_arr_time,11:10 a.m.,-1
+448,4,sched_arr_time,0 .1m.11:a,1
+449,3,act_dep_time,7:39 a.m.,-1
+450,1,flight,5AAWFI2--A2-M5D,1
+451,1,flight,AA-271-MIA-LAX,-1
+452,3,act_dep_time,u11:52 a.m.,1
+453,3,act_dep_time,11:52 a.m.,-1
+454,5,act_arr_time,,1
+455,4,sched_arr_time,2:25 p.m.,-1
+456,2,sched_dep_time,.:35.11 am,1
+457,0,src,flightaware,-1
+458,0,src,fflightexplorer,1
+459,1,flight,AA-271-MIA-LAX,-1
+460,3,act_dep_time,,1
+461,0,src,flightview,-1
+462,5,act_arr_time,k2:27 p.m.,1
+463,3,act_dep_time,11:52 a.m.,-1
+464,0,src,xiosbfusesn,1
+465,3,act_dep_time,11:52 a.m.,-1
+466,1,flight,TAA-271-MIA-LAX,1
+467,3,act_dep_time,11:52 a.m.,-1
+468,2,sched_dep_time,q11:35 a.m.,1
+469,1,flight,AA-271-MIA-LAX,-1
+470,3,act_dep_time,a5 12:.m.1,1
+471,2,sched_dep_time,11:35 a.m.,-1
+472,1,flight,-A-AA7L2AXMI-1,1
+473,3,act_dep_time,11:52 a.m.,-1
+474,0,src,fiwrt-gahoed-clrtlkr,1
+475,5,act_arr_time,2:27 p.m.,-1
+476,0,src,caa,1
+477,5,act_arr_time,11:01 a.m.,-1
+478,4,sched_arr_time,,1
+479,5,act_arr_time,11:01 a.m.,-1
+480,3,act_dep_time,8:04 a.m.g,1
+481,1,flight,AA-2957-DFW-CVG,-1
+482,4,sched_arr_time,11:05 a.m.M,1
+483,3,act_dep_time,8:04 a.m.,-1
+484,1,flight,AA-2957-DFW-CVGp,1
+485,3,act_dep_time,8:04 a.m.,-1
+486,2,sched_dep_time,5. m7.:a5,1
+487,5,act_arr_time,11:01 a.m.,-1
+488,0,src,flytecommt,1
+489,1,flight,AA-2957-DFW-CVG,-1
+490,4,sched_arr_time,11:05 a.m.Q,1
+491,5,act_arr_time,11:01 a.m.,-1
+492,3,act_dep_time,,1
+493,4,sched_arr_time,11:05 a.m.,-1
+494,1,flight,VW-D-5792CAA-FG,1
+495,5,act_arr_time,11:01 a.m.,-1
+496,2,sched_dep_time,,1
+497,3,act_dep_time,8:04 a.m.,-1
+498,2,sched_dep_time,t7:55 a.m.,1
+499,0,src,world-flight-tracker,-1
+500,0,src,wundergrounde,1
+501,5,act_arr_time,3:16 p.m.,-1
+502,2,sched_dep_time,m0.. p021:,1
+503,2,sched_dep_time,12:00 p.m.,-1
+504,3,act_dep_time,.m: p1.112,1
+505,4,sched_arr_time,3:15 p.m.,-1
+506,5,act_arr_time, .p61.3:m,1
+507,0,src,flightaware,-1
+508,1,flight,A-JXFK-3A-LA,1
+509,1,flight,AA-3-JFK-LAX,-1
+510,2,sched_dep_time,1mp2.0 .:0,1
+511,2,sched_dep_time,12:00 p.m.,-1
+512,4,sched_arr_time,,1
+513,0,src,flytecomm,-1
+514,0,src,sbuifsnxoes,1
+515,3,act_dep_time,12:11 p.m.,-1
+516,2,sched_dep_time,12:00 p.m.n,1
+517,1,flight,AA-3-JFK-LAX,-1
+518,2,sched_dep_time,0m p..:021,1
+519,5,act_arr_time,3:16 p.m.,-1
+520,3,act_dep_time,,1
+521,0,src,quicktrip,-1
+522,3,act_dep_time,V12:11 p.m.,1
+523,5,act_arr_time,3:16 p.m.,-1
+524,5,act_arr_time,3:16 p.m.X,1
+525,5,act_arr_time,3:16 p.m.,-1
+526,3,act_dep_time,,1
+527,3,act_dep_time,8:39 p.m.,-1
+528,4,sched_arr_time,9:20 p.m.O,1
+529,2,sched_dep_time,8:20 p.m.,-1
+530,4,sched_arr_time,mp092..: ,1
+531,4,sched_arr_time,9:20 p.m.,-1
+532,2,sched_dep_time, 8.m.2:0p,1
+533,4,sched_arr_time,9:20 p.m.,-1
+534,5,act_arr_time,g9:20 p.m.,1
+535,4,sched_arr_time,9:20 p.m.,-1
+536,4,sched_arr_time,,1
+537,1,flight,AA-3063-SLC-LAX,-1
+538,1,flight,wAA-3063-SLC-LAX,1
+539,5,act_arr_time,9:20 p.m.,-1
+540,4,sched_arr_time,,1
+541,2,sched_dep_time,8:20 p.m.,-1
+542,1,flight,AA-3063-SLC-LAXD,1
+543,2,sched_dep_time,8:20 p.m.,-1
+544,0,src,,1
+545,0,src,panynj,-1
+546,2,sched_dep_time,E8:20 p.m.,1
+547,3,act_dep_time,8:39 p.m.,-1
+548,0,src,,1
+549,1,flight,AA-3063-SLC-LAX,-1
+550,1,flight,-A3CA4-MI-6AVG8,1
+551,2,sched_dep_time,7:00 a.m.,-1
+552,3,act_dep_time, a:7.m52.,1
+553,1,flight,AA-3468-CVG-MIA,-1
+554,2,sched_dep_time,,1
+555,4,sched_arr_time,9:55 a.m.,-1
+556,0,src,,1
+557,2,sched_dep_time,7:00 a.m.,-1
+558,1,flight,,1
+559,1,flight,AA-3468-CVG-MIA,-1
+560,3,act_dep_time,5. :7.a2m,1
+561,3,act_dep_time,7:25 a.m.,-1
+562,3,act_dep_time,,1
+563,0,src,foxbusiness,-1
+564,5,act_arr_time,9:45 a.m.d,1
+565,1,flight,AA-3468-CVG-MIA,-1
+566,2,sched_dep_time,,1
+567,2,sched_dep_time,7:00 a.m.,-1
+568,3,act_dep_time,7:25 a.m.I,1
+569,2,sched_dep_time,7:00 a.m.,-1
+570,3,act_dep_time,7:25 a.m.l,1
+571,1,flight,AA-3468-CVG-MIA,-1
+572,3,act_dep_time,,1
+573,3,act_dep_time,7:25 a.m.,-1
+574,4,sched_arr_time,95..: 5ma,1
+575,5,act_arr_time,9:45 a.m.,-1
+576,1,flight,cAA-3468-CVG-MIA,1
+577,0,src,aa,-1
+578,0,src,,1
+579,1,flight,AA-3756-ORD-SLC,-1
+580,0,src,Rboston,1
+581,3,act_dep_time,12:41 p.m.,-1
+582,2,sched_dep_time,A12:15 p.m.,1
+583,1,flight,AA-3756-ORD-SLC,-1
+584,3,act_dep_time,12:41 p.m.U,1
+585,0,src,flightstats,-1
+586,2,sched_dep_time,p12: 15..m,1
+587,0,src,flylouisville,-1
+588,4,sched_arr_time,,1
+589,4,sched_arr_time,2:45 p.m.,-1
+590,2,sched_dep_time,mp. 12.5:1,1
+591,1,flight,AA-3756-ORD-SLC,-1
+592,1,flight,AA-3756-ORD-SLCq,1
+593,0,src,myrateplan,-1
+594,0,src,orbitzi,1
+595,4,sched_arr_time,2:45 p.m.,-1
+596,5,act_arr_time,,1
+597,2,sched_dep_time,12:15 p.m.,-1
+598,1,flight,CAA-3756-ORD-SLC,1
+599,5,act_arr_time,2:50 p.m.,-1
+600,4,sched_arr_time,,1
+601,2,sched_dep_time,12:15 p.m.,-1
+602,1,flight,,1
+603,2,sched_dep_time,4:00 p.m.,-1
+604,4,sched_arr_time,,1
+605,5,act_arr_time,6:15 p.m.,-1
+606,1,flight,DAA-3786-IAH-ORD,1
+607,4,sched_arr_time,6:40 p.m.,-1
+608,5,act_arr_time,6:15 p.m.X,1
+609,5,act_arr_time,6:15 p.m.,-1
+610,4,sched_arr_time,: p..0m64,1
+611,4,sched_arr_time,6:40 p.m.,-1
+612,4,sched_arr_time,B6:40 p.m.,1
+613,5,act_arr_time,6:15 p.m.,-1
+614,0,src,iselulyfvloli,1
+615,4,sched_arr_time,6:40 p.m.,-1
+616,3,act_dep_time,4:12 p.m.P,1
+617,3,act_dep_time,4:12 p.m.,-1
+618,0,src,helloflightO,1
+619,4,sched_arr_time,6:40 p.m.,-1
+620,3,act_dep_time,4:12 p.m.O,1
+621,4,sched_arr_time,6:40 p.m.,-1
+622,1,flight,,1
+623,5,act_arr_time,6:15 p.m.,-1
+624,5,act_arr_time,mp.:6. 15,1
+625,4,sched_arr_time,6:40 p.m.,-1
+626,0,src,vrtilyacteo,1
+627,5,act_arr_time,6:15 p.m.,-1
+628,4,sched_arr_time,,1
+629,0,src,world-flight-tracker,-1
+630,1,flight,,1
+631,0,src,aa,-1
+632,2,sched_dep_time,5m.p23.: ,1
+633,0,src,allegiantair,-1
+634,2,sched_dep_time,,1
+635,4,sched_arr_time,4:05 p.m.,-1
+636,5,act_arr_time,I3:43 p.m.,1
+637,2,sched_dep_time,2:35 p.m.,-1
+638,2,sched_dep_time,,1
+639,4,sched_arr_time,4:05 p.m.,-1
+640,3,act_dep_time,2m4 :4..p,1
+641,2,sched_dep_time,2:35 p.m.,-1
+642,3,act_dep_time,2:44 p.m.H,1
+643,5,act_arr_time,3:43 p.m.,-1
+644,4,sched_arr_time,,1
+645,2,sched_dep_time,2:35 p.m.,-1
+646,2,sched_dep_time,2:35 p.m.b,1
+647,1,flight,AA-3804-PHL-ORD,-1
+648,1,flight,hAA-3804-PHL-ORD,1
+649,5,act_arr_time,3:43 p.m.,-1
+650,2,sched_dep_time,J2:35 p.m.,1
+651,0,src,phl,-1
+652,2,sched_dep_time,2:35 p.m.k,1
+653,1,flight,AA-3804-PHL-ORD,-1
+654,2,sched_dep_time,3m:. 25p.,1
+655,2,sched_dep_time,2:35 p.m.,-1
+656,0,src,,1
+657,5,act_arr_time,3:43 p.m.,-1
+658,2,sched_dep_time,6:00 a.m.M,1
+659,5,act_arr_time,6:19 a.m.,-1
+660,4,sched_arr_time,6.4.:0 ma,1
+661,4,sched_arr_time,6:40 a.m.,-1
+662,2,sched_dep_time,Y6:00 a.m.,1
+663,5,act_arr_time,6:19 a.m.,-1
+664,3,act_dep_time,a16:.0. m,1
+665,2,sched_dep_time,6:00 a.m.,-1
+666,2,sched_dep_time,,1
+667,3,act_dep_time,6:10 a.m.,-1
+668,2,sched_dep_time,m6.. a00:,1
+669,1,flight,AA-3809-PHX-LAX,-1
+670,4,sched_arr_time,6:40 a.m.J,1
+671,0,src,flytecomm,-1
+672,2,sched_dep_time,,1
+673,5,act_arr_time,6:19 a.m.,-1
+674,4,sched_arr_time,6:40 a.m.o,1
+675,4,sched_arr_time,6:40 a.m.,-1
+676,1,flight,,1
+677,1,flight,AA-3809-PHX-LAX,-1
+678,4,sched_arr_time,X6:40 a.m.,1
+679,2,sched_dep_time,6:00 a.m.,-1
+680,4,sched_arr_time,,1
+681,4,sched_arr_time,6:40 a.m.,-1
+682,1,flight,AA-3809-PHX-LAXl,1
+683,0,src,world-flight-tracker,-1
+684,4,sched_arr_time,m.4.6 :a0,1
+685,4,sched_arr_time,12:15 a.m.,-1
+686,1,flight,,1
+687,1,flight,AA-3823-LAX-DEN,-1
+688,0,src,Xboston,1
+689,4,sched_arr_time,12:15 a.m.,-1
+690,4,sched_arr_time,,1
+691,0,src,flightaware,-1
+692,4,sched_arr_time,12:15 a.m.y,1
+693,5,act_arr_time,12:15 a.m.,-1
+694,5,act_arr_time,,1
+695,3,act_dep_time,9:00 p.m.,-1
+696,4,sched_arr_time,12:15 a.m.j,1
+697,5,act_arr_time,12:15 a.m.,-1
+698,5,act_arr_time,12:15 a.m.A,1
+699,3,act_dep_time,9:00 p.m.,-1
+700,1,flight,38LXA2D-EA-AN-3,1
+701,3,act_dep_time,9:00 p.m.,-1
+702,3,act_dep_time,,1
+703,1,flight,AA-3823-LAX-DEN,-1
+704,4,sched_arr_time,H12:15 a.m.,1
+705,2,sched_dep_time,9:00 p.m.,-1
+706,0,src,,1
+707,1,flight,AA-3823-LAX-DEN,-1
+708,5,act_arr_time,12:15 a.m.r,1
+709,3,act_dep_time,9:00 p.m.,-1
+710,2,sched_dep_time,9:00 p.m.e,1
+711,2,sched_dep_time,6:00 a.m.,-1
+712,0,src,trvlrernitaeace,1
+713,2,sched_dep_time,6:00 a.m.,-1
+714,5,act_arr_time,m7:51 a.m.,1
+715,3,act_dep_time,6:56 a.m.,-1
+716,4,sched_arr_time,03.. ma:7,1
+717,2,sched_dep_time,6:00 a.m.,-1
+718,0,src,,1
+719,3,act_dep_time,6:56 a.m.,-1
+720,3,act_dep_time,6:56 a.m.I,1
+721,3,act_dep_time,6:56 a.m.,-1
+722,5,act_arr_time,7:51 a.m.R,1
+723,0,src,flytecomm,-1
+724,2,sched_dep_time,..a0m6 :0,1
+725,2,sched_dep_time,6:00 a.m.,-1
+726,5,act_arr_time,,1
+727,5,act_arr_time,7:51 a.m.,-1
+728,2,sched_dep_time,M6:00 a.m.,1
+729,3,act_dep_time,6:56 a.m.,-1
+730,5,act_arr_time,u7:51 a.m.,1
+731,1,flight,AA-3842-MSP-ORD,-1
+732,5,act_arr_time,7:51 a.m.j,1
+733,0,src,quicktrip,-1
+734,0,src,,1
+735,0,src,weather,-1
+736,4,sched_arr_time,,1
+737,0,src,wunderground,-1
+738,5,act_arr_time,,1
+739,3,act_dep_time,7:16 a.m.,-1
+740,0,src,ieaalitngarl,1
+741,3,act_dep_time,7:16 a.m.,-1
+742,5,act_arr_time,,1
+743,2,sched_dep_time,7:10 a.m.,-1
+744,3,act_dep_time,a:167..m ,1
+745,0,src,flightexplorer,-1
+746,3,act_dep_time,a7:16 a.m.,1
+747,5,act_arr_time,9:32 a.m.,-1
+748,5,act_arr_time,z9:32 a.m.,1
+749,4,sched_arr_time,9:40 a.m.,-1
+750,4,sched_arr_time,,1
+751,3,act_dep_time,7:16 a.m.,-1
+752,1,flight,,1
+753,3,act_dep_time,7:16 a.m.,-1
+754,2,sched_dep_time,7:10 a.m.L,1
+755,5,act_arr_time,9:32 a.m.,-1
+756,3,act_dep_time,7:16 a.m.l,1
+757,2,sched_dep_time,7:10 a.m.,-1
+758,3,act_dep_time,.6 1m:a7.,1
+759,3,act_dep_time,7:16 a.m.,-1
+760,3,act_dep_time,,1
+761,3,act_dep_time,7:16 a.m.,-1
+762,5,act_arr_time,J9:32 a.m.,1
+763,4,sched_arr_time,9:40 a.m.,-1
+764,0,src,fwunderground,1
+765,2,sched_dep_time,7:30 a.m.,-1
+766,4,sched_arr_time,,1
+767,1,flight,AA-3979-CVG-ORD,-1
+768,5,act_arr_time,a .m608.:,1
+769,2,sched_dep_time,7:30 a.m.,-1
+770,3,act_dep_time,80m.4 :a.,1
+771,4,sched_arr_time,8:00 a.m.,-1
+772,2,sched_dep_time,,1
+773,0,src,flightstats,-1
+774,1,flight,3-9O9VDRG7AA--C,1
+775,0,src,flylouisville,-1
+776,4,sched_arr_time,i8:00 a.m.,1
+777,4,sched_arr_time,8:00 a.m.,-1
+778,4,sched_arr_time,,1
+779,5,act_arr_time,8:06 a.m.,-1
+780,3,act_dep_time, a.:m408.,1
+781,0,src,myrateplan,-1
+782,1,flight,AA-3979-CVG-ORDz,1
+783,1,flight,AA-3979-CVG-ORD,-1
+784,4,sched_arr_time,I8:00 a.m.,1
+785,2,sched_dep_time,7:30 a.m.,-1
+786,4,sched_arr_time,q8:00 a.m.,1
+787,2,sched_dep_time,7:30 a.m.,-1
+788,3,act_dep_time,,1
+789,5,act_arr_time,8:06 a.m.,-1
+790,0,src,wundergroundo,1
+791,3,act_dep_time,11:01 a.m.,-1
+792,5,act_arr_time,,1
+793,3,act_dep_time,11:01 a.m.,-1
+794,4,sched_arr_time,p:.m.25 9,1
+795,2,sched_dep_time,10:40 a.m.,-1
+796,2,sched_dep_time,o10:40 a.m.,1
+797,1,flight,AA-400-DFW-JFK,-1
+798,5,act_arr_time,3:04 p.m.t,1
+799,0,src,flights,-1
+800,5,act_arr_time,m3:04 p.m.,1
+801,5,act_arr_time,3:04 p.m.,-1
+802,3,act_dep_time,11:01 a.m.B,1
+803,3,act_dep_time,11:01 a.m.,-1
+804,1,flight,-0F-0ADFAJ-4KW,1
+805,5,act_arr_time,3:04 p.m.,-1
+806,2,sched_dep_time,10:40 a.m.M,1
+807,1,flight,AA-400-DFW-JFK,-1
+808,4,sched_arr_time,h2:59 p.m.,1
+809,3,act_dep_time,11:01 a.m.,-1
+810,1,flight,AA-400-DFW-JFKz,1
+811,4,sched_arr_time,2:59 p.m.,-1
+812,3,act_dep_time,am .:110.1,1
+813,0,src,weather,-1
+814,3,act_dep_time,11:01 a.m.K,1
+815,4,sched_arr_time,7:45 a.m.,-1
+816,3,act_dep_time,f6:57 a.m.,1
+817,0,src,allegiantair,-1
+818,1,flight,gAA-404-MIA-MCO,1
+819,5,act_arr_time,7:40 a.m.,-1
+820,0,src,,1
+821,4,sched_arr_time,7:45 a.m.,-1
+822,1,flight,O44I0MC--MAA-A,1
+823,1,flight,AA-404-MIA-MCO,-1
+824,2,sched_dep_time,6:45 a.m.l,1
+825,1,flight,AA-404-MIA-MCO,-1
+826,2,sched_dep_time,n6:45 a.m.,1
+827,4,sched_arr_time,7:45 a.m.,-1
+828,5,act_arr_time,.7m0:a.4 ,1
+829,5,act_arr_time,7:40 a.m.,-1
+830,4,sched_arr_time,54 am7..:,1
+831,2,sched_dep_time,6:45 a.m.,-1
+832,3,act_dep_time,,1
+833,3,act_dep_time,6:57 a.m.,-1
+834,3,act_dep_time,.576m.:a ,1
+835,4,sched_arr_time,7:45 a.m.,-1
+836,1,flight,AA-404-MIA-MCOX,1
+837,1,flight,AA-404-MIA-MCO,-1
+838,3,act_dep_time,V6:57 a.m.,1
+839,2,sched_dep_time,6:45 a.m.,-1
+840,0,src,,1
+841,4,sched_arr_time,7:45 a.m.,-1
+842,0,src,daa,1
+843,5,act_arr_time,10:16 a.m.,-1
+844,4,sched_arr_time,F10:40 a.m.,1
+845,5,act_arr_time,10:16 a.m.,-1
+846,0,src,businesstravelloguef,1
+847,5,act_arr_time,10:16 a.m.,-1
+848,0,src,Cflightstats,1
+849,0,src,flightview,-1
+850,4,sched_arr_time,,1
+851,3,act_dep_time,8:56 a.m.,-1
+852,0,src,Efoxbusiness,1
+853,5,act_arr_time,10:16 a.m.,-1
+854,4,sched_arr_time,F10:40 a.m.,1
+855,1,flight,AA-415-BOS-ORD,-1
+856,0,src,myrateplanx,1
+857,5,act_arr_time,10:16 a.m.,-1
+858,2,sched_dep_time,.35a8m .:,1
+859,0,src,ord,-1
+860,3,act_dep_time,a.. m85:6,1
+861,4,sched_arr_time,10:40 a.m.,-1
+862,3,act_dep_time,8:56 a.m.w,1
+863,1,flight,AA-415-BOS-ORD,-1
+864,1,flight,AA-4198-ORD-CLEf,1
+865,4,sched_arr_time,12:55 p.m.,-1
+866,2,sched_dep_time, 0:.10am4.,1
+867,3,act_dep_time,10:54 a.m.,-1
+868,1,flight,,1
+869,2,sched_dep_time,10:40 a.m.,-1
+870,1,flight,AA-4198-ORD-CLEI,1
+871,4,sched_arr_time,12:55 p.m.,-1
+872,3,act_dep_time,,1
+873,5,act_arr_time,12:50 p.m.,-1
+874,3,act_dep_time,..51:a4m0 ,1
+875,0,src,flylouisville,-1
+876,0,src,emlocfmyt,1
+877,1,flight,AA-4198-ORD-CLE,-1
+878,5,act_arr_time,,1
+879,2,sched_dep_time,10:40 a.m.,-1
+880,3,act_dep_time,N10:54 a.m.,1
+881,1,flight,AA-4198-ORD-CLE,-1
+882,1,flight,AA-4198-ORD-CLEd,1
+883,4,sched_arr_time,12:55 p.m.,-1
+884,3,act_dep_time,,1
+885,1,flight,AA-4198-ORD-CLE,-1
+886,0,src,Aweather,1
+887,5,act_arr_time,12:50 p.m.,-1
+888,1,flight,AA-4198-ORD-CLEP,1
+889,4,sched_arr_time,2:15 p.m.,-1
+890,4,sched_arr_time,V2:15 p.m.,1
+891,1,flight,AA-4277-CVG-JFK,-1
+892,5,act_arr_time,4:p.13 m.,1
+893,5,act_arr_time,1:43 p.m.,-1
+894,5,act_arr_time,1:43 p.m.M,1
+895,1,flight,AA-4277-CVG-JFK,-1
+896,0,src,rpfrtgxlleeoih,1
+897,0,src,flights,-1
+898,1,flight,J4F-A7-CA7G2VK-,1
+899,0,src,flightview,-1
+900,4,sched_arr_time,a2:15 p.m.,1
+901,0,src,flytecomm,-1
+902,0,src,,1
+903,1,flight,AA-4277-CVG-JFK,-1
+904,2,sched_dep_time,12:10 p.m.q,1
+905,5,act_arr_time,1:43 p.m.,-1
+906,1,flight,rAA-4277-CVG-JFK,1
+907,1,flight,AA-4277-CVG-JFK,-1
+908,4,sched_arr_time,,1
+909,0,src,quicktrip,-1
+910,2,sched_dep_time,12:10 p.m.x,1
+911,3,act_dep_time,12:10 p.m.,-1
+912,4,sched_arr_time, 5p12m..:,1
+913,0,src,world-flight-tracker,-1
+914,2,sched_dep_time,12:10 p.m.w,1
+915,0,src,aa,-1
+916,0,src,Sairtravelcenter,1
+917,2,sched_dep_time,6:45 p.m.,-1
+918,1,flight,DDAAWT-O30-4-7R,1
+919,5,act_arr_time,8:53 p.m.,-1
+920,1,flight,,1
+921,3,act_dep_time,6:55 p.m.,-1
+922,3,act_dep_time,6:55 p.m.D,1
+923,2,sched_dep_time,6:45 p.m.,-1
+924,1,flight,uAA-4307-ORD-DTW,1
+925,1,flight,AA-4307-ORD-DTW,-1
+926,0,src,hflightwise,1
+927,3,act_dep_time,6:55 p.m.,-1
+928,1,flight,,1
+929,0,src,foxbusiness,-1
+930,1,flight,,1
+931,2,sched_dep_time,6:45 p.m.,-1
+932,0,src,vmyrateplan,1
+933,5,act_arr_time,8:53 p.m.,-1
+934,5,act_arr_time,p..53:m8 ,1
+935,3,act_dep_time,6:55 p.m.,-1
+936,4,sched_arr_time,,1
+937,0,src,quicktrip,-1
+938,5,act_arr_time,,1
+939,2,sched_dep_time,6:45 p.m.,-1
+940,2,sched_dep_time,v6:45 p.m.,1
+941,1,flight,AA-4307-ORD-DTW,-1
+942,2,sched_dep_time,6:45 p.m.k,1
+943,5,act_arr_time,11:44 a.m.,-1
+944,2,sched_dep_time,.58.:m a3,1
+945,1,flight,AA-431-MIA-SFO,-1
+946,1,flight,bAA-431-MIA-SFO,1
+947,0,src,businesstravellogue,-1
+948,3,act_dep_time,,1
+949,1,flight,AA-431-MIA-SFO,-1
+950,1,flight,OAA-431-MIA-SFO,1
+951,3,act_dep_time,8:51 a.m.,-1
+952,0,src,igtshaltsft,1
+953,5,act_arr_time,11:44 a.m.,-1
+954,1,flight,,1
+955,5,act_arr_time,11:44 a.m.,-1
+956,1,flight,AA-431-MIA-SFOy,1
+957,5,act_arr_time,11:44 a.m.,-1
+958,2,sched_dep_time,8:35 a.m.P,1
+959,1,flight,AA-431-MIA-SFO,-1
+960,3,act_dep_time,81 m..5a:,1
+961,5,act_arr_time,11:44 a.m.,-1
+962,1,flight,,1
+963,5,act_arr_time,11:44 a.m.,-1
+964,4,sched_arr_time,,1
+965,0,src,sfo,-1
+966,3,act_dep_time, .:8.51am,1
+967,2,sched_dep_time,8:35 a.m.,-1
+968,5,act_arr_time,,1
+969,2,sched_dep_time,8:35 a.m.,-1
+970,1,flight,,1
+971,5,act_arr_time,3:33 p.m.,-1
+972,4,sched_arr_time,,1
+973,5,act_arr_time,3:33 p.m.,-1
+974,0,src,vsloseutnsebrgiulae,1
+975,3,act_dep_time,3:36 p.m.,-1
+976,0,src,flightexplorerJ,1
+977,2,sched_dep_time,3:35 p.m.,-1
+978,3,act_dep_time,,1
+979,2,sched_dep_time,3:35 p.m.,-1
+980,3,act_dep_time,.3m.p6 3:,1
+981,3,act_dep_time,3:36 p.m.,-1
+982,1,flight,D0433-AGC-R-VAO,1
+983,5,act_arr_time,3:33 p.m.,-1
+984,5,act_arr_time,3 .3.mp:3,1
+985,5,act_arr_time,3:33 p.m.,-1
+986,1,flight,AA-4330-CVG-ORDc,1
+987,4,sched_arr_time,4:00 p.m.,-1
+988,4,sched_arr_time,,1
+989,0,src,panynj,-1
+990,2,sched_dep_time,V3:35 p.m.,1
+991,4,sched_arr_time,4:00 p.m.,-1
+992,3,act_dep_time,3:36 p.m.F,1
+993,3,act_dep_time,12:13 p.m.,-1
+994,0,src,airtravelcenterR,1
+995,2,sched_dep_time,11:45 a.m.,-1
+996,0,src,tbsnoo,1
+997,5,act_arr_time,2:10 p.m.,-1
+998,0,src,flightarrivalx,1
+999,3,act_dep_time,12:13 p.m.,-1
+1000,0,src,Pflights,1
+1001,5,act_arr_time,2:10 p.m.,-1
+1002,4,sched_arr_time,r2:00 p.m.,1
+1003,4,sched_arr_time,2:00 p.m.,-1
+1004,0,src,Qflytecomm,1
+1005,1,flight,AA-4344-ORD-DTW,-1
+1006,3,act_dep_time,12:13 p.m.Q,1
+1007,5,act_arr_time,2:10 p.m.,-1
+1008,4,sched_arr_time,a2:00 p.m.,1
+1009,3,act_dep_time,12:13 p.m.,-1
+1010,0,src,orbitzl,1
+1011,4,sched_arr_time,2:00 p.m.,-1
+1012,3,act_dep_time,12.:.p 3m1,1
+1013,5,act_arr_time,2:10 p.m.,-1
+1014,5,act_arr_time,2:10 p.m.n,1
+1015,2,sched_dep_time,11:45 a.m.,-1
+1016,2,sched_dep_time,,1
+1017,3,act_dep_time,12:12 p.m.,-1
+1018,0,src,nallegiantair,1
+1019,0,src,boston,-1
+1020,4,sched_arr_time,,1
+1021,4,sched_arr_time,3:50 p.m.,-1
+1022,0,src,flightawarev,1
+1023,5,act_arr_time,4:09 p.m.,-1
+1024,5,act_arr_time,4:09 p.m.X,1
+1025,5,act_arr_time,4:09 p.m.,-1
+1026,4,sched_arr_time,. :p350m.,1
+1027,3,act_dep_time,12:12 p.m.,-1
+1028,1,flight,mAA-446-DFW-PHL,1
+1029,0,src,foxbusiness,-1
+1030,3,act_dep_time,1.p21m: .2,1
+1031,0,src,helloflight,-1
+1032,5,act_arr_time,J4:09 p.m.,1
+1033,5,act_arr_time,4:09 p.m.,-1
+1034,1,flight,AWF6LH4P4D---A,1
+1035,5,act_arr_time,4:09 p.m.,-1
+1036,0,src,lhp,1
+1037,1,flight,AA-446-DFW-PHL,-1
+1038,0,src,Etravelocity,1
+1039,5,act_arr_time,4:09 p.m.,-1
+1040,1,flight,-A-4WD4FL-H6AP,1
+1041,0,src,wunderground,-1
+1042,4,sched_arr_time,9:20 a.m.N,1
+1043,2,sched_dep_time,6:00 a.m.,-1
+1044,1,flight,AA-466-IAH-MIAg,1
+1045,1,flight,AA-466-IAH-MIA,-1
+1046,4,sched_arr_time,n9:20 a.m.,1
+1047,1,flight,AA-466-IAH-MIA,-1
+1048,0,src,agweitlharf,1
+1049,2,sched_dep_time,6:00 a.m.,-1
+1050,1,flight,AA-466-IAH-MIAp,1
+1051,3,act_dep_time,6:08 a.m.,-1
+1052,0,src,vwfgiheilt,1
+1053,0,src,flylouisville,-1
+1054,3,act_dep_time,:06.m8.a ,1
+1055,3,act_dep_time,6:08 a.m.,-1
+1056,4,sched_arr_time,u9:20 a.m.,1
+1057,1,flight,AA-466-IAH-MIA,-1
+1058,2,sched_dep_time,,1
+1059,4,sched_arr_time,9:20 a.m.,-1
+1060,2,sched_dep_time,G6:00 a.m.,1
+1061,5,act_arr_time,9:05 a.m.,-1
+1062,2,sched_dep_time,,1
+1063,3,act_dep_time,6:08 a.m.,-1
+1064,5,act_arr_time,N9:05 a.m.,1
+1065,1,flight,AA-466-IAH-MIA,-1
+1066,2,sched_dep_time,,1
+1067,4,sched_arr_time,9:20 a.m.,-1
+1068,3,act_dep_time,6:08 a.m.q,1
+1069,3,act_dep_time,4:29 p.m.,-1
+1070,2,sched_dep_time,4:15 p.m.Q,1
+1071,2,sched_dep_time,4:15 p.m.,-1
+1072,4,sched_arr_time,,1
+1073,1,flight,AA-484-DFW-MIA,-1
+1074,2,sched_dep_time,45..p1: m,1
+1075,5,act_arr_time,7:39 p.m.,-1
+1076,1,flight,AA-484-DFW-MIAd,1
+1077,1,flight,AA-484-DFW-MIA,-1
+1078,0,src,flightstatsu,1
+1079,4,sched_arr_time,7:55 p.m.,-1
+1080,1,flight,,1
+1081,3,act_dep_time,4:29 p.m.,-1
+1082,0,src,Vfoxbusiness,1
+1083,3,act_dep_time,4:29 p.m.,-1
+1084,3,act_dep_time,4:29 p.m.T,1
+1085,4,sched_arr_time,7:55 p.m.,-1
+1086,4,sched_arr_time,,1
+1087,5,act_arr_time,7:39 p.m.,-1
+1088,1,flight,IM4-FW8-AADA4-,1
+1089,4,sched_arr_time,7:55 p.m.,-1
+1090,5,act_arr_time,C7:39 p.m.,1
+1091,0,src,usatoday,-1
+1092,0,src,earweht,1
+1093,1,flight,AA-484-DFW-MIA,-1
+1094,4,sched_arr_time,,1
+1095,2,sched_dep_time,6:40 a.m.,-1
+1096,2,sched_dep_time,..: 64ma0,1
+1097,1,flight,AA-518-MIA-JFK,-1
+1098,4,sched_arr_time,.am59 .2:,1
+1099,0,src,businesstravellogue,-1
+1100,0,src,,1
+1101,1,flight,AA-518-MIA-JFK,-1
+1102,4,sched_arr_time,9. .m2:5a,1
+1103,0,src,flightview,-1
+1104,5,act_arr_time,:8. .2m9a,1
+1105,1,flight,AA-518-MIA-JFK,-1
+1106,5,act_arr_time, :.98ma2.,1
+1107,4,sched_arr_time,9:25 a.m.,-1
+1108,4,sched_arr_time,.:952a .m,1
+1109,3,act_dep_time,6:54 a.m.,-1
+1110,4,sched_arr_time,9:25 a.m.v,1
+1111,3,act_dep_time,6:54 a.m.,-1
+1112,0,src,rquicktrip,1
+1113,2,sched_dep_time,6:40 a.m.,-1
+1114,4,sched_arr_time, :5ma.2.9,1
+1115,4,sched_arr_time,9:25 a.m.,-1
+1116,1,flight,VAA-518-MIA-JFK,1
+1117,1,flight,AA-518-MIA-JFK,-1
+1118,2,sched_dep_time,D7:10 a.m.,1
+1119,3,act_dep_time,7:39 a.m.,-1
+1120,2,sched_dep_time,7:10 a.m.j,1
+1121,4,sched_arr_time,10:45 a.m.,-1
+1122,1,flight,F5O9-J-SK-AFA,1
+1123,5,act_arr_time,11:12 a.m.,-1
+1124,4,sched_arr_time,,1
+1125,5,act_arr_time,11:12 a.m.,-1
+1126,2,sched_dep_time,,1
+1127,4,sched_arr_time,10:45 a.m.,-1
+1128,0,src,flightviewl,1
+1129,3,act_dep_time,7:39 a.m.,-1
+1130,1,flight,gAA-59-JFK-SFO,1
+1131,4,sched_arr_time,10:45 a.m.,-1
+1132,0,src,foxbusinessk,1
+1133,5,act_arr_time,11:12 a.m.,-1
+1134,1,flight,AA-59-JFK-SFOd,1
+1135,0,src,ifly,-1
+1136,1,flight,mAA-59-JFK-SFO,1
+1137,0,src,mytripandmore,-1
+1138,5,act_arr_time,11:12 a.m.A,1
+1139,3,act_dep_time,7:39 a.m.,-1
+1140,3,act_dep_time,w7:39 a.m.,1
+1141,3,act_dep_time,7:39 a.m.,-1
+1142,4,sched_arr_time, a..05:41m,1
+1143,5,act_arr_time,11:12 a.m.,-1
+1144,2,sched_dep_time,,1
+1145,5,act_arr_time,11:12 a.m.,-1
+1146,4,sched_arr_time,am015:. .4,1
+1147,3,act_dep_time,10:10 a.m.,-1
+1148,0,src,retrarintaecelv,1
+1149,5,act_arr_time,1:27 p.m.,-1
+1150,1,flight,-DAD66WFA-1-WT,1
+1151,2,sched_dep_time,9:05 a.m.,-1
+1152,4,sched_arr_time,,1
+1153,0,src,flightaware,-1
+1154,0,src,flightexplorerd,1
+1155,4,sched_arr_time,12:35 p.m.,-1
+1156,3,act_dep_time,,1
+1157,1,flight,AA-616-DFW-DTW,-1
+1158,1,flight,AA-616-DFW-DTWy,1
+1159,3,act_dep_time,10:10 a.m.,-1
+1160,3,act_dep_time,Q10:10 a.m.,1
+1161,0,src,gofox,-1
+1162,4,sched_arr_time,,1
+1163,2,sched_dep_time,9:05 a.m.,-1
+1164,4,sched_arr_time,F12:35 p.m.,1
+1165,3,act_dep_time,10:10 a.m.,-1
+1166,1,flight,nAA-616-DFW-DTW,1
+1167,2,sched_dep_time,9:05 a.m.,-1
+1168,5,act_arr_time,g1:27 p.m.,1
+1169,2,sched_dep_time,9:05 a.m.,-1
+1170,4,sched_arr_time,12:35 p.m.d,1
+1171,5,act_arr_time,1:27 p.m.,-1
+1172,0,src,wundergroundL,1
+1173,2,sched_dep_time,7:10 a.m.,-1
+1174,4,sched_arr_time,,1
+1175,1,flight,AA-643-MIA-ORD,-1
+1176,2,sched_dep_time,u7:10 a.m.,1
+1177,0,src,businesstravellogue,-1
+1178,5,act_arr_time,9:31 a.m.g,1
+1179,4,sched_arr_time,9:35 a.m.,-1
+1180,1,flight,,1
+1181,1,flight,AA-643-MIA-ORD,-1
+1182,4,sched_arr_time,.a5 .:93m,1
+1183,1,flight,AA-643-MIA-ORD,-1
+1184,4,sched_arr_time,9:35 a.m.U,1
+1185,1,flight,AA-643-MIA-ORD,-1
+1186,3,act_dep_time,D7:30 a.m.,1
+1187,0,src,gofox,-1
+1188,4,sched_arr_time,3 :m5.a9.,1
+1189,5,act_arr_time,9:31 a.m.,-1
+1190,4,sched_arr_time,,1
+1191,4,sched_arr_time,9:35 a.m.,-1
+1192,3,act_dep_time,N7:30 a.m.,1
+1193,0,src,panynj,-1
+1194,2,sched_dep_time,Z7:10 a.m.,1
+1195,4,sched_arr_time,9:35 a.m.,-1
+1196,3,act_dep_time,j7:30 a.m.,1
+1197,2,sched_dep_time,7:10 a.m.,-1
+1198,1,flight,AA-643-MIA-ORDm,1
+1199,4,sched_arr_time,3:50 p.m.,-1
+1200,1,flight,vAA-649-ORD-SNA,1
+1201,5,act_arr_time,3:50 p.m.,-1
+1202,3,act_dep_time,1:30 p.m.R,1
+1203,1,flight,AA-649-ORD-SNA,-1
+1204,4,sched_arr_time,,1
+1205,0,src,flightexplorer,-1
+1206,1,flight,SAA-649-ORD-SNA,1
+1207,1,flight,AA-649-ORD-SNA,-1
+1208,4,sched_arr_time,03 5:m..p,1
+1209,0,src,flytecomm,-1
+1210,1,flight,ND-O-R94-ASAA6,1
+1211,4,sched_arr_time,3:50 p.m.,-1
+1212,4,sched_arr_time,0p:3.5.m ,1
+1213,3,act_dep_time,1:30 p.m.,-1
+1214,5,act_arr_time,V3:50 p.m.,1
+1215,1,flight,AA-649-ORD-SNA,-1
+1216,5,act_arr_time,,1
+1217,4,sched_arr_time,3:50 p.m.,-1
+1218,4,sched_arr_time,,1
+1219,5,act_arr_time,3:50 p.m.,-1
+1220,0,src,unrrweudogdn,1
+1221,3,act_dep_time,1:19 p.m.,-1
+1222,3,act_dep_time, 1:9p1..m,1
+1223,2,sched_dep_time,1:05 p.m.,-1
+1224,2,sched_dep_time,,1
+1225,1,flight,AA-789-ORD-DEN,-1
+1226,5,act_arr_time,U3:13 p.m.,1
+1227,0,src,flightaware,-1
+1228,3,act_dep_time,1:19 p.m.t,1
+1229,0,src,flights,-1
+1230,0,src,flightstatsr,1
+1231,3,act_dep_time,1:19 p.m.,-1
+1232,2,sched_dep_time,f1:05 p.m.,1
+1233,5,act_arr_time,3:13 p.m.,-1
+1234,2,sched_dep_time,D1:05 p.m.,1
+1235,2,sched_dep_time,1:05 p.m.,-1
+1236,4,sched_arr_time,523p:.m .,1
+1237,0,src,helloflight,-1
+1238,1,flight,8AD9ORN7-D--AE,1
+1239,0,src,myrateplan,-1
+1240,1,flight,-A-NAED98OR7D-,1
+1241,5,act_arr_time,3:13 p.m.,-1
+1242,5,act_arr_time,,1
+1243,2,sched_dep_time,1:05 p.m.,-1
+1244,0,src,travelocityN,1
+1245,4,sched_arr_time,2:35 p.m.,-1
+1246,5,act_arr_time,O3:13 p.m.,1
+1247,5,act_arr_time,3:13 p.m.,-1
+1248,5,act_arr_time,3:13 p.m.D,1
+1249,2,sched_dep_time,3:05 p.m.,-1
+1250,5,act_arr_time,m3p. :.46,1
+1251,1,flight,AA-85-JFK-SFO,-1
+1252,5,act_arr_time,6:43 p.m.L,1
+1253,0,src,businesstravellogue,-1
+1254,5,act_arr_time,6:43 p.m.F,1
+1255,5,act_arr_time,6:43 p.m.,-1
+1256,1,flight,qAA-85-JFK-SFO,1
+1257,3,act_dep_time,3:36 p.m.,-1
+1258,4,sched_arr_time,q6:30 p.m.,1
+1259,0,src,flightwise,-1
+1260,3,act_dep_time,.3p6m3.: ,1
+1261,2,sched_dep_time,3:05 p.m.,-1
+1262,5,act_arr_time,,1
+1263,0,src,gofox,-1
+1264,2,sched_dep_time,,1
+1265,3,act_dep_time,3:36 p.m.,-1
+1266,4,sched_arr_time,,1
+1267,3,act_dep_time,3:36 p.m.,-1
+1268,1,flight,vAA-85-JFK-SFO,1
+1269,5,act_arr_time,6:43 p.m.,-1
+1270,0,src,yvclotraite,1
+1271,1,flight,AA-85-JFK-SFO,-1
+1272,4,sched_arr_time,,1
+1273,1,flight,AA-85-JFK-SFO,-1
+1274,2,sched_dep_time,,1
+1275,4,sched_arr_time,1:17 p.m.,-1
+1276,0,src,Aairtravelcenter,1
+1277,0,src,allegiantair,-1
+1278,2,sched_dep_time,,1
+1279,3,act_dep_time,11:56 a.m.,-1
+1280,4,sched_arr_time,R1:17 p.m.,1
+1281,2,sched_dep_time,11:40 a.m.,-1
+1282,1,flight,vCO-1023-IAH-DEN,1
+1283,4,sched_arr_time,1:17 p.m.,-1
+1284,0,src,slashttifgt,1
+1285,5,act_arr_time,1:14 p.m.,-1
+1286,3,act_dep_time,m11:56 a.m.,1
+1287,5,act_arr_time,1:14 p.m.,-1
+1288,1,flight,vCO-1023-IAH-DEN,1
+1289,0,src,gofox,-1
+1290,0,src,,1
+1291,0,src,myrateplan,-1
+1292,5,act_arr_time,r1:14 p.m.,1
+1293,4,sched_arr_time,1:17 p.m.,-1
+1294,2,sched_dep_time,11:40 a.m.D,1
+1295,4,sched_arr_time,1:17 p.m.,-1
+1296,4,sched_arr_time,p1 7.:m1.,1
+1297,2,sched_dep_time,8:40 a.m.,-1
+1298,2,sched_dep_time,l8:40 a.m.,1
+1299,2,sched_dep_time,8:40 a.m.,-1
+1300,1,flight,8-I80LCAE-HCO-1,1
+1301,2,sched_dep_time,8:40 a.m.,-1
+1302,2,sched_dep_time,8:40 a.m.L,1
+1303,1,flight,CO-1088-CLE-IAH,-1
+1304,2,sched_dep_time,,1
+1305,1,flight,CO-1088-CLE-IAH,-1
+1306,0,src,,1
+1307,0,src,flytecomm,-1
+1308,0,src,foxbusinessv,1
+1309,4,sched_arr_time,10:54 a.m.,-1
+1310,4,sched_arr_time,5.am041. :,1
+1311,3,act_dep_time,8:40 a.m.,-1
+1312,4,sched_arr_time,0.m1.a45: ,1
+1313,2,sched_dep_time,8:40 a.m.,-1
+1314,4,sched_arr_time,d10:54 a.m.,1
+1315,3,act_dep_time,8:40 a.m.,-1
+1316,4,sched_arr_time,,1
+1317,3,act_dep_time,10:19 a.m.,-1
+1318,1,flight,,1
+1319,0,src,allegiantair,-1
+1320,3,act_dep_time,10:19 a.m.H,1
+1321,2,sched_dep_time,9:45 a.m.,-1
+1322,1,flight,NCO-1090-BOS-IAH,1
+1323,1,flight,CO-1090-BOS-IAH,-1
+1324,4,sched_arr_time,X1:16 p.m.,1
+1325,5,act_arr_time,1:19 p.m.,-1
+1326,3,act_dep_time,,1
+1327,3,act_dep_time,10:19 a.m.,-1
+1328,3,act_dep_time,.0 .1am9:1,1
+1329,5,act_arr_time,1:19 p.m.,-1
+1330,4,sched_arr_time,t1:16 p.m.,1
+1331,4,sched_arr_time,1:16 p.m.,-1
+1332,2,sched_dep_time,9:45 a.m.g,1
+1333,5,act_arr_time,1:19 p.m.,-1
+1334,4,sched_arr_time,1:16 p.m.O,1
+1335,4,sched_arr_time,1:16 p.m.,-1
+1336,0,src,qpukircit,1
+1337,3,act_dep_time,10:19 a.m.,-1
+1338,5,act_arr_time,,1
+1339,0,src,airtravelcenter,-1
+1340,1,flight,CO-1193-EWR-MCOJ,1
+1341,2,sched_dep_time,9:15 a.m.,-1
+1342,5,act_arr_time,,1
+1343,3,act_dep_time,9:14 a.m.,-1
+1344,3,act_dep_time,,1
+1345,2,sched_dep_time,9:15 a.m.,-1
+1346,3,act_dep_time,,1
+1347,5,act_arr_time,12:09 p.m.,-1
+1348,4,sched_arr_time,k12:18 p.m.,1
+1349,5,act_arr_time,12:09 p.m.,-1
+1350,3,act_dep_time,9:14 a.m.e,1
+1351,1,flight,CO-1193-EWR-MCO,-1
+1352,4,sched_arr_time,,1
+1353,4,sched_arr_time,12:18 p.m.,-1
+1354,2,sched_dep_time,5.1 :m9.a,1
+1355,5,act_arr_time,12:09 p.m.,-1
+1356,5,act_arr_time,m12:09 p.m.,1
+1357,0,src,panynj,-1
+1358,0,src,quicktripR,1
+1359,4,sched_arr_time,12:18 p.m.,-1
+1360,4,sched_arr_time,A12:18 p.m.,1
+1361,5,act_arr_time,12:09 p.m.,-1
+1362,4,sched_arr_time,.:8p11 .m2,1
+1363,3,act_dep_time,9:14 a.m.,-1
+1364,4,sched_arr_time,,1
+1365,3,act_dep_time,3:01 p.m.,-1
+1366,0,src,,1
+1367,3,act_dep_time,3:01 p.m.,-1
+1368,3,act_dep_time,3:01 p.m.R,1
+1369,0,src,flights,-1
+1370,1,flight,CO-1250-MIA-IAHN,1
+1371,1,flight,CO-1250-MIA-IAH,-1
+1372,4,sched_arr_time,4:48 p.m.P,1
+1373,3,act_dep_time,3:01 p.m.,-1
+1374,5,act_arr_time,,1
+1375,4,sched_arr_time,4:48 p.m.,-1
+1376,3,act_dep_time,,1
+1377,1,flight,CO-1250-MIA-IAH,-1
+1378,4,sched_arr_time,,1
+1379,1,flight,CO-1250-MIA-IAH,-1
+1380,5,act_arr_time,4:59 p.m.V,1
+1381,0,src,panynj,-1
+1382,5,act_arr_time,A4:59 p.m.,1
+1383,1,flight,CO-1250-MIA-IAH,-1
+1384,3,act_dep_time, .p01:.3m,1
+1385,4,sched_arr_time,4:48 p.m.,-1
+1386,5,act_arr_time,,1
+1387,5,act_arr_time,11:32 a.m.,-1
+1388,4,sched_arr_time,11:35 a.m.D,1
+1389,2,sched_dep_time,8:05 a.m.,-1
+1390,1,flight,,1
+1391,5,act_arr_time,11:32 a.m.,-1
+1392,5,act_arr_time, :.a12m1.3,1
+1393,2,sched_dep_time,8:05 a.m.,-1
+1394,0,src,,1
+1395,5,act_arr_time,11:32 a.m.,-1
+1396,2,sched_dep_time,,1
+1397,2,sched_dep_time,8:05 a.m.,-1
+1398,2,sched_dep_time,J8:05 a.m.,1
+1399,0,src,gofox,-1
+1400,5,act_arr_time,..3a1 :m12,1
+1401,5,act_arr_time,11:32 a.m.,-1
+1402,2,sched_dep_time,Q8:05 a.m.,1
+1403,0,src,panynj,-1
+1404,0,src,,1
+1405,3,act_dep_time,8:00 a.m.,-1
+1406,1,flight,CO-1561-PHX-IAHv,1
+1407,4,sched_arr_time,10:15 p.m.,-1
+1408,5,act_arr_time,,1
+1409,2,sched_dep_time,7:00 p.m.,-1
+1410,4,sched_arr_time,10:15 p.m.T,1
+1411,2,sched_dep_time,7:00 p.m.,-1
+1412,2,sched_dep_time, .m:0p70.,1
+1413,4,sched_arr_time,10:15 p.m.,-1
+1414,0,src,fstilgh,1
+1415,0,src,flightstats,-1
+1416,2,sched_dep_time,,1
+1417,2,sched_dep_time,7:00 p.m.,-1
+1418,4,sched_arr_time,,1
+1419,0,src,foxbusiness,-1
+1420,1,flight,,1
+1421,1,flight,CO-1586-IAH-MCO,-1
+1422,2,sched_dep_time,mp00 7.:.,1
+1423,0,src,myrateplan,-1
+1424,1,flight,CO-1586-IAH-MCOp,1
+1425,5,act_arr_time,10:29 p.m.,-1
+1426,5,act_arr_time,9 :..20m1p,1
+1427,4,sched_arr_time,10:15 p.m.,-1
+1428,0,src,,1
+1429,0,src,wunderground,-1
+1430,0,src,COU,1
+1431,3,act_dep_time,10:20 a.m.,-1
+1432,1,flight,CO-16-LAX-EWRO,1
+1433,3,act_dep_time,10:20 a.m.,-1
+1434,0,src,bseeietrsvoulgulasn,1
+1435,4,sched_arr_time,6:44 p.m.,-1
+1436,5,act_arr_time,p63.4:m .,1
+1437,0,src,flightstats,-1
+1438,4,sched_arr_time,,1
+1439,4,sched_arr_time,6:44 p.m.,-1
+1440,5,act_arr_time,6.. mp4:3,1
+1441,1,flight,CO-16-LAX-EWR,-1
+1442,5,act_arr_time,b6:34 p.m.,1
+1443,2,sched_dep_time,10:25 a.m.,-1
+1444,1,flight,EWCRO1-LA6X--,1
+1445,3,act_dep_time,10:20 a.m.,-1
+1446,4,sched_arr_time,4m4p .6:.,1
+1447,5,act_arr_time,6:34 p.m.,-1
+1448,4,sched_arr_time,6:44 p.m.Y,1
+1449,0,src,usatoday,-1
+1450,5,act_arr_time,F6:34 p.m.,1
+1451,0,src,CO,-1
+1452,2,sched_dep_time,r12:30 a.m.,1
+1453,4,sched_arr_time,5:35 a.m.,-1
+1454,4,sched_arr_time,5:35 a.m.c,1
+1455,3,act_dep_time,12:41 a.m.,-1
+1456,3,act_dep_time,,1
+1457,1,flight,CO-1614-LAX-IAH,-1
+1458,0,src,Eflights,1
+1459,4,sched_arr_time,5:35 a.m.,-1
+1460,2,sched_dep_time,f12:30 a.m.,1
+1461,0,src,flylouisville,-1
+1462,2,sched_dep_time,:.a31. m20,1
+1463,4,sched_arr_time,5:35 a.m.,-1
+1464,0,src,,1
+1465,4,sched_arr_time,5:35 a.m.,-1
+1466,1,flight,--IAH1-14LCXO6A,1
+1467,0,src,myrateplan,-1
+1468,2,sched_dep_time,:.0a m312.,1
+1469,2,sched_dep_time,12:30 a.m.,-1
+1470,1,flight,HI--1O6CXLA-A14,1
+1471,5,act_arr_time,5:26 a.m.,-1
+1472,3,act_dep_time,,1
+1473,2,sched_dep_time,7:15 p.m.,-1
+1474,3,act_dep_time,.71p:m. 5,1
+1475,2,sched_dep_time,7:15 p.m.,-1
+1476,2,sched_dep_time,7:15 p.m.k,1
+1477,5,act_arr_time,12:21 a.m.,-1
+1478,4,sched_arr_time,12:21 a.m.w,1
+1479,3,act_dep_time,7:15 p.m.,-1
+1480,2,sched_dep_time,7:15 p.m.G,1
+1481,3,act_dep_time,7:15 p.m.,-1
+1482,2,sched_dep_time,7:15 p.m.r,1
+1483,4,sched_arr_time,12:21 a.m.,-1
+1484,1,flight,oCO-1694-LAX-IAH,1
+1485,0,src,flytecomm,-1
+1486,1,flight,,1
+1487,1,flight,CO-1694-LAX-IAH,-1
+1488,4,sched_arr_time,12:21 a.m.K,1
+1489,2,sched_dep_time,7:15 p.m.,-1
+1490,0,src,Imyrateplan,1
+1491,4,sched_arr_time,12:21 a.m.,-1
+1492,3,act_dep_time,7p. m1:5.,1
+1493,3,act_dep_time,7:15 p.m.,-1
+1494,1,flight,CO-1694-LAX-IAHK,1
+1495,3,act_dep_time,7:15 p.m.,-1
+1496,1,flight,CO-1694-LAX-IAHi,1
+1497,1,flight,CO-1694-LAX-IAH,-1
+1498,5,act_arr_time,12:21 a.m.P,1
+1499,1,flight,CO-45-EWR-MIA,-1
+1500,2,sched_dep_time,,1
+1501,0,src,allegiantair,-1
+1502,4,sched_arr_time, :p705m..,1
+1503,2,sched_dep_time,4:00 p.m.,-1
+1504,0,src,mflightaware,1
+1505,3,act_dep_time,3:58 p.m.,-1
+1506,3,act_dep_time,3:58 p.m.o,1
+1507,0,src,flightview,-1
+1508,2,sched_dep_time,4:00 p.m.u,1
+1509,4,sched_arr_time,7:05 p.m.,-1
+1510,1,flight,R--IWAO4CE-M5,1
+1511,5,act_arr_time,6:36 p.m.,-1
+1512,2,sched_dep_time,4:00 p.m.h,1
+1513,4,sched_arr_time,7:05 p.m.,-1
+1514,3,act_dep_time,. 5p:83m.,1
+1515,4,sched_arr_time,7:05 p.m.,-1
+1516,3,act_dep_time,.mp:.85 3,1
+1517,4,sched_arr_time,7:05 p.m.,-1
+1518,0,src,weatherv,1
+1519,2,sched_dep_time,4:00 p.m.,-1
+1520,0,src,,1
+1521,0,src,CO,-1
+1522,2,sched_dep_time,Z7:10 p.m.,1
+1523,4,sched_arr_time,8:56 p.m.,-1
+1524,5,act_arr_time,9m:. .p25,1
+1525,1,flight,CO-47-IAH-LAX,-1
+1526,4,sched_arr_time,8:56 p.m.B,1
+1527,0,src,flights,-1
+1528,4,sched_arr_time,i8:56 p.m.,1
+1529,0,src,flightview,-1
+1530,3,act_dep_time,.p:.852 m,1
+1531,2,sched_dep_time,7:10 p.m.,-1
+1532,3,act_dep_time,8:25 p.m.J,1
+1533,4,sched_arr_time,8:56 p.m.,-1
+1534,0,src,agofox,1
+1535,4,sched_arr_time,8:56 p.m.,-1
+1536,3,act_dep_time,x8:25 p.m.,1
+1537,5,act_arr_time,9:52 p.m.,-1
+1538,0,src,orbitzm,1
+1539,5,act_arr_time,9:52 p.m.,-1
+1540,1,flight,,1
+1541,0,src,wunderground,-1
+1542,0,src,zCO,1
+1543,3,act_dep_time,5:30 p.m.,-1
+1544,1,flight,8-ACD8IL4-HA-8O,1
+1545,5,act_arr_time,6:40 p.m.,-1
+1546,0,src,Abusinesstravellogue,1
+1547,1,flight,CO-4888-IAH-DAL,-1
+1548,2,sched_dep_time,5:30 p.m.d,1
+1549,4,sched_arr_time,6:40 p.m.,-1
+1550,0,src,flightsx,1
+1551,0,src,flightstats,-1
+1552,2,sched_dep_time,p35:0.m. ,1
+1553,1,flight,CO-4888-IAH-DAL,-1
+1554,4,sched_arr_time,O6:40 p.m.,1
+1555,0,src,foxbusiness,-1
+1556,1,flight,,1
+1557,4,sched_arr_time,6:40 p.m.,-1
+1558,0,src,palatymrne,1
+1559,1,flight,CO-4888-IAH-DAL,-1
+1560,3,act_dep_time,,1
+1561,0,src,quicktrip,-1
+1562,4,sched_arr_time,6:40 p.m.R,1
+1563,0,src,wunderground,-1
+1564,5,act_arr_time,,1
+1565,0,src,airtravelcenter,-1
+1566,4,sched_arr_time,,1
+1567,5,act_arr_time,5:26 p.m.,-1
+1568,0,src,businesstravellogueo,1
+1569,0,src,flightarrival,-1
+1570,4,sched_arr_time,,1
+1571,5,act_arr_time,5:26 p.m.,-1
+1572,3,act_dep_time,:3.m13.p ,1
+1573,4,sched_arr_time,4:49 p.m.,-1
+1574,4,sched_arr_time,,1
+1575,1,flight,CO-50-CLE-EWR,-1
+1576,1,flight,-C0CEOER5-LW-,1
+1577,4,sched_arr_time,4:49 p.m.,-1
+1578,5,act_arr_time,.pm2 .:65,1
+1579,5,act_arr_time,5:26 p.m.,-1
+1580,4,sched_arr_time,4m9p4.: .,1
+1581,3,act_dep_time,3:31 p.m.,-1
+1582,1,flight,CO-50-CLE-EWRj,1
+1583,4,sched_arr_time,4:49 p.m.,-1
+1584,5,act_arr_time,z5:26 p.m.,1
+1585,4,sched_arr_time,9:21 a.m.,-1
+1586,5,act_arr_time,L9:14 a.m.,1
+1587,2,sched_dep_time,7:35 a.m.,-1
+1588,1,flight,TCO-52-IAH-LAX,1
+1589,2,sched_dep_time,7:35 a.m.,-1
+1590,5,act_arr_time,j9:14 a.m.,1
+1591,3,act_dep_time,7:29 a.m.,-1
+1592,4,sched_arr_time,u9:21 a.m.,1
+1593,0,src,flightstats,-1
+1594,1,flight,H5XCAL-OI2A--,1
+1595,0,src,flylouisville,-1
+1596,0,src,oclmyfmte,1
+1597,5,act_arr_time,9:14 a.m.,-1
+1598,2,sched_dep_time,a73m.. :5,1
+1599,5,act_arr_time,9:14 a.m.,-1
+1600,3,act_dep_time,u7:29 a.m.,1
+1601,1,flight,CO-52-IAH-LAX,-1
+1602,3,act_dep_time,a .:72.m9,1
+1603,1,flight,CO-52-IAH-LAX,-1
+1604,3,act_dep_time,Q7:29 a.m.,1
+1605,4,sched_arr_time,2:50 p.m.,-1
+1606,3,act_dep_time,D11:32 a.m.,1
+1607,2,sched_dep_time,11:25 a.m.,-1
+1608,4,sched_arr_time,b2:50 p.m.,1
+1609,2,sched_dep_time,11:25 a.m.,-1
+1610,3,act_dep_time,,1
+1611,4,sched_arr_time,2:50 p.m.,-1
+1612,0,src,sflightstats,1
+1613,4,sched_arr_time,2:50 p.m.,-1
+1614,3,act_dep_time,,1
+1615,3,act_dep_time,11:32 a.m.,-1
+1616,5,act_arr_time,3p3:..m1 ,1
+1617,3,act_dep_time,11:32 a.m.,-1
+1618,0,src,hhgflilelto,1
+1619,5,act_arr_time,3:31 p.m.,-1
+1620,2,sched_dep_time,,1
+1621,3,act_dep_time,11:32 a.m.,-1
+1622,4,sched_arr_time,w2:50 p.m.,1
+1623,4,sched_arr_time,2:50 p.m.,-1
+1624,3,act_dep_time,m:311a .2.,1
+1625,2,sched_dep_time,2:30 p.m.,-1
+1626,4,sched_arr_time,. 3.p:70m,1
+1627,4,sched_arr_time,7:03 p.m.,-1
+1628,1,flight,CO-62-IAH-EWRG,1
+1629,1,flight,CO-62-IAH-EWR,-1
+1630,3,act_dep_time,,1
+1631,4,sched_arr_time,7:03 p.m.,-1
+1632,0,src,tthlsgfitas,1
+1633,5,act_arr_time,7:10 p.m.,-1
+1634,4,sched_arr_time,A7:03 p.m.,1
+1635,5,act_arr_time,7:10 p.m.,-1
+1636,3,act_dep_time,2:48 p.m.B,1
+1637,1,flight,CO-62-IAH-EWR,-1
+1638,1,flight,CO-62-IAH-EWRD,1
+1639,4,sched_arr_time,7:03 p.m.,-1
+1640,1,flight,H6E-I2RAW-C-O,1
+1641,2,sched_dep_time,2:30 p.m.,-1
+1642,2,sched_dep_time,2:30 p.m.Z,1
+1643,1,flight,CO-62-IAH-EWR,-1
+1644,1,flight,6A2-I-COERHW-,1
+1645,3,act_dep_time,2:48 p.m.,-1
+1646,2,sched_dep_time,k5:25 p.m.,1
+1647,3,act_dep_time,5:22 p.m.,-1
+1648,5,act_arr_time,q8:03 p.m.,1
+1649,3,act_dep_time,5:22 p.m.,-1
+1650,2,sched_dep_time,r5:25 p.m.,1
+1651,1,flight,CO-63-EWR-IAH,-1
+1652,0,src,sflights,1
+1653,1,flight,CO-63-EWR-IAH,-1
+1654,0,src,flightviewK,1
+1655,2,sched_dep_time,5:25 p.m.,-1
+1656,4,sched_arr_time,n8:22 p.m.,1
+1657,1,flight,CO-63-EWR-IAH,-1
+1658,1,flight,,1
+1659,2,sched_dep_time,5:25 p.m.,-1
+1660,2,sched_dep_time,,1
+1661,4,sched_arr_time,8:22 p.m.,-1
+1662,1,flight,,1
+1663,0,src,panynj,-1
+1664,3,act_dep_time,l5:22 p.m.,1
+1665,1,flight,CO-63-EWR-IAH,-1
+1666,5,act_arr_time,,1
+1667,3,act_dep_time,6:02 a.m.,-1
+1668,3,act_dep_time,c6:02 a.m.,1
+1669,2,sched_dep_time,6:00 a.m.,-1
+1670,1,flight,,1
+1671,1,flight,CO-89-IAH-EWR,-1
+1672,3,act_dep_time,0:.2m.a 6,1
+1673,4,sched_arr_time,10:20 a.m.,-1
+1674,3,act_dep_time,o6:02 a.m.,1
+1675,1,flight,CO-89-IAH-EWR,-1
+1676,1,flight,CO-89-IAH-EWRi,1
+1677,3,act_dep_time,6:02 a.m.,-1
+1678,2,sched_dep_time,,1
+1679,1,flight,CO-89-IAH-EWR,-1
+1680,2,sched_dep_time,,1
+1681,2,sched_dep_time,6:00 a.m.,-1
+1682,2,sched_dep_time, m0.a06:.,1
+1683,0,src,panynj,-1
+1684,5,act_arr_time,m7. a:2.01,1
+1685,5,act_arr_time,10:27 a.m.,-1
+1686,4,sched_arr_time,,1
+1687,1,flight,UA-1500-IAH-GUA,-1
+1688,2,sched_dep_time,I8:55 a.m.,1
+1689,0,src,boston,-1
+1690,5,act_arr_time,65a:m11.. ,1
+1691,2,sched_dep_time,8:55 a.m.,-1
+1692,3,act_dep_time,9:16 a.m.M,1
+1693,4,sched_arr_time,11:45 a.m.,-1
+1694,5,act_arr_time,,1
+1695,5,act_arr_time,11:56 a.m.,-1
+1696,2,sched_dep_time,O8:55 a.m.,1
+1697,5,act_arr_time,11:56 a.m.,-1
+1698,0,src,Ohelloflight,1
+1699,0,src,myrateplan,-1
+1700,4,sched_arr_time,,1
+1701,1,flight,UA-1500-IAH-GUA,-1
+1702,3,act_dep_time,.: .16m9a,1
+1703,1,flight,UA-1500-IAH-GUA,-1
+1704,1,flight,HL214LU3-TP--AA,1
+1705,4,sched_arr_time,5:00 p.m.,-1
+1706,0,src,tobnos,1
+1707,0,src,businesstravellogue,-1
+1708,5,act_arr_time,,1
+1709,2,sched_dep_time,2:55 p.m.,-1
+1710,2,sched_dep_time,,1
+1711,5,act_arr_time,4:47 p.m.,-1
+1712,0,src,oflylouisville,1
+1713,5,act_arr_time,4:47 p.m.,-1
+1714,0,src,,1
+1715,5,act_arr_time,4:47 p.m.,-1
+1716,4,sched_arr_time,5:00 p.m.Q,1
+1717,4,sched_arr_time,5:00 p.m.,-1
+1718,2,sched_dep_time,,1
+1719,0,src,orbitz,-1
+1720,3,act_dep_time,2:55 p.m.b,1
+1721,4,sched_arr_time,5:00 p.m.,-1
+1722,5,act_arr_time,4:47 p.m.j,1
+1723,5,act_arr_time,4:47 p.m.,-1
+1724,3,act_dep_time,h2:55 p.m.,1
+1725,4,sched_arr_time,12:29 a.m.,-1
+1726,5,act_arr_time,j12:29 a.m.,1
+1727,1,flight,UA-233-LAX-JFK,-1
+1728,4,sched_arr_time,h12:29 a.m.,1
+1729,1,flight,UA-233-LAX-JFK,-1
+1730,2,sched_dep_time,4 m:p52..,1
+1731,2,sched_dep_time,4:25 p.m.,-1
+1732,0,src,,1
+1733,5,act_arr_time,12:29 a.m.,-1
+1734,0,src,flightviewO,1
+1735,4,sched_arr_time,12:29 a.m.,-1
+1736,4,sched_arr_time,s12:29 a.m.,1
+1737,4,sched_arr_time,12:29 a.m.,-1
+1738,4,sched_arr_time,12:29 a.m.T,1
+1739,1,flight,UA-233-LAX-JFK,-1
+1740,0,src,iflyT,1
+1741,2,sched_dep_time,4:25 p.m.,-1
+1742,1,flight,--KXA3F2UAJL3-,1
+1743,4,sched_arr_time,12:29 a.m.,-1
+1744,4,sched_arr_time,,1
+1745,2,sched_dep_time,4:25 p.m.,-1
+1746,4,sched_arr_time,.229a m:.1,1
+1747,3,act_dep_time,4:25 p.m.,-1
+1748,0,src,husatoday,1
+1749,5,act_arr_time,12:29 a.m.,-1
+1750,2,sched_dep_time,4:25 p.m.i,1
+1751,3,act_dep_time,4:25 p.m.,-1
+1752,0,src,airtravelcenterk,1
+1753,2,sched_dep_time,12:57 p.m.,-1
+1754,3,act_dep_time,2 .:p.3m1,1
+1755,2,sched_dep_time,12:57 p.m.,-1
+1756,1,flight,UOP2HX-R--D4A8,1
+1757,0,src,flights,-1
+1758,3,act_dep_time,D1:32 p.m.,1
+1759,0,src,flightview,-1
+1760,5,act_arr_time,5:34 p.m.r,1
+1761,2,sched_dep_time,12:57 p.m.,-1
+1762,2,sched_dep_time,m:p71.5. 2,1
+1763,2,sched_dep_time,12:57 p.m.,-1
+1764,4,sched_arr_time,5:15 p.m.a,1
+1765,3,act_dep_time,1:32 p.m.,-1
+1766,1,flight,,1
+1767,5,act_arr_time,5:34 p.m.,-1
+1768,0,src,apnnyj,1
+1769,4,sched_arr_time,5:15 p.m.,-1
+1770,4,sched_arr_time,X5:15 p.m.,1
+1771,2,sched_dep_time,12:57 p.m.,-1
+1772,3,act_dep_time,,1
+1773,5,act_arr_time,10:47 a.m.,-1
+1774,2,sched_dep_time, m5a0.:.7,1
+1775,4,sched_arr_time,10:31 a.m.,-1
+1776,4,sched_arr_time,10:31 a.m.T,1
+1777,2,sched_dep_time,7:05 a.m.,-1
+1778,1,flight,,1
+1779,4,sched_arr_time,10:31 a.m.,-1
+1780,1,flight,,1
+1781,4,sched_arr_time,10:31 a.m.,-1
+1782,3,act_dep_time,7:05 a.m.F,1
+1783,4,sched_arr_time,10:31 a.m.,-1
+1784,2,sched_dep_time,C7:05 a.m.,1
+1785,5,act_arr_time,10:47 a.m.,-1
+1786,5,act_arr_time,10:47 a.m.o,1
+1787,1,flight,UA-2515-DFW-CLT,-1
+1788,5,act_arr_time,r10:47 a.m.,1
+1789,5,act_arr_time,10:47 a.m.,-1
+1790,3,act_dep_time,7:05 a.m.N,1
+1791,4,sched_arr_time,10:31 a.m.,-1
+1792,1,flight,,1
+1793,4,sched_arr_time,6:15 p.m.,-1
+1794,5,act_arr_time,42: 5p..m,1
+1795,0,src,boston,-1
+1796,1,flight,S--OUAKF52FJ-7,1
+1797,2,sched_dep_time,2:30 p.m.,-1
+1798,3,act_dep_time,2:26 p.m.b,1
+1799,1,flight,UA-257-JFK-SFO,-1
+1800,2,sched_dep_time,2:30 p.m.I,1
+1801,5,act_arr_time,5:42 p.m.,-1
+1802,1,flight,CUA-257-JFK-SFO,1
+1803,4,sched_arr_time,6:15 p.m.,-1
+1804,2,sched_dep_time,.:p.02m 3,1
+1805,3,act_dep_time,2:26 p.m.,-1
+1806,2,sched_dep_time,,1
+1807,3,act_dep_time,2:26 p.m.,-1
+1808,3,act_dep_time,2:26 p.m.f,1
+1809,5,act_arr_time,5:42 p.m.,-1
+1810,5,act_arr_time,.p m42:5.,1
+1811,4,sched_arr_time,6:15 p.m.,-1
+1812,3,act_dep_time,W2:26 p.m.,1
+1813,4,sched_arr_time,6:15 p.m.,-1
+1814,1,flight,UA-257-JFK-SFOo,1
+1815,4,sched_arr_time,6:15 p.m.,-1
+1816,2,sched_dep_time,e2:30 p.m.,1
+1817,1,flight,UA-257-JFK-SFO,-1
+1818,1,flight,UA-257-JFK-SFON,1
+1819,4,sched_arr_time,6:15 p.m.,-1
+1820,1,flight,FUA-2704-DTW-PHX,1
+1821,5,act_arr_time,2:00 p.m.,-1
+1822,0,src,bostonH,1
+1823,1,flight,UA-2704-DTW-PHX,-1
+1824,4,sched_arr_time,1:40 p.m.F,1
+1825,2,sched_dep_time,11:15 a.m.,-1
+1826,3,act_dep_time,e11:15 a.m.,1
+1827,0,src,flightview,-1
+1828,2,sched_dep_time,,1
+1829,4,sched_arr_time,1:40 p.m.,-1
+1830,2,sched_dep_time,Y11:15 a.m.,1
+1831,1,flight,UA-2704-DTW-PHX,-1
+1832,3,act_dep_time,z11:15 a.m.,1
+1833,2,sched_dep_time,11:15 a.m.,-1
+1834,1,flight,UA-2704-DTW-PHXu,1
+1835,1,flight,UA-2704-DTW-PHX,-1
+1836,1,flight,T4X7WU-PH--D0A2,1
+1837,2,sched_dep_time,11:15 a.m.,-1
+1838,5,act_arr_time, :00mp2..,1
+1839,1,flight,UA-2704-DTW-PHX,-1
+1840,4,sched_arr_time,,1
+1841,0,src,airtravelcenter,-1
+1842,2,sched_dep_time,2:55 p.m.U,1
+1843,4,sched_arr_time,4:53 p.m.,-1
+1844,5,act_arr_time,:.m p4.44,1
+1845,3,act_dep_time,2:55 p.m.,-1
+1846,1,flight,UA-2708-EWR-CLTa,1
+1847,0,src,flightview,-1
+1848,0,src,,1
+1849,0,src,flytecomm,-1
+1850,4,sched_arr_time,e4:53 p.m.,1
+1851,4,sched_arr_time,4:53 p.m.,-1
+1852,1,flight,,1
+1853,4,sched_arr_time,4:53 p.m.,-1
+1854,4,sched_arr_time, .5:3p4.m,1
+1855,1,flight,UA-2708-EWR-CLT,-1
+1856,3,act_dep_time,2:55 p.m.s,1
+1857,1,flight,UA-2708-EWR-CLT,-1
+1858,1,flight,UA-2708-EWR-CLTm,1
+1859,0,src,usatoday,-1
+1860,2,sched_dep_time,I2:55 p.m.,1
+1861,1,flight,UA-2726-FLL-PHL,-1
+1862,3,act_dep_time,Y4:00 p.m.,1
+1863,0,src,boston,-1
+1864,0,src,Qbusinesstravellogue,1
+1865,0,src,flightaware,-1
+1866,1,flight,,1
+1867,4,sched_arr_time,6:46 p.m.,-1
+1868,1,flight,,1
+1869,2,sched_dep_time,4:00 p.m.,-1
+1870,1,flight,dUA-2726-FLL-PHL,1
+1871,3,act_dep_time,4:00 p.m.,-1
+1872,0,src,gofoxC,1
+1873,4,sched_arr_time,6:46 p.m.,-1
+1874,1,flight,,1
+1875,5,act_arr_time,6:28 p.m.,-1
+1876,5,act_arr_time,:mp8 .62.,1
+1877,4,sched_arr_time,6:46 p.m.,-1
+1878,2,sched_dep_time,j4:00 p.m.,1
+1879,1,flight,UA-2726-FLL-PHL,-1
+1880,0,src,Fua,1
+1881,2,sched_dep_time,4:00 p.m.,-1
+1882,3,act_dep_time,u4:00 p.m.,1
+1883,1,flight,UA-2726-FLL-PHL,-1
+1884,0,src,airtravelcenterG,1
+1885,3,act_dep_time,3:27 p.m.,-1
+1886,4,sched_arr_time,M5:05 p.m.,1
+1887,3,act_dep_time,3:27 p.m.,-1
+1888,5,act_arr_time,5:17 p.m.b,1
+1889,5,act_arr_time,5:17 p.m.,-1
+1890,2,sched_dep_time,,1
+1891,2,sched_dep_time,3:27 p.m.,-1
+1892,4,sched_arr_time,:.m5p0 5.,1
+1893,3,act_dep_time,3:27 p.m.,-1
+1894,0,src,jgofox,1
+1895,3,act_dep_time,3:27 p.m.,-1
+1896,1,flight,,1
+1897,2,sched_dep_time,3:27 p.m.,-1
+1898,2,sched_dep_time,,1
+1899,2,sched_dep_time,3:27 p.m.,-1
+1900,4,sched_arr_time,,1
+1901,3,act_dep_time,3:27 p.m.,-1
+1902,5,act_arr_time,,1
+1903,4,sched_arr_time,5:05 p.m.,-1
+1904,4,sched_arr_time,T5:05 p.m.,1
+1905,5,act_arr_time,6:38 p.m.,-1
+1906,2,sched_dep_time,,1
+1907,4,sched_arr_time,6:23 p.m.,-1
+1908,5,act_arr_time,,1
+1909,4,sched_arr_time,6:23 p.m.,-1
+1910,3,act_dep_time,,1
+1911,2,sched_dep_time,3:50 p.m.,-1
+1912,2,sched_dep_time,,1
+1913,4,sched_arr_time,6:23 p.m.,-1
+1914,1,flight,jUA-2906-PHL-MCO,1
+1915,2,sched_dep_time,3:50 p.m.,-1
+1916,3,act_dep_time,,1
+1917,1,flight,UA-2906-PHL-MCO,-1
+1918,5,act_arr_time,.6m8p.3: ,1
+1919,0,src,ifly,-1
+1920,4,sched_arr_time,i6:23 p.m.,1
+1921,0,src,orbitz,-1
+1922,0,src,,1
+1923,3,act_dep_time,4:28 p.m.,-1
+1924,1,flight,UA-2906-PHL-MCOp,1
+1925,4,sched_arr_time,6:23 p.m.,-1
+1926,2,sched_dep_time,,1
+1927,3,act_dep_time,4:28 p.m.,-1
+1928,3,act_dep_time,4:28 p.m.u,1
+1929,2,sched_dep_time,12:00 a.m.,-1
+1930,0,src,,1
+1931,2,sched_dep_time,12:00 a.m.,-1
+1932,5,act_arr_time,15p .m.:1,1
+1933,0,src,flightaware,-1
+1934,1,flight,hUA-2945-PHL-CLT,1
+1935,1,flight,UA-2945-PHL-CLT,-1
+1936,5,act_arr_time,P1:15 p.m.,1
+1937,4,sched_arr_time,1:45 p.m.,-1
+1938,5,act_arr_time,,1
+1939,2,sched_dep_time,12:00 a.m.,-1
+1940,1,flight,-HLC54--TLAP92U,1
+1941,0,src,helloflight,-1
+1942,1,flight,UA-2945-PHL-CLTC,1
+1943,2,sched_dep_time,12:00 a.m.,-1
+1944,2,sched_dep_time,12:00 a.m.D,1
+1945,1,flight,UA-2945-PHL-CLT,-1
+1946,1,flight,SUA-2945-PHL-CLT,1
+1947,2,sched_dep_time,12:00 a.m.,-1
+1948,1,flight,UA-2945-PHL-CLTb,1
+1949,5,act_arr_time,1:15 p.m.,-1
+1950,0,src,ertwaeh,1
+1951,5,act_arr_time,1:15 p.m.,-1
+1952,2,sched_dep_time,2ma.0. :10,1
+1953,3,act_dep_time,11:30 a.m.,-1
+1954,4,sched_arr_time,4:57 p.m.o,1
+1955,1,flight,UA-3050-PHX-CLT,-1
+1956,5,act_arr_time,x5:05 p.m.,1
+1957,0,src,flightaware,-1
+1958,3,act_dep_time,H11:30 a.m.,1
+1959,4,sched_arr_time,4:57 p.m.,-1
+1960,0,src,wvhtilgfie,1
+1961,4,sched_arr_time,4:57 p.m.,-1
+1962,1,flight,XT3U-0LHP--5C0A,1
+1963,3,act_dep_time,11:30 a.m.,-1
+1964,3,act_dep_time,m01a1. :.3,1
+1965,5,act_arr_time,5:05 p.m.,-1
+1966,5,act_arr_time,p.:50m5 .,1
+1967,1,flight,UA-3050-PHX-CLT,-1
+1968,0,src,mytripandmoreY,1
+1969,2,sched_dep_time,11:05 a.m.,-1
+1970,4,sched_arr_time,z4:57 p.m.,1
+1971,5,act_arr_time,5:05 p.m.,-1
+1972,2,sched_dep_time,11:05 a.m.h,1
+1973,0,src,ua,-1
+1974,3,act_dep_time,11:30 a.m.G,1
+1975,1,flight,UA-3050-PHX-CLT,-1
+1976,2,sched_dep_time,11:05 a.m.X,1
+1977,2,sched_dep_time,11:05 a.m.,-1
+1978,5,act_arr_time,,1
+1979,1,flight,UA-3099-PHX-PHL,-1
+1980,1,flight,,1
+1981,1,flight,UA-3099-PHX-PHL,-1
+1982,1,flight,U-PP9H-3-09LAXH,1
+1983,5,act_arr_time,5:38 p.m.,-1
+1984,4,sched_arr_time,6 .:1.p7m,1
+1985,4,sched_arr_time,6:17 p.m.,-1
+1986,0,src,flylouisvilleR,1
+1987,4,sched_arr_time,6:17 p.m.,-1
+1988,0,src,,1
+1989,3,act_dep_time,11:55 a.m.,-1
+1990,4,sched_arr_time,,1
+1991,0,src,ifly,-1
+1992,4,sched_arr_time,,1
+1993,5,act_arr_time,5:38 p.m.,-1
+1994,3,act_dep_time,: 115a.m.5,1
+1995,3,act_dep_time,11:55 a.m.,-1
+1996,0,src,travelocityf,1
+1997,4,sched_arr_time,6:17 p.m.,-1
+1998,4,sched_arr_time,p :..m617,1
+1999,3,act_dep_time,11:55 a.m.,-1
+2000,1,flight,UA-3099-PHX-PHLN,1
+2001,0,src,airtravelcenter,-1
+2002,1,flight,PUA-3373-IAD-PHL,1
+2003,1,flight,UA-3373-IAD-PHL,-1
+2004,0,src,stlsalbneiuevsgoreu,1
+2005,2,sched_dep_time,8:29 a.m.,-1
+2006,4,sched_arr_time,4m2.: 9a.,1
+2007,1,flight,UA-3373-IAD-PHL,-1
+2008,4,sched_arr_time,.a4 92.m:,1
+2009,0,src,flightview,-1
+2010,0,src,,1
+2011,3,act_dep_time,8:26 a.m.,-1
+2012,0,src,,1
+2013,5,act_arr_time,9:13 a.m.,-1
+2014,5,act_arr_time,Y9:13 a.m.,1
+2015,5,act_arr_time,9:13 a.m.,-1
+2016,4,sched_arr_time,P9:24 a.m.,1
+2017,1,flight,UA-3373-IAD-PHL,-1
+2018,1,flight,,1
+2019,4,sched_arr_time,9:24 a.m.,-1
+2020,2,sched_dep_time,,1
+2021,5,act_arr_time,9:13 a.m.,-1
+2022,4,sched_arr_time,L9:24 a.m.,1
+2023,3,act_dep_time,8:26 a.m.,-1
+2024,0,src,airtravelcenterN,1
+2025,1,flight,UA-3515-IAD-MSP,-1
+2026,5,act_arr_time,,1
+2027,4,sched_arr_time,10:06 a.m.,-1
+2028,0,src,kflights,1
+2029,3,act_dep_time,8:12 a.m.,-1
+2030,2,sched_dep_time,8:15 a.m.m,1
+2031,2,sched_dep_time,8:15 a.m.,-1
+2032,5,act_arr_time,v9:56 a.m.,1
+2033,4,sched_arr_time,10:06 a.m.,-1
+2034,4,sched_arr_time,1a6:m.0.0 ,1
+2035,0,src,helloflight,-1
+2036,5,act_arr_time,O9:56 a.m.,1
+2037,1,flight,UA-3515-IAD-MSP,-1
+2038,0,src,panynjF,1
+2039,5,act_arr_time,9:56 a.m.,-1
+2040,0,src,travelocityx,1
+2041,2,sched_dep_time,8:15 a.m.,-1
+2042,1,flight,UA-3515-IAD-MSPc,1
+2043,4,sched_arr_time,10:06 a.m.,-1
+2044,5,act_arr_time,12:09 p.m.C,1
+2045,0,src,allegiantair,-1
+2046,3,act_dep_time,:5.m .28a,1
+2047,3,act_dep_time,8:52 a.m.,-1
+2048,0,src,flightarrivalb,1
+2049,5,act_arr_time,12:09 p.m.,-1
+2050,1,flight,BUA-37-EDI-EWR,1
+2051,2,sched_dep_time,9:05 a.m.,-1
+2052,2,sched_dep_time,9:05 a.m.C,1
+2053,0,src,foxbusiness,-1
+2054,1,flight,WAIE7RD-U3--E,1
+2055,3,act_dep_time,8:52 a.m.,-1
+2056,1,flight,sUA-37-EDI-EWR,1
+2057,0,src,mytripandmore,-1
+2058,5,act_arr_time,:19m2.p 0.,1
+2059,2,sched_dep_time,9:05 a.m.,-1
+2060,4,sched_arr_time,,1
+2061,4,sched_arr_time,11:53 a.m.,-1
+2062,0,src,,1
+2063,2,sched_dep_time,9:05 a.m.,-1
+2064,1,flight,73MUC-W-OEA-R,1
+2065,2,sched_dep_time,1:29 p.m.,-1
+2066,1,flight,DUA-37-EWR-MCO,1
+2067,1,flight,UA-37-EWR-MCO,-1
+2068,4,sched_arr_time,W4:17 p.m.,1
+2069,1,flight,UA-37-EWR-MCO,-1
+2070,0,src,,1
+2071,4,sched_arr_time,4:17 p.m.,-1
+2072,0,src,tigtftsslha,1
+2073,1,flight,UA-37-EWR-MCO,-1
+2074,3,act_dep_time,1:48 p.m.q,1
+2075,3,act_dep_time,1:48 p.m.,-1
+2076,5,act_arr_time,.:4m1p .7,1
+2077,4,sched_arr_time,4:17 p.m.,-1
+2078,0,src,lifltehgolh,1
+2079,4,sched_arr_time,4:17 p.m.,-1
+2080,5,act_arr_time,4:17 p.m.V,1
+2081,5,act_arr_time,4:17 p.m.,-1
+2082,4,sched_arr_time,:m p714..,1
+2083,3,act_dep_time,1:48 p.m.,-1
+2084,1,flight,wUA-37-EWR-MCO,1
+2085,5,act_arr_time,3:21 p.m.,-1
+2086,5,act_arr_time,,1
+2087,5,act_arr_time,3:21 p.m.,-1
+2088,1,flight,2DL-X-3-IAAA8U,1
+2089,3,act_dep_time,12:35 p.m.,-1
+2090,0,src,lflightaware,1
+2091,2,sched_dep_time,12:30 p.m.,-1
+2092,1,flight,UA-382-IAD-LAXk,1
+2093,5,act_arr_time,3:21 p.m.,-1
+2094,3,act_dep_time,V12:35 p.m.,1
+2095,5,act_arr_time,3:21 p.m.,-1
+2096,3,act_dep_time,. :5m1.32p,1
+2097,2,sched_dep_time,12:30 p.m.,-1
+2098,3,act_dep_time,12:35 p.m.K,1
+2099,1,flight,UA-382-IAD-LAX,-1
+2100,0,src,iadc,1
+2101,3,act_dep_time,12:35 p.m.,-1
+2102,0,src,vmytripandmore,1
+2103,5,act_arr_time,3:21 p.m.,-1
+2104,0,src,panynjW,1
+2105,4,sched_arr_time,3:19 p.m.,-1
+2106,4,sched_arr_time, pm19.:.3,1
+2107,4,sched_arr_time,3:19 p.m.,-1
+2108,0,src,,1
+2109,0,src,airtravelcenter,-1
+2110,1,flight,UA-3925-IAD-ORFX,1
+2111,3,act_dep_time,8:42 a.m.,-1
+2112,3,act_dep_time,8:42 a.m.M,1
+2113,1,flight,UA-3925-IAD-ORF,-1
+2114,0,src,flightawareL,1
+2115,3,act_dep_time,8:42 a.m.,-1
+2116,3,act_dep_time,8:42 a.m.m,1
+2117,1,flight,UA-3925-IAD-ORF,-1
+2118,0,src,Oflightview,1
+2119,3,act_dep_time,8:42 a.m.,-1
+2120,1,flight,DUA-3925-IAD-ORF,1
+2121,3,act_dep_time,8:42 a.m.,-1
+2122,3,act_dep_time,8:42 a.m.M,1
+2123,0,src,gofox,-1
+2124,1,flight,,1
+2125,3,act_dep_time,8:42 a.m.,-1
+2126,4,sched_arr_time,945a.m: .,1
+2127,1,flight,UA-3925-IAD-ORF,-1
+2128,0,src,,1
+2129,1,flight,UA-3925-IAD-ORF,-1
+2130,4,sched_arr_time,9:54 a.m.Z,1
+2131,3,act_dep_time,8:42 a.m.,-1
+2132,2,sched_dep_time,4.1m8:a. ,1
+2133,2,sched_dep_time,8:41 a.m.,-1
+2134,1,flight,59OFI-RAA--D23U,1
+2135,5,act_arr_time,9:43 a.m.,-1
+2136,4,sched_arr_time,11:55 a.m.r,1
+2137,5,act_arr_time,11:58 a.m.,-1
+2138,4,sched_arr_time,5115.:m .a,1
+2139,3,act_dep_time,8:29 a.m.,-1
+2140,1,flight,FAO-3-KU-S9F7J,1
+2141,2,sched_dep_time,8:00 a.m.,-1
+2142,0,src,,1
+2143,3,act_dep_time,8:29 a.m.,-1
+2144,2,sched_dep_time,,1
+2145,2,sched_dep_time,8:00 a.m.,-1
+2146,1,flight,,1
+2147,1,flight,UA-397-JFK-SFO,-1
+2148,5,act_arr_time,11:58 a.m.c,1
+2149,4,sched_arr_time,11:55 a.m.,-1
+2150,5,act_arr_time,m5.a:. 118,1
+2151,2,sched_dep_time,8:00 a.m.,-1
+2152,2,sched_dep_time,F8:00 a.m.,1
+2153,0,src,sfo,-1
+2154,4,sched_arr_time,,1
+2155,1,flight,UA-397-JFK-SFO,-1
+2156,2,sched_dep_time,.8:0. ma0,1
+2157,1,flight,UA-397-JFK-SFO,-1
+2158,3,act_dep_time,5:56 a.m.e,1
+2159,3,act_dep_time,5:56 a.m.,-1
+2160,3,act_dep_time,6 ..:am55,1
+2161,1,flight,UA-414-LAX-SFO,-1
+2162,5,act_arr_time,:.7a7 m1.,1
+2163,0,src,flightexplorer,-1
+2164,5,act_arr_time,7 a.m7.:1,1
+2165,5,act_arr_time,7:17 a.m.,-1
+2166,0,src,flightviewH,1
+2167,1,flight,UA-414-LAX-SFO,-1
+2168,0,src,flytecommq,1
+2169,1,flight,UA-414-LAX-SFO,-1
+2170,3,act_dep_time,:a5 ..m65,1
+2171,5,act_arr_time,7:17 a.m.,-1
+2172,1,flight,4-F1XAO-AU-LS4,1
+2173,5,act_arr_time,7:17 a.m.,-1
+2174,2,sched_dep_time,y6:00 a.m.,1
+2175,0,src,quicktrip,-1
+2176,4,sched_arr_time,,1
+2177,4,sched_arr_time,7:23 a.m.,-1
+2178,2,sched_dep_time,6:00 a.m.Q,1
+2179,0,src,usatoday,-1
+2180,3,act_dep_time,,1
+2181,3,act_dep_time,10:33 a.m.,-1
+2182,1,flight,R-4-M8SAF57YO-U,1
+2183,0,src,boston,-1
+2184,4,sched_arr_time,1:.19.am1 ,1
+2185,5,act_arr_time,11:21 a.m.,-1
+2186,2,sched_dep_time,10:39 a.m.h,1
+2187,4,sched_arr_time,11:19 a.m.,-1
+2188,2,sched_dep_time,3 .01a.m9:,1
+2189,2,sched_dep_time,10:39 a.m.,-1
+2190,3,act_dep_time,10:33 a.m.r,1
+2191,0,src,gofox,-1
+2192,1,flight,,1
+2193,5,act_arr_time,11:21 a.m.,-1
+2194,5,act_arr_time,,1
+2195,3,act_dep_time,10:33 a.m.,-1
+2196,0,src,,1
+2197,3,act_dep_time,10:33 a.m.,-1
+2198,3,act_dep_time,,1
+2199,3,act_dep_time,2:48 p.m.,-1
+2200,0,src,aiitganlearl,1
+2201,3,act_dep_time,2:48 p.m.,-1
+2202,1,flight,--UR2W6A-HAEI,1
+2203,0,src,flights,-1
+2204,4,sched_arr_time,: p7m.30.,1
+2205,1,flight,UA-62-IAH-EWR,-1
+2206,3,act_dep_time,42mp8..: ,1
+2207,5,act_arr_time,7:10 p.m.,-1
+2208,4,sched_arr_time,,1
+2209,1,flight,UA-62-IAH-EWR,-1
+2210,2,sched_dep_time,,1
+2211,5,act_arr_time,7:10 p.m.,-1
+2212,2,sched_dep_time,2:30 p.m.g,1
+2213,4,sched_arr_time,7:03 p.m.,-1
+2214,3,act_dep_time,2:48 p.m.x,1
+2215,2,sched_dep_time,2:30 p.m.,-1
+2216,1,flight,,1
+2217,3,act_dep_time,2:48 p.m.,-1
+2218,0,src,gweather,1
+2219,2,sched_dep_time,7:35 a.m.,-1
+2220,1,flight,F-SYOCA63U7Y-2-,1
+2221,4,sched_arr_time,9:43 a.m.,-1
+2222,3,act_dep_time,7:27 a.m.Z,1
+2223,5,act_arr_time,8:45 a.m.,-1
+2224,3,act_dep_time,7:27 a.m.w,1
+2225,0,src,flights,-1
+2226,2,sched_dep_time,. 5m:7a.3,1
+2227,2,sched_dep_time,7:35 a.m.,-1
+2228,2,sched_dep_time,Z7:35 a.m.,1
+2229,3,act_dep_time,7:27 a.m.,-1
+2230,3,act_dep_time,a.7 2:m.7,1
+2231,5,act_arr_time,8:45 a.m.,-1
+2232,5,act_arr_time,n8:45 a.m.,1
+2233,2,sched_dep_time,7:35 a.m.,-1
+2234,4,sched_arr_time,,1
+2235,0,src,panynj,-1
+2236,4,sched_arr_time,9:43 a.m.X,1
+2237,3,act_dep_time,7:27 a.m.,-1
+2238,5,act_arr_time,L8:45 a.m.,1
+2239,4,sched_arr_time,9:43 a.m.,-1
+2240,1,flight,,1
+2241,5,act_arr_time,4:23 p.m.,-1
+2242,4,sched_arr_time,4:31 p.m.S,1
+2243,2,sched_dep_time,1:33 p.m.,-1
+2244,5,act_arr_time,,1
+2245,1,flight,UA-664-ORD-PHL,-1
+2246,3,act_dep_time,m1:31 p.m.,1
+2247,2,sched_dep_time,1:33 p.m.,-1
+2248,4,sched_arr_time,j4:31 p.m.,1
+2249,1,flight,UA-664-ORD-PHL,-1
+2250,4,sched_arr_time,4:31 p.m.U,1
+2251,3,act_dep_time,1:31 p.m.,-1
+2252,2,sched_dep_time,1:33 p.m.c,1
+2253,0,src,foxbusiness,-1
+2254,4,sched_arr_time,4:31 p.m.M,1
+2255,2,sched_dep_time,1:33 p.m.,-1
+2256,4,sched_arr_time,3m.p 4:1.,1
+2257,4,sched_arr_time,4:31 p.m.,-1
+2258,4,sched_arr_time,3 .1.m:p4,1
+2259,1,flight,UA-664-ORD-PHL,-1
+2260,4,sched_arr_time,.4p31. :m,1
+2261,1,flight,UA-664-ORD-PHL,-1
+2262,4,sched_arr_time,A4:31 p.m.,1
+2263,4,sched_arr_time,4:31 p.m.,-1
+2264,5,act_arr_time,4:23 p.m.E,1
+2265,2,sched_dep_time,1:33 p.m.,-1
+2266,5,act_arr_time,d4:23 p.m.,1
+2267,2,sched_dep_time,1:33 p.m.,-1
+2268,5,act_arr_time,a4:23 p.m.,1
+2269,4,sched_arr_time,5:11 a.m.,-1
+2270,1,flight,8UOD-R2FS-8OA-,1
+2271,2,sched_dep_time,11:08 p.m.,-1
+2272,2,sched_dep_time,t11:08 p.m.,1
+2273,0,src,flightarrival,-1
+2274,1,flight,eUA-828-SFO-ORD,1
+2275,1,flight,UA-828-SFO-ORD,-1
+2276,4,sched_arr_time,5:11 a.m.u,1
+2277,3,act_dep_time,11:08 p.m.,-1
+2278,1,flight,FAR-OU-O82-8DS,1
+2279,5,act_arr_time,5:11 a.m.,-1
+2280,2,sched_dep_time,,1
+2281,3,act_dep_time,11:08 p.m.,-1
+2282,2,sched_dep_time,,1
+2283,5,act_arr_time,5:11 a.m.,-1
+2284,3,act_dep_time,G11:08 p.m.,1
+2285,0,src,mytripandmore,-1
+2286,2,sched_dep_time,0p.1:m18. ,1
+2287,0,src,ord,-1
+2288,4,sched_arr_time,5:11 a.m.d,1
+2289,1,flight,UA-828-SFO-ORD,-1
+2290,5,act_arr_time,,1
+2291,2,sched_dep_time,11:08 p.m.,-1
+2292,0,src,,1
+2293,1,flight,UA-843-LAX-ORD,-1
+2294,3,act_dep_time,,1
+2295,2,sched_dep_time,1:55 p.m.,-1
+2296,2,sched_dep_time,5.:m.p51 ,1
+2297,3,act_dep_time,2:10 p.m.,-1
+2298,2,sched_dep_time,A1:55 p.m.,1
+2299,5,act_arr_time,7:58 p.m.,-1
+2300,3,act_dep_time,2:m0 ..p1,1
+2301,5,act_arr_time,7:58 p.m.,-1
+2302,2,sched_dep_time,U1:55 p.m.,1
+2303,4,sched_arr_time,7:53 p.m.,-1
+2304,3,act_dep_time,n2:10 p.m.,1
+2305,2,sched_dep_time,1:55 p.m.,-1
+2306,2,sched_dep_time,,1
+2307,5,act_arr_time,7:58 p.m.,-1
+2308,4,sched_arr_time,,1
+2309,3,act_dep_time,2:10 p.m.,-1
+2310,4,sched_arr_time,35m.. p7:,1
+2311,3,act_dep_time,2:10 p.m.,-1
+2312,3,act_dep_time,:.p0m1. 2,1
+2313,2,sched_dep_time,1:55 p.m.,-1
+2314,1,flight,UA-854-SFO-IAHK,1
+2315,5,act_arr_time,1:30 p.m.,-1
+2316,2,sched_dep_time,,1
+2317,0,src,businesstravellogue,-1
+2318,0,src,yflightarrival,1
+2319,5,act_arr_time,1:30 p.m.,-1
+2320,1,flight,zUA-854-SFO-IAH,1
+2321,0,src,flightview,-1
+2322,3,act_dep_time,,1
+2323,5,act_arr_time,1:30 p.m.,-1
+2324,3,act_dep_time,:a.m 47.9,1
+2325,0,src,gofox,-1
+2326,2,sched_dep_time,O7:53 a.m.,1
+2327,3,act_dep_time,7:49 a.m.,-1
+2328,2,sched_dep_time,U7:53 a.m.,1
+2329,0,src,panynj,-1
+2330,3,act_dep_time,m7. .a4:9,1
+2331,2,sched_dep_time,7:53 a.m.,-1
+2332,0,src,au,1
+2333,0,src,usatoday,-1
+2334,4,sched_arr_time,,1
+2335,3,act_dep_time,1:32 p.m.,-1
+2336,5,act_arr_time,E8:02 a.m.,1
+2337,0,src,boston,-1
+2338,4,sched_arr_time,,1
+2339,2,sched_dep_time,1:45 p.m.,-1
+2340,4,sched_arr_time,:82..7a m,1
+2341,4,sched_arr_time,8:27 a.m.,-1
+2342,5,act_arr_time,:a2m. 08.,1
+2343,3,act_dep_time,1:32 p.m.,-1
+2344,3,act_dep_time,1:32 p.m.n,1
+2345,0,src,gofox,-1
+2346,5,act_arr_time,8:02 a.m.G,1
+2347,5,act_arr_time,8:02 a.m.,-1
+2348,1,flight,uUA-858-PVG-SFO,1
+2349,3,act_dep_time,1:32 p.m.,-1
+2350,0,src,,1
+2351,4,sched_arr_time,8:27 a.m.,-1
+2352,4,sched_arr_time,F8:27 a.m.,1
+2353,3,act_dep_time,4:15 p.m.,-1
+2354,0,src,ileanlaargti,1
+2355,0,src,boston,-1
+2356,2,sched_dep_time,f4:16 p.m.,1
+2357,5,act_arr_time,7:36 p.m.,-1
+2358,2,sched_dep_time,4:16 p.m.W,1
+2359,5,act_arr_time,7:36 p.m.,-1
+2360,4,sched_arr_time,,1
+2361,4,sched_arr_time,7:35 p.m.,-1
+2362,4,sched_arr_time,B7:35 p.m.,1
+2363,0,src,flylouisville,-1
+2364,3,act_dep_time,D4:15 p.m.,1
+2365,1,flight,UA-938-DEN-ORD,-1
+2366,5,act_arr_time,,1
+2367,4,sched_arr_time,7:35 p.m.,-1
+2368,0,src,,1
+2369,2,sched_dep_time,4:16 p.m.,-1
+2370,5,act_arr_time,j7:36 p.m.,1
+2371,1,flight,UA-938-DEN-ORD,-1
+2372,4,sched_arr_time,7:35 p.m.V,1
+2373,5,act_arr_time,7:36 p.m.,-1
+2374,4,sched_arr_time,Y7:35 p.m.,1
+2375,4,sched_arr_time,7:35 p.m.,-1
